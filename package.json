@@ -9,8 +9,8 @@
   "scripts": {
     "start": "ts-node dist/index.js",
     "dev": "ts-node src/index.ts",
-    "api": "ts-node src/api.ts",
-    "api:dev": "ts-node --watch src/api.ts",
+    "api": "node src/api.js",
+    "api:dev": "nodemon src/api.js",
     "build": "tsc",
     "scrape:single": "npm run build && MATCH_URL=\"https://www.cricketbaroda.com/match/17797270/Y.S.C-Women-vs-Combined-Disrict-Women---1\" ts-node dist/index.js single",
     "scrape:pipeline": "npm run build && ts-node dist/index.js pipeline",
@@ -45,6 +45,7 @@
     "eslint": "^9.35.0",
     "eslint-config-prettier": "^10.1.8",
     "jest": "^29.7.0",
+    "nodemon": "^3.1.10",
     "prettier": "^3.6.2",
     "ts-jest": "^29.4.1",
     "ts-node": "^9.1.1",
