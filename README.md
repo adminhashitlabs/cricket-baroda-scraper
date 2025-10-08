@@ -448,6 +448,49 @@ The application includes comprehensive error handling:
 - **NetworkError**: Network-related issues
 - **TimeoutError**: Operation timeouts
 
+## 📖 Documentation
+
+- **[Contributing Guide](CONTRIBUTING.md)** - How to contribute to the project
+- **[Development History](DEVELOPMENT_HISTORY.md)** - Project timeline and architectural decisions
+- **[Changelog](CHANGELOG.md)** - Version history and release notes
+- **[API Documentation](API.md)** - Technical API reference (when available)
+
+## 👥 Team Collaboration
+
+This project is designed for team development with:
+
+- **GitHub Issues** for bug tracking and feature requests
+- **Pull Request reviews** for code quality assurance
+- **CI/CD pipeline** for automated testing
+- **Development history** documentation for context
+- **Contributing guidelines** for consistent development practices
+
+### Getting Started for Team Members
+
+1. **Clone the repository:**
+   ```bash
+   git clone git@github.com:adminhashitlabs/cricket-baroda-scraper.git
+   cd cricket-baroda-scraper
+   ```
+
+2. **Set up development environment:**
+   ```bash
+   npm install
+   npm test  # Verify everything works
+   ```
+
+3. **Read the development context:**
+   ```bash
+   cat DEVELOPMENT_HISTORY.md  # Understand project history
+   cat CONTRIBUTING.md         # Learn contribution guidelines
+   ```
+
+4. **Start developing:**
+   ```bash
+   npm run cli players  # Test player extraction
+   npm run cli match    # Test match scraping
+   ```
+
 ## 🤝 Contributing
 
 1. Fork the repository
