@@ -1,0 +1,906 @@
+{
+  "match": {
+    "url": "https://www.cricketbaroda.com/match/17801317/Advick-Cricket-Academy-Women-vs-Y.S.C-Women",
+    "title": "Baroda Cricket Association",
+    "teams": [],
+    "score": "",
+    "result": "Advick Cricket Academy Women won by 20 runs",
+    "venue": "",
+    "date": "",
+    "matchType": ""
+  },
+  "players": {
+    "total": 0,
+    "team1": [],
+    "team2": [],
+    "allPlayers": []
+  },
+  "commentary": {
+    "total": 175,
+    "overs": 0,
+    "wickets": 0,
+    "items": [
+      {
+        "text": "Advick Cricket Academy Women121/4(20.0 Ov)Y.S.C Women101/8(20.0 Ov)Advick Cricket Academy Women won by 20 runs",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "Advick Cricket Academy Women won by 20 runs",
+        "type": "general",
+        "element": "p"
+      },
+      {
+        "text": "Advick Cricket Academy WomenY.S.C WomenAll CommentaryWickets CommentaryBoundaries Commentary",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "All CommentaryWickets CommentaryBoundaries Commentary",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "All CommentaryWickets CommentaryBoundaries Commentary",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "All CommentaryWickets CommentaryBoundaries Commentary",
+        "type": "general",
+        "element": "select"
+      },
+      {
+        "text": "End of over 209 Runs 0 Wkts121/4Hani Patel*36 (24)Prapti Raval16 (25)Jaya Mohite4-0-4-0Sneha Baria4-0-4-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 209 Runs 0 Wkts121/4",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 209 Runs 0 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "19.51Jaya Mohite to Prapti Raval, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "19.41Jaya Mohite to Hani Patel, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "19.31Jaya Mohite to Prapti Raval, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "19.21Jaya Mohite to Hani Patel, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "19.11Jaya Mohite to Prapti Raval, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 1910 Runs 0 Wkts112/4Hani Patel*30 (21)Prapti Raval13 (22)Sneha Baria4-0-4-0TANVIR SHAIKH2-0-2-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 1910 Runs 0 Wkts112/4",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 1910 Runs 0 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "18.60Sneha Baria to Hani Patel, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "18.50Sneha Baria to Hani Patel, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "18.32Sneha Baria to Hani Patel, 2 runs",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "18.10Sneha Baria to Hani Patel, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 188 Runs 0 Wkts102/4Hani Patel*20 (15)Prapti Raval13 (22)TANVIR SHAIKH2-0-2-0Sneha Baria3-0-3-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 188 Runs 0 Wkts102/4",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 188 Runs 0 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "17.60TANVIR SHAIKH to Prapti Raval, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "17.51TANVIR SHAIKH to Hani Patel, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "17.42TANVIR SHAIKH to Hani Patel, 2 runs",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "17.31TANVIR SHAIKH to Prapti Raval, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "17.22TANVIR SHAIKH to Prapti Raval, 2 runs",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "17.11TANVIR SHAIKH to Hani Patel, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 176 Runs 0 Wkts94/4Hani Patel*16 (12)Prapti Raval10 (19)Sneha Baria3-0-3-0RIDDHI MAURYA3-0-3-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 176 Runs 0 Wkts94/4",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 176 Runs 0 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "16.61Sneha Baria to Hani Patel, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "16.51Sneha Baria to Prapti Raval, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "16.40Sneha Baria to Prapti Raval, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "16.32Sneha Baria to Prapti Raval, 2 runs",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "16.20Sneha Baria to Prapti Raval, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "16.1BSneha Baria to Prapti Raval, bye, 2 runs",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 1610 Runs 0 Wkts88/4Hani Patel*15 (11)Prapti Raval7 (14)RIDDHI MAURYA3-0-3-0Sneha Baria2-0-2-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 1610 Runs 0 Wkts88/4",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 1610 Runs 0 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "15.62RIDDHI MAURYA to Hani Patel, 2 runs",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "15.41RIDDHI MAURYA to Prapti Raval, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "15.31RIDDHI MAURYA to Hani Patel, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "15.21RIDDHI MAURYA to Prapti Raval, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "15.11RIDDHI MAURYA to Hani Patel, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 154 Runs 0 Wkts78/4Hani Patel*7 (7)Prapti Raval5 (12)Sneha Baria2-0-2-0BHUMIKA RATHOD4-0-4-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 154 Runs 0 Wkts78/4",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 154 Runs 0 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "14.60Sneha Baria to Prapti Raval, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "14.50Sneha Baria to Prapti Raval, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "14.4BSneha Baria to Hani Patel, bye, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "14.31Sneha Baria to Prapti Raval, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "14.21Sneha Baria to Hani Patel, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "14.11Sneha Baria to Prapti Raval, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 148 Runs 0 Wkts74/4Hani Patel*6 (5)Prapti Raval3 (8)BHUMIKA RATHOD4-0-4-0Jaya Mohite3-0-3-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 148 Runs 0 Wkts74/4",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 148 Runs 0 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "13.60BHUMIKA RATHOD to Hani Patel, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "13.41BHUMIKA RATHOD to Prapti Raval, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "13.31BHUMIKA RATHOD to Hani Patel, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "13.20BHUMIKA RATHOD to Hani Patel, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "13.11BHUMIKA RATHOD to Prapti Raval, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 132 Runs 1 Wkts66/4Hani Patel*1 (1)Prapti Raval1 (6)Jaya Mohite3-0-3-0BHUMIKA RATHOD3-0-3-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 132 Runs 1 Wkts66/4",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 132 Runs 1 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "12.61Jaya Mohite to Prapti Raval, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "12.50Jaya Mohite to Prapti Raval, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "12.40Jaya Mohite to Prapti Raval, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "12.31Jaya Mohite to Hani Patel, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "12.2WJaya Mohite to Mesvi Pokar, OUT LBWMesvi Pokar lbw b Jaya Mohite (40r 37b 5x4s 1x6s SR: 108.11)",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "Jaya Mohite to Mesvi Pokar, OUT LBWMesvi Pokar lbw b Jaya Mohite (40r 37b 5x4s 1x6s SR: 108.11)",
+        "type": "general",
+        "element": "p"
+      },
+      {
+        "text": "Jaya Mohite to Mesvi Pokar, OUT LBW",
+        "type": "general",
+        "element": "span"
+      },
+      {
+        "text": "12.10Jaya Mohite to Mesvi Pokar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 123 Runs 1 Wkts64/3Mesvi Pokar*40 (35)Prapti Raval0 (3)BHUMIKA RATHOD3-0-3-0Jaya Mohite2-0-2-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 123 Runs 1 Wkts64/3",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 123 Runs 1 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "11.60BHUMIKA RATHOD to Prapti Raval, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "11.50BHUMIKA RATHOD to Prapti Raval, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "11.40BHUMIKA RATHOD to Prapti Raval, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "BHUMIKA RATHOD to Surbhi Chauhan, OUT Caught out, Caught by Amrita Joseph",
+        "type": "general",
+        "element": "span"
+      },
+      {
+        "text": "11.21BHUMIKA RATHOD to Mesvi Pokar, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "11.11BHUMIKA RATHOD to Surbhi Chauhan, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 113 Runs 0 Wkts61/2Mesvi Pokar*39 (34)Surbhi Chauhan9 (12)Jaya Mohite2-0-2-0Janki Rathod2-0-2-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 113 Runs 0 Wkts61/2",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 113 Runs 0 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "10.6BJaya Mohite to Surbhi Chauhan, bye, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "10.50Jaya Mohite to Surbhi Chauhan, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "10.40Jaya Mohite to Surbhi Chauhan, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "10.30Jaya Mohite to Surbhi Chauhan, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "10.21Jaya Mohite to Mesvi Pokar, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "10.11Jaya Mohite to Surbhi Chauhan, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 1012 Runs 0 Wkts58/2Mesvi Pokar*38 (33)Surbhi Chauhan8 (7)Janki Rathod2-0-2-0Jaya Mohite1-0-1-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 1012 Runs 0 Wkts58/2",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 1012 Runs 0 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "9.52Janki Rathod to Mesvi Pokar, 2 runs",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "9.41Janki Rathod to Surbhi Chauhan, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "9.20Janki Rathod to Surbhi Chauhan, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "9.11Janki Rathod to Mesvi Pokar, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 94 Runs 1 Wkts46/2Mesvi Pokar*31 (30)Surbhi Chauhan3 (4)Jaya Mohite1-0-1-0Janki Rathod1-0-1-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 94 Runs 1 Wkts46/2",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 94 Runs 1 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "8.60Jaya Mohite to Surbhi Chauhan, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "8.52Jaya Mohite to Surbhi Chauhan, 2 runs",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "8.4LBJaya Mohite to Mesvi Pokar, leg bye, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "8.31Jaya Mohite to Surbhi Chauhan, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "8.20Jaya Mohite to Surbhi Chauhan, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 84 Runs 0 Wkts42/1Mesvi Pokar*31 (29)Pratha Vanar6 (16)Janki Rathod1-0-1-0Sneha Baria1-0-1-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 84 Runs 0 Wkts42/1",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 84 Runs 0 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "7.60Janki Rathod to Mesvi Pokar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "7.52Janki Rathod to Mesvi Pokar, 2 runs",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "7.40Janki Rathod to Mesvi Pokar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "7.31Janki Rathod to Pratha Vanar, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "7.20Janki Rathod to Pratha Vanar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "7.11Janki Rathod to Mesvi Pokar, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 78 Runs 0 Wkts38/1Mesvi Pokar*28 (25)Pratha Vanar5 (14)Sneha Baria1-0-1-0TANVIR SHAIKH1-0-1-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 78 Runs 0 Wkts38/1",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 78 Runs 0 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "6.61Sneha Baria to Mesvi Pokar, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "6.50Sneha Baria to Mesvi Pokar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "6.30Sneha Baria to Mesvi Pokar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "6.20Sneha Baria to Mesvi Pokar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "6.11Sneha Baria to Pratha Vanar, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 68 Runs 0 Wkts30/1Mesvi Pokar*21 (20)Pratha Vanar4 (13)TANVIR SHAIKH1-0-1-0BHUMIKA RATHOD2-0-2-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 68 Runs 0 Wkts30/1",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 68 Runs 0 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "5.40TANVIR SHAIKH to Mesvi Pokar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "5.30TANVIR SHAIKH to Mesvi Pokar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "5.20TANVIR SHAIKH to Mesvi Pokar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "5.10TANVIR SHAIKH to Mesvi Pokar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 55 Runs 0 Wkts22/1Mesvi Pokar*13 (14)Pratha Vanar4 (13)BHUMIKA RATHOD2-0-2-0RIDDHI MAURYA2-0-2-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 55 Runs 0 Wkts22/1",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 55 Runs 0 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "4.60BHUMIKA RATHOD to Pratha Vanar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "4.51BHUMIKA RATHOD to Mesvi Pokar, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "4.40BHUMIKA RATHOD to Mesvi Pokar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "4.30BHUMIKA RATHOD to Mesvi Pokar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "4.10BHUMIKA RATHOD to Mesvi Pokar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 45 Runs 0 Wkts17/1Mesvi Pokar*8 (9)Pratha Vanar4 (12)RIDDHI MAURYA2-0-2-0BHUMIKA RATHOD1-0-1-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 45 Runs 0 Wkts17/1",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 45 Runs 0 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "3.60RIDDHI MAURYA to Pratha Vanar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "3.50RIDDHI MAURYA to Pratha Vanar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "3.40RIDDHI MAURYA to Pratha Vanar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "3.30RIDDHI MAURYA to Pratha Vanar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "3.11RIDDHI MAURYA to Mesvi Pokar, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 32 Runs 0 Wkts12/1Mesvi Pokar*7 (8)Pratha Vanar0 (7)BHUMIKA RATHOD1-0-1-0RIDDHI MAURYA1-0-1-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 32 Runs 0 Wkts12/1",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 32 Runs 0 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "2.60BHUMIKA RATHOD to Pratha Vanar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "2.50BHUMIKA RATHOD to Pratha Vanar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "2.40BHUMIKA RATHOD to Pratha Vanar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "2.30BHUMIKA RATHOD to Pratha Vanar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "2.20BHUMIKA RATHOD to Pratha Vanar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "2.11BHUMIKA RATHOD to Mesvi Pokar, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 21 Runs 1 Wkts10/1Mesvi Pokar*6 (7)Pratha Vanar0 (2)RIDDHI MAURYA1-0-1-0MAITHILI GANJALE1-0-1-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 21 Runs 1 Wkts10/1",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 21 Runs 1 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "1.60RIDDHI MAURYA to Pratha Vanar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "1.50RIDDHI MAURYA to Pratha Vanar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "1.4WRIDDHI MAURYA to Vani Bamania, OUT Caught out, Caught by Amrita JosephVani Bamania c Amrita Joseph b RIDDHI MAURYA (4r 3b 1x4s 0x6s SR: 133.33)",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "RIDDHI MAURYA to Vani Bamania, OUT Caught out, Caught by Amrita JosephVani Bamania c Amrita Joseph b RIDDHI MAURYA (4r 3b 1x4s 0x6s SR: 133.33)",
+        "type": "general",
+        "element": "p"
+      },
+      {
+        "text": "RIDDHI MAURYA to Vani Bamania, OUT Caught out, Caught by Amrita Joseph",
+        "type": "general",
+        "element": "span"
+      },
+      {
+        "text": "1.31RIDDHI MAURYA to Mesvi Pokar, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "1.20RIDDHI MAURYA to Mesvi Pokar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "1.10RIDDHI MAURYA to Mesvi Pokar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 19 Runs 0 Wkts9/0Mesvi Pokar*5 (4)Vani Bamania4 (2)MAITHILI GANJALE1-0-1-0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 19 Runs 0 Wkts9/0",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "End of over 19 Runs 0 Wkts",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "0.60MAITHILI GANJALE to Vani Bamania, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "0.41MAITHILI GANJALE to Mesvi Pokar, 1 run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "0.30MAITHILI GANJALE to Mesvi Pokar, no run",
+        "type": "general",
+        "element": "div"
+      },
+      {
+        "text": "0.20MAITHILI GANJALE to Mesvi Pokar, no run",
+        "type": "general",
+        "element": "div"
+      }
+    ],
+    "wicketDetails": []
+  },
+  "metadata": {
+    "extractionDate": "2025-09-14T17:23:19.422Z",
+    "source": "CricketBaroda",
+    "extractor": "Puppeteer Web Scraper"
+  }
+}

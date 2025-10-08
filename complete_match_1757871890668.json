@@ -1,0 +1,1376 @@
+{
+  "match": {
+    "title": "Baroda Cricket Association",
+    "url": "https://www.cricketbaroda.com/match/17801317/Advick-Cricket-Academy-Women-vs-Y.S.C-Women",
+    "teams": [],
+    "result": "Advick Cricket Academy Women won by 20 runs",
+    "venue": "",
+    "date": "",
+    "matchType": "T20"
+  },
+  "teams": [
+    {
+      "name": "Combined Disrict Women - 1",
+      "id": "10134216",
+      "players": [
+        {
+          "name": "Aarya Yogeshbhai Mehta",
+          "id": "11065282"
+        },
+        {
+          "name": "Aadhya Mineshbhai Patel",
+          "id": "7601817"
+        },
+        {
+          "name": "Arohi Bist",
+          "id": "30696739"
+        },
+        {
+          "name": "Hetvi Shantilal Patel",
+          "id": "11262469"
+        },
+        {
+          "name": "Janvi Nikeshkumar Raval",
+          "id": "4437714"
+        }
+      ]
+    },
+    {
+      "name": "Y.S.C Women",
+      "id": "10134252",
+      "players": [
+        {
+          "name": "Amrita Joseph",
+          "id": "8965007"
+        },
+        {
+          "name": "Bhumika Rathod",
+          "id": "19389091"
+        },
+        {
+          "name": "Dharti Rathod",
+          "id": "1619798"
+        },
+        {
+          "name": "Janki Rathod",
+          "id": "4047587"
+        },
+        {
+          "name": "Nishat Changiwala",
+          "id": "4678429"
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "over": 0,
+      "balls": [
+        {
+          "ball": 2,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "0.20MAITHILI GANJALE to Mesvi Pokar, no run"
+        },
+        {
+          "ball": 3,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "0.30MAITHILI GANJALE to Mesvi Pokar, no run"
+        },
+        {
+          "ball": 4,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "0.41MAITHILI GANJALE to Mesvi Pokar, 1 run"
+        },
+        {
+          "ball": 6,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "0.60MAITHILI GANJALE to Vani Bamania, no run"
+        }
+      ]
+    },
+    {
+      "over": 1,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "1.10RIDDHI MAURYA to Mesvi Pokar, no run"
+        },
+        {
+          "ball": 2,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "1.20RIDDHI MAURYA to Mesvi Pokar, no run"
+        },
+        {
+          "ball": 3,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "1.31RIDDHI MAURYA to Mesvi Pokar, 1 run"
+        },
+        {
+          "ball": 4,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 1,
+          "wicketType": "other",
+          "shotArea": null,
+          "description": "1.4WRIDDHI MAURYA to Vani Bamania, OUT Caught out, Caught by Amrita JosephVani Bamania c Amrita Joseph b RIDDHI MAURYA (4r 3b 1x4s 0x6s SR: 133.33)"
+        },
+        {
+          "ball": 5,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "1.50RIDDHI MAURYA to Pratha Vanar, no run"
+        },
+        {
+          "ball": 6,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "1.60RIDDHI MAURYA to Pratha Vanar, no run"
+        }
+      ]
+    },
+    {
+      "over": 2,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "2.11BHUMIKA RATHOD to Mesvi Pokar, 1 run"
+        },
+        {
+          "ball": 2,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "2.20BHUMIKA RATHOD to Pratha Vanar, no run"
+        },
+        {
+          "ball": 3,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "2.30BHUMIKA RATHOD to Pratha Vanar, no run"
+        },
+        {
+          "ball": 4,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "2.40BHUMIKA RATHOD to Pratha Vanar, no run"
+        },
+        {
+          "ball": 5,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "2.50BHUMIKA RATHOD to Pratha Vanar, no run"
+        },
+        {
+          "ball": 6,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "2.60BHUMIKA RATHOD to Pratha Vanar, no run"
+        }
+      ]
+    },
+    {
+      "over": 3,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "3.11RIDDHI MAURYA to Mesvi Pokar, 1 run"
+        },
+        {
+          "ball": 3,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "3.30RIDDHI MAURYA to Pratha Vanar, no run"
+        },
+        {
+          "ball": 4,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "3.40RIDDHI MAURYA to Pratha Vanar, no run"
+        },
+        {
+          "ball": 5,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "3.50RIDDHI MAURYA to Pratha Vanar, no run"
+        },
+        {
+          "ball": 6,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "3.60RIDDHI MAURYA to Pratha Vanar, no run"
+        }
+      ]
+    },
+    {
+      "over": 4,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "4.10BHUMIKA RATHOD to Mesvi Pokar, no run"
+        },
+        {
+          "ball": 3,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "4.30BHUMIKA RATHOD to Mesvi Pokar, no run"
+        },
+        {
+          "ball": 4,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "4.40BHUMIKA RATHOD to Mesvi Pokar, no run"
+        },
+        {
+          "ball": 5,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "4.51BHUMIKA RATHOD to Mesvi Pokar, 1 run"
+        },
+        {
+          "ball": 6,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "4.60BHUMIKA RATHOD to Pratha Vanar, no run"
+        }
+      ]
+    },
+    {
+      "over": 5,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "5.10TANVIR SHAIKH to Mesvi Pokar, no run"
+        },
+        {
+          "ball": 2,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "5.20TANVIR SHAIKH to Mesvi Pokar, no run"
+        },
+        {
+          "ball": 3,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "5.30TANVIR SHAIKH to Mesvi Pokar, no run"
+        },
+        {
+          "ball": 4,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "5.40TANVIR SHAIKH to Mesvi Pokar, no run"
+        }
+      ]
+    },
+    {
+      "over": 6,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "6.11Sneha Baria to Pratha Vanar, 1 run"
+        },
+        {
+          "ball": 2,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "6.20Sneha Baria to Mesvi Pokar, no run"
+        },
+        {
+          "ball": 3,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "6.30Sneha Baria to Mesvi Pokar, no run"
+        },
+        {
+          "ball": 5,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "6.50Sneha Baria to Mesvi Pokar, no run"
+        },
+        {
+          "ball": 6,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "6.61Sneha Baria to Mesvi Pokar, 1 run"
+        }
+      ]
+    },
+    {
+      "over": 7,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": {
+            "name": "Janki Rathod",
+            "id": "4047587",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "7.11Janki Rathod to Mesvi Pokar, 1 run"
+        },
+        {
+          "ball": 2,
+          "bowler": {
+            "name": "Janki Rathod",
+            "id": "4047587",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "7.20Janki Rathod to Pratha Vanar, no run"
+        },
+        {
+          "ball": 3,
+          "bowler": {
+            "name": "Janki Rathod",
+            "id": "4047587",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "7.31Janki Rathod to Pratha Vanar, 1 run"
+        },
+        {
+          "ball": 4,
+          "bowler": {
+            "name": "Janki Rathod",
+            "id": "4047587",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "7.40Janki Rathod to Mesvi Pokar, no run"
+        },
+        {
+          "ball": 5,
+          "bowler": {
+            "name": "Janki Rathod",
+            "id": "4047587",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 2,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "7.52Janki Rathod to Mesvi Pokar, 2 runs"
+        },
+        {
+          "ball": 6,
+          "bowler": {
+            "name": "Janki Rathod",
+            "id": "4047587",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "7.60Janki Rathod to Mesvi Pokar, no run"
+        }
+      ]
+    },
+    {
+      "over": 8,
+      "balls": [
+        {
+          "ball": 2,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "8.20Jaya Mohite to Surbhi Chauhan, no run"
+        },
+        {
+          "ball": 3,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "8.31Jaya Mohite to Surbhi Chauhan, 1 run"
+        },
+        {
+          "ball": 4,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "8.4LBJaya Mohite to Mesvi Pokar, leg bye, 1 run"
+        },
+        {
+          "ball": 5,
+          "bowler": null,
+          "batsman": null,
+          "runs": 2,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "8.52Jaya Mohite to Surbhi Chauhan, 2 runs"
+        },
+        {
+          "ball": 6,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "8.60Jaya Mohite to Surbhi Chauhan, no run"
+        }
+      ]
+    },
+    {
+      "over": 9,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": {
+            "name": "Janki Rathod",
+            "id": "4047587",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "9.11Janki Rathod to Mesvi Pokar, 1 run"
+        },
+        {
+          "ball": 2,
+          "bowler": {
+            "name": "Janki Rathod",
+            "id": "4047587",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "9.20Janki Rathod to Surbhi Chauhan, no run"
+        },
+        {
+          "ball": 4,
+          "bowler": {
+            "name": "Janki Rathod",
+            "id": "4047587",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "9.41Janki Rathod to Surbhi Chauhan, 1 run"
+        },
+        {
+          "ball": 5,
+          "bowler": {
+            "name": "Janki Rathod",
+            "id": "4047587",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 2,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "9.52Janki Rathod to Mesvi Pokar, 2 runs"
+        }
+      ]
+    },
+    {
+      "over": 10,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "10.11Jaya Mohite to Surbhi Chauhan, 1 run"
+        },
+        {
+          "ball": 2,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "10.21Jaya Mohite to Mesvi Pokar, 1 run"
+        },
+        {
+          "ball": 3,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "10.30Jaya Mohite to Surbhi Chauhan, no run"
+        },
+        {
+          "ball": 4,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "10.40Jaya Mohite to Surbhi Chauhan, no run"
+        },
+        {
+          "ball": 5,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "10.50Jaya Mohite to Surbhi Chauhan, no run"
+        },
+        {
+          "ball": 6,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "10.6BJaya Mohite to Surbhi Chauhan, bye, 1 run"
+        }
+      ]
+    },
+    {
+      "over": 11,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "11.11BHUMIKA RATHOD to Surbhi Chauhan, 1 run"
+        },
+        {
+          "ball": 2,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "11.21BHUMIKA RATHOD to Mesvi Pokar, 1 run"
+        },
+        {
+          "ball": 4,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "11.40BHUMIKA RATHOD to Prapti Raval, no run"
+        },
+        {
+          "ball": 5,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "11.50BHUMIKA RATHOD to Prapti Raval, no run"
+        },
+        {
+          "ball": 6,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "11.60BHUMIKA RATHOD to Prapti Raval, no run"
+        }
+      ]
+    },
+    {
+      "over": 12,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "12.10Jaya Mohite to Mesvi Pokar, no run"
+        },
+        {
+          "ball": 2,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 1,
+          "wicketType": "lbw",
+          "shotArea": null,
+          "description": "12.2WJaya Mohite to Mesvi Pokar, OUT LBWMesvi Pokar lbw b Jaya Mohite (40r 37b 5x4s 1x6s SR: 108.11)"
+        },
+        {
+          "ball": 3,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "12.31Jaya Mohite to Hani Patel, 1 run"
+        },
+        {
+          "ball": 4,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "12.40Jaya Mohite to Prapti Raval, no run"
+        },
+        {
+          "ball": 5,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "12.50Jaya Mohite to Prapti Raval, no run"
+        },
+        {
+          "ball": 6,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "12.61Jaya Mohite to Prapti Raval, 1 run"
+        }
+      ]
+    },
+    {
+      "over": 13,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "13.11BHUMIKA RATHOD to Prapti Raval, 1 run"
+        },
+        {
+          "ball": 2,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "13.20BHUMIKA RATHOD to Hani Patel, no run"
+        },
+        {
+          "ball": 3,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "13.31BHUMIKA RATHOD to Hani Patel, 1 run"
+        },
+        {
+          "ball": 4,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "13.41BHUMIKA RATHOD to Prapti Raval, 1 run"
+        },
+        {
+          "ball": 6,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "13.60BHUMIKA RATHOD to Hani Patel, no run"
+        }
+      ]
+    },
+    {
+      "over": 14,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "14.11Sneha Baria to Prapti Raval, 1 run"
+        },
+        {
+          "ball": 2,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "14.21Sneha Baria to Hani Patel, 1 run"
+        },
+        {
+          "ball": 3,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "14.31Sneha Baria to Prapti Raval, 1 run"
+        },
+        {
+          "ball": 4,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "14.4BSneha Baria to Hani Patel, bye, 1 run"
+        },
+        {
+          "ball": 5,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "14.50Sneha Baria to Prapti Raval, no run"
+        },
+        {
+          "ball": 6,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "14.60Sneha Baria to Prapti Raval, no run"
+        }
+      ]
+    },
+    {
+      "over": 15,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "15.11RIDDHI MAURYA to Hani Patel, 1 run"
+        },
+        {
+          "ball": 2,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "15.21RIDDHI MAURYA to Prapti Raval, 1 run"
+        },
+        {
+          "ball": 3,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "15.31RIDDHI MAURYA to Hani Patel, 1 run"
+        },
+        {
+          "ball": 4,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "15.41RIDDHI MAURYA to Prapti Raval, 1 run"
+        },
+        {
+          "ball": 6,
+          "bowler": null,
+          "batsman": null,
+          "runs": 2,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "15.62RIDDHI MAURYA to Hani Patel, 2 runs"
+        }
+      ]
+    },
+    {
+      "over": 16,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": null,
+          "batsman": null,
+          "runs": 2,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "16.1BSneha Baria to Prapti Raval, bye, 2 runs"
+        },
+        {
+          "ball": 2,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "16.20Sneha Baria to Prapti Raval, no run"
+        },
+        {
+          "ball": 3,
+          "bowler": null,
+          "batsman": null,
+          "runs": 2,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "16.32Sneha Baria to Prapti Raval, 2 runs"
+        },
+        {
+          "ball": 4,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "16.40Sneha Baria to Prapti Raval, no run"
+        },
+        {
+          "ball": 5,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "16.51Sneha Baria to Prapti Raval, 1 run"
+        },
+        {
+          "ball": 6,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "16.61Sneha Baria to Hani Patel, 1 run"
+        }
+      ]
+    },
+    {
+      "over": 17,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "17.11TANVIR SHAIKH to Hani Patel, 1 run"
+        },
+        {
+          "ball": 2,
+          "bowler": null,
+          "batsman": null,
+          "runs": 2,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "17.22TANVIR SHAIKH to Prapti Raval, 2 runs"
+        },
+        {
+          "ball": 3,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "17.31TANVIR SHAIKH to Prapti Raval, 1 run"
+        },
+        {
+          "ball": 4,
+          "bowler": null,
+          "batsman": null,
+          "runs": 2,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "17.42TANVIR SHAIKH to Hani Patel, 2 runs"
+        },
+        {
+          "ball": 5,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "17.51TANVIR SHAIKH to Hani Patel, 1 run"
+        },
+        {
+          "ball": 6,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "17.60TANVIR SHAIKH to Prapti Raval, no run"
+        }
+      ]
+    },
+    {
+      "over": 18,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "18.10Sneha Baria to Hani Patel, no run"
+        },
+        {
+          "ball": 3,
+          "bowler": null,
+          "batsman": null,
+          "runs": 2,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "18.32Sneha Baria to Hani Patel, 2 runs"
+        },
+        {
+          "ball": 5,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "18.50Sneha Baria to Hani Patel, no run"
+        },
+        {
+          "ball": 6,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "18.60Sneha Baria to Hani Patel, no run"
+        }
+      ]
+    },
+    {
+      "over": 19,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "19.11Jaya Mohite to Prapti Raval, 1 run"
+        },
+        {
+          "ball": 2,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "19.21Jaya Mohite to Hani Patel, 1 run"
+        },
+        {
+          "ball": 3,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "19.31Jaya Mohite to Prapti Raval, 1 run"
+        },
+        {
+          "ball": 4,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "19.41Jaya Mohite to Hani Patel, 1 run"
+        },
+        {
+          "ball": 5,
+          "bowler": null,
+          "batsman": null,
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "19.51Jaya Mohite to Prapti Raval, 1 run"
+        }
+      ]
+    },
+    {
+      "over": 20,
+      "balls": [
+        {
+          "ball": 0,
+          "bowler": null,
+          "batsman": null,
+          "runs": 20,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "Advick Cricket Academy Women121/4(20.0 Ov)Y.S.C Women101/8(20.0 Ov)Advick Cricket Academy Women won by 20 runs"
+        }
+      ]
+    },
+    {
+      "over": 108,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 1,
+          "wicketType": "lbw",
+          "shotArea": null,
+          "description": "Jaya Mohite to Mesvi Pokar, OUT LBWMesvi Pokar lbw b Jaya Mohite (40r 37b 5x4s 1x6s SR: 108.11)"
+        }
+      ]
+    },
+    {
+      "over": 133,
+      "balls": [
+        {
+          "ball": 3,
+          "bowler": null,
+          "batsman": null,
+          "runs": 0,
+          "wickets": 1,
+          "wicketType": "other",
+          "shotArea": null,
+          "description": "RIDDHI MAURYA to Vani Bamania, OUT Caught out, Caught by Amrita JosephVani Bamania c Amrita Joseph b RIDDHI MAURYA (4r 3b 1x4s 0x6s SR: 133.33)"
+        }
+      ]
+    }
+  ]
+}

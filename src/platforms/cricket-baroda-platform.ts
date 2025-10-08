@@ -164,7 +164,7 @@ class CricketBarodaMatchScraper implements MatchScraper {
 
         try {
             // Override the initBrowser method to skip browser initialization
-            const originalInitBrowser = scraper.initBrowser.bind(scraper);
+            const _originalInitBrowser = scraper.initBrowser.bind(scraper);
             scraper.initBrowser = async () => {
                 (scraper as any).browser = this.browser;
                 (scraper as any).page = this.page;
@@ -292,7 +292,7 @@ class CricketBarodaDataProcessor implements DataProcessor {
     /**
      * Transform data for external API consumption
      */
-    async transformForApi(data: ScrapedData, format: string): Promise<any> {
+    async transformForApi(data: ScrapedData, _format: string): Promise<any> {
         // For now, return the data as-is
         // This could be enhanced to transform data for specific API formats
         return data;
@@ -354,7 +354,7 @@ class CricketBarodaDataStorage implements DataStorage {
     /**
      * Check if match data already exists
      */
-    async matchExists(matchId: string): Promise<boolean> {
+    async matchExists(_matchId: string): Promise<boolean> {
         // For now, always return false - could be enhanced to check filesystem/database
         return false;
     }

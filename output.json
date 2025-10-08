@@ -1,0 +1,5603 @@
+{
+  "title": "",
+  "matchTitle": "",
+  "team1": "",
+  "team2": "",
+  "score1": "",
+  "score2": "",
+  "status": "",
+  "venue": "",
+  "date": "",
+  "players": [],
+  "innings": [
+    {
+      "teamId": "",
+      "teamName": "Y.S.C Women",
+      "overs": [
+        {
+          "over": 20,
+          "bowler": "4-0-4-0",
+          "runs": 0,
+          "wickets": 1,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 206 Runs 0 Wkts118/5Sneha Baria*2 (1)TANVIR SHAIKH47 (41)Jinal Patel4-0-4-0Arohi Bist3-0-3-0",
+          "teamId": ""
+        },
+        {
+          "over": 19,
+          "bowler": "3-0-3-0",
+          "runs": 1,
+          "wickets": 1,
+          "balls": 6,
+          "maidens": 0,
+          "economy": 1,
+          "summary": "End of over 1910 Runs 1 Wkts112/5Sneha Baria*2 (1)TANVIR SHAIKH41 (35)Arohi Bist3-0-3-0Aarya yogeshbhai Mehta4-0-4-0",
+          "teamId": ""
+        },
+        {
+          "over": 18,
+          "bowler": "4-0-4-0",
+          "runs": 0,
+          "wickets": 1,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 189 Runs 0 Wkts102/4Amrita Joseph*36 (38)TANVIR SHAIKH34 (31)Aarya yogeshbhai Mehta4-0-4-0Hetvi Patel2-0-2-0",
+          "teamId": ""
+        },
+        {
+          "over": 17,
+          "bowler": "2-0-2-0",
+          "runs": 0,
+          "wickets": 9,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 178 Runs 0 Wkts93/4Amrita Joseph*34 (34)TANVIR SHAIKH32 (29)Hetvi Patel2-0-2-0Aarya yogeshbhai Mehta3-0-3-0",
+          "teamId": ""
+        },
+        {
+          "over": 16,
+          "bowler": "3-0-3-0",
+          "runs": 0,
+          "wickets": 8,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 168 Runs 0 Wkts85/4Amrita Joseph*28 (30)TANVIR SHAIKH31 (27)Aarya yogeshbhai Mehta3-0-3-0Vanshika dharmeshbhai Patel2-0-2-0",
+          "teamId": ""
+        },
+        {
+          "over": 15,
+          "bowler": "2-0-2-0",
+          "runs": 0,
+          "wickets": 7,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 158 Runs 0 Wkts77/4Amrita Joseph*26 (28)TANVIR SHAIKH25 (23)Vanshika dharmeshbhai Patel2-0-2-0Arohi Bist2-0-2-0",
+          "teamId": ""
+        },
+        {
+          "over": 14,
+          "bowler": "2-0-2-0",
+          "runs": 0,
+          "wickets": 6,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 149 Runs 0 Wkts69/4Amrita Joseph*20 (25)TANVIR SHAIKH23 (20)Arohi Bist2-0-2-0Vanshika dharmeshbhai Patel1-0-1-0",
+          "teamId": ""
+        },
+        {
+          "over": 13,
+          "bowler": "1-0-1-0",
+          "runs": 0,
+          "wickets": 6,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 136 Runs 0 Wkts60/4Amrita Joseph*20 (24)TANVIR SHAIKH18 (15)Vanshika dharmeshbhai Patel1-0-1-0Trisha Patel1-0-1-0",
+          "teamId": ""
+        },
+        {
+          "over": 12,
+          "bowler": "1-0-1-0",
+          "runs": 0,
+          "wickets": 5,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 127 Runs 0 Wkts54/4Amrita Joseph*17 (21)TANVIR SHAIKH15 (12)Trisha Patel1-0-1-0Hetvi Patel1-0-1-0",
+          "teamId": ""
+        },
+        {
+          "over": 11,
+          "bowler": "1-0-1-0",
+          "runs": 0,
+          "wickets": 4,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 119 Runs 0 Wkts47/4Amrita Joseph*15 (19)TANVIR SHAIKH10 (8)Hetvi Patel1-0-1-0Aarya yogeshbhai Mehta2-0-2-0",
+          "teamId": ""
+        },
+        {
+          "over": 10,
+          "bowler": "2-0-2-0",
+          "runs": 1,
+          "wickets": 3,
+          "balls": 6,
+          "maidens": 0,
+          "economy": 1,
+          "summary": "End of over 104 Runs 1 Wkts38/4Amrita Joseph*13 (17)TANVIR SHAIKH3 (4)Aarya yogeshbhai Mehta2-0-2-0Janvi nikeshkumar Raval4-2-4-2",
+          "teamId": ""
+        },
+        {
+          "over": 9,
+          "bowler": "4-2-4-2",
+          "runs": 0,
+          "wickets": 3,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 94 Runs 0 Wkts34/3Amrita Joseph*12 (16)Jaya Mohite2 (5)Janvi nikeshkumar Raval4-2-4-2Aarya yogeshbhai Mehta1-0-1-0",
+          "teamId": ""
+        },
+        {
+          "over": 8,
+          "bowler": "1-0-1-0",
+          "runs": 1,
+          "wickets": 3,
+          "balls": 6,
+          "maidens": 0,
+          "economy": 1,
+          "summary": "End of over 81 Runs 1 Wkts30/3Amrita Joseph*10 (13)Jaya Mohite0 (2)Aarya yogeshbhai Mehta1-0-1-0Janvi nikeshkumar Raval3-2-3-2",
+          "teamId": ""
+        },
+        {
+          "over": 7,
+          "bowler": "3-2-3-2",
+          "runs": 0,
+          "wickets": 2,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 75 Runs 0 Wkts29/2Amrita Joseph*9 (12)Hrutvisha Patel3 (8)Janvi nikeshkumar Raval3-2-3-2Jinal Patel3-0-3-0",
+          "teamId": ""
+        },
+        {
+          "over": 6,
+          "bowler": "3-0-3-0",
+          "runs": 0,
+          "wickets": 2,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 68 Runs 0 Wkts24/2Amrita Joseph*7 (8)Hrutvisha Patel1 (6)Jinal Patel3-0-3-0Janvi nikeshkumar Raval2-2-2-2",
+          "teamId": ""
+        },
+        {
+          "over": 50,
+          "bowler": "2-2-2-2",
+          "runs": 1,
+          "wickets": 1,
+          "balls": 6,
+          "maidens": 0,
+          "economy": 1,
+          "summary": "End of over 50 Runs 1 Wkts16/2Amrita Joseph*0 (3)Hrutvisha Patel0 (5)Janvi nikeshkumar Raval2-2-2-2Jinal Patel2-0-2-0",
+          "teamId": ""
+        },
+        {
+          "over": 41,
+          "bowler": "2-0-2-0",
+          "runs": 0,
+          "wickets": 1,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 41 Runs 0 Wkts16/1Amrita Joseph*0 (3)Dharti Rathod6 (11)Jinal Patel2-0-2-0Janvi nikeshkumar Raval1-1-1-1",
+          "teamId": ""
+        },
+        {
+          "over": 30,
+          "bowler": "1-1-1-1",
+          "runs": 1,
+          "wickets": 1,
+          "balls": 6,
+          "maidens": 0,
+          "economy": 1,
+          "summary": "End of over 30 Runs 1 Wkts15/1Amrita Joseph*0 (1)Dharti Rathod5 (7)Janvi nikeshkumar Raval1-1-1-1Jinal Patel1-0-1-0",
+          "teamId": ""
+        },
+        {
+          "over": 25,
+          "bowler": "1-0-1-0",
+          "runs": 0,
+          "wickets": 1,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 25 Runs 0 Wkts15/0Nishat Changiwala*9 (5)Dharti Rathod5 (7)Jinal Patel1-0-1-0Arohi Bist1-0-1-0",
+          "teamId": ""
+        },
+        {
+          "over": 11,
+          "bowler": "1-0-1-0",
+          "runs": 0,
+          "wickets": 10,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 110 Runs 0 Wkts10/0Nishat Changiwala*9 (5)Dharti Rathod1 (1)Arohi Bist1-0-1-0",
+          "teamId": ""
+        }
+      ],
+      "balls": [
+        {
+          "over": 19,
+          "ball": 6,
+          "bowler": "Jinal Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 2,
+          "description": "2 runs,  to Cow corner",
+          "teamId": ""
+        },
+        {
+          "over": 19,
+          "ball": 5,
+          "bowler": "Jinal Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 19,
+          "ball": 4,
+          "bowler": "Jinal Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 19,
+          "ball": 3,
+          "bowler": "Jinal Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 4,
+          "description": "FOUR,  to Straight long-off",
+          "teamId": ""
+        },
+        {
+          "over": 19,
+          "ball": 2,
+          "bowler": "Jinal Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 19,
+          "ball": 1,
+          "bowler": "Jinal Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 18,
+          "ball": 6,
+          "bowler": "Arohi Bist",
+          "batter": "Sneha Baria",
+          "runs": 2,
+          "description": "2 runs,  to Third man",
+          "teamId": "",
+          "bowlerId": "30696739"
+        },
+        {
+          "over": 18,
+          "ball": 5,
+          "bowler": "WArohi Bist",
+          "batter": "Amrita Joseph",
+          "runs": 0,
+          "description": "OUT Caught out, Caught at Long-on by Trisha PatelAmrita Joseph c Trisha Patel b Arohi Bist (36r 39b 3x4s 0x6s SR: 92.31)",
+          "teamId": "",
+          "bowlerId": "30696739",
+          "batterId": "8965007",
+          "wicketInfo": {
+            "wicketType": "caught",
+            "playerName": "Amrita Joseph",
+            "bowler": "Arohi Bist",
+            "fielder": "Trisha Patel",
+            "battingStats": {
+              "runs": 36,
+              "balls": 39,
+              "fours": 3,
+              "sixes": 0,
+              "strikeRate": 92.31
+            }
+          }
+        },
+        {
+          "over": 18,
+          "ball": 5,
+          "bowler": "WDArohi Bist",
+          "batter": "Amrita Joseph",
+          "runs": 0,
+          "description": "wide",
+          "teamId": "",
+          "bowlerId": "30696739",
+          "batterId": "8965007"
+        },
+        {
+          "over": 18,
+          "ball": 4,
+          "bowler": "Arohi Bist",
+          "batter": "TANVIR SHAIKH",
+          "runs": 1,
+          "description": "1 run,  to Deep mid wicket",
+          "teamId": "",
+          "bowlerId": "30696739"
+        },
+        {
+          "over": 18,
+          "ball": 3,
+          "bowler": "Arohi Bist",
+          "batter": "TANVIR SHAIKH",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "30696739"
+        },
+        {
+          "over": 18,
+          "ball": 2,
+          "bowler": "Arohi Bist",
+          "batter": "TANVIR SHAIKH",
+          "runs": 4,
+          "description": "FOUR,  to Deep backward square leg",
+          "teamId": "",
+          "bowlerId": "30696739"
+        },
+        {
+          "over": 18,
+          "ball": 1,
+          "bowler": "Arohi Bist",
+          "batter": "TANVIR SHAIKH",
+          "runs": 2,
+          "description": "2 runs,  to Deep extra cover",
+          "teamId": "",
+          "bowlerId": "30696739"
+        },
+        {
+          "over": 17,
+          "ball": 6,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "TANVIR SHAIKH",
+          "runs": 1,
+          "description": "1 run,  to Deep backward square leg",
+          "teamId": "",
+          "bowlerId": "11065282"
+        },
+        {
+          "over": 17,
+          "ball": 5,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Deep cover",
+          "teamId": "",
+          "bowlerId": "11065282",
+          "batterId": "8965007"
+        },
+        {
+          "over": 17,
+          "ball": 4,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "Amrita Joseph",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "11065282",
+          "batterId": "8965007"
+        },
+        {
+          "over": 17,
+          "ball": 3,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "TANVIR SHAIKH",
+          "runs": 1,
+          "description": "1 run,  to Deep mid wicket",
+          "teamId": "",
+          "bowlerId": "11065282"
+        },
+        {
+          "over": 17,
+          "ball": 3,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "TANVIR SHAIKH",
+          "runs": 4,
+          "description": "wide, 4 runs",
+          "teamId": "",
+          "bowlerId": "11065282"
+        },
+        {
+          "over": 17,
+          "ball": 2,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Backward Point",
+          "teamId": "",
+          "bowlerId": "11065282",
+          "batterId": "8965007"
+        },
+        {
+          "over": 17,
+          "ball": 1,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "Amrita Joseph",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "11065282",
+          "batterId": "8965007"
+        },
+        {
+          "over": 16,
+          "ball": 6,
+          "bowler": "Hetvi Patel",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Deep extra cover",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 16,
+          "ball": 5,
+          "bowler": "LBHetvi Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 1,
+          "description": "leg bye, 1 run",
+          "teamId": ""
+        },
+        {
+          "over": 16,
+          "ball": 4,
+          "bowler": "Hetvi Patel",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Deep cover",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 16,
+          "ball": 3,
+          "bowler": "Hetvi Patel",
+          "batter": "Amrita Joseph",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 16,
+          "ball": 2,
+          "bowler": "Hetvi Patel",
+          "batter": "Amrita Joseph",
+          "runs": 4,
+          "description": "FOUR,  to Deep extra cover",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 16,
+          "ball": 1,
+          "bowler": "Hetvi Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 1,
+          "description": "1 run,  to Backward Point",
+          "teamId": ""
+        },
+        {
+          "over": 15,
+          "ball": 6,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "TANVIR SHAIKH",
+          "runs": 1,
+          "description": "1 run,  to Deep backward square leg",
+          "teamId": "",
+          "bowlerId": "11065282"
+        },
+        {
+          "over": 15,
+          "ball": 5,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "TANVIR SHAIKH",
+          "runs": 4,
+          "description": "FOUR,  to Long-off",
+          "teamId": "",
+          "bowlerId": "11065282"
+        },
+        {
+          "over": 15,
+          "ball": 4,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "TANVIR SHAIKH",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "11065282"
+        },
+        {
+          "over": 15,
+          "ball": 3,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Deep extra cover",
+          "teamId": "",
+          "bowlerId": "11065282",
+          "batterId": "8965007"
+        },
+        {
+          "over": 15,
+          "ball": 2,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "TANVIR SHAIKH",
+          "runs": 1,
+          "description": "1 run,  to Wide long-on",
+          "teamId": "",
+          "bowlerId": "11065282"
+        },
+        {
+          "over": 15,
+          "ball": 1,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Long-off",
+          "teamId": "",
+          "bowlerId": "11065282",
+          "batterId": "8965007"
+        },
+        {
+          "over": 14,
+          "ball": 6,
+          "bowler": "Vanshika dharmeshbhai Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 14,
+          "ball": 5,
+          "bowler": "Vanshika dharmeshbhai Patel",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Long-off",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 14,
+          "ball": 4,
+          "bowler": "Vanshika dharmeshbhai Patel",
+          "batter": "Amrita Joseph",
+          "runs": 4,
+          "description": "FOUR,  to Cow corner",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 14,
+          "ball": 3,
+          "bowler": "Vanshika dharmeshbhai Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 1,
+          "description": "1 run,  to Long-off",
+          "teamId": ""
+        },
+        {
+          "over": 14,
+          "ball": 2,
+          "bowler": "Vanshika dharmeshbhai Patel",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Wide long-on",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 14,
+          "ball": 1,
+          "bowler": "Vanshika dharmeshbhai Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 1,
+          "description": "1 run,  to Deep mid wicket",
+          "teamId": ""
+        },
+        {
+          "over": 13,
+          "ball": 6,
+          "bowler": "Arohi Bist",
+          "batter": "Amrita Joseph",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "30696739",
+          "batterId": "8965007"
+        },
+        {
+          "over": 13,
+          "ball": 5,
+          "bowler": "Arohi Bist",
+          "batter": "TANVIR SHAIKH",
+          "runs": 1,
+          "description": "1 run,  to Deep mid wicket",
+          "teamId": "",
+          "bowlerId": "30696739"
+        },
+        {
+          "over": 13,
+          "ball": 4,
+          "bowler": "Arohi Bist",
+          "batter": "TANVIR SHAIKH",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "30696739"
+        },
+        {
+          "over": 13,
+          "ball": 3,
+          "bowler": "Arohi Bist",
+          "batter": "TANVIR SHAIKH",
+          "runs": 4,
+          "description": "FOUR,  to Cow corner",
+          "teamId": "",
+          "bowlerId": "30696739"
+        },
+        {
+          "over": 13,
+          "ball": 2,
+          "bowler": "Arohi Bist",
+          "batter": "TANVIR SHAIKH",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "30696739"
+        },
+        {
+          "over": 13,
+          "ball": 1,
+          "bowler": "Arohi Bist",
+          "batter": "TANVIR SHAIKH",
+          "runs": 4,
+          "description": "bye, 4 runs",
+          "teamId": "",
+          "bowlerId": "30696739"
+        },
+        {
+          "over": 12,
+          "ball": 6,
+          "bowler": "Vanshika dharmeshbhai Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 1,
+          "description": "1 run,  to Backward Point",
+          "teamId": ""
+        },
+        {
+          "over": 12,
+          "ball": 5,
+          "bowler": "Vanshika dharmeshbhai Patel",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Deep cover",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 12,
+          "ball": 4,
+          "bowler": "Vanshika dharmeshbhai Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 1,
+          "description": "1 run,  to Mid wicket",
+          "teamId": ""
+        },
+        {
+          "over": 12,
+          "ball": 3,
+          "bowler": "Vanshika dharmeshbhai Patel",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Wide long-off",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 12,
+          "ball": 2,
+          "bowler": "Vanshika dharmeshbhai Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 1,
+          "description": "1 run,  to Wide long-off",
+          "teamId": ""
+        },
+        {
+          "over": 12,
+          "ball": 1,
+          "bowler": "Vanshika dharmeshbhai Patel",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Deep extra cover",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 11,
+          "ball": 6,
+          "bowler": "Trisha Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 11,
+          "ball": 5,
+          "bowler": "Trisha Patel",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Deep cover point",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 11,
+          "ball": 4,
+          "bowler": "Trisha Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 1,
+          "description": "1 run,  to Short third man",
+          "teamId": ""
+        },
+        {
+          "over": 11,
+          "ball": 3,
+          "bowler": "Trisha Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 4,
+          "description": "FOUR,  to Deep extra cover",
+          "teamId": ""
+        },
+        {
+          "over": 11,
+          "ball": 2,
+          "bowler": "Trisha Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 11,
+          "ball": 1,
+          "bowler": "Trisha Patel",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Long-off",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 10,
+          "ball": 6,
+          "bowler": "Hetvi Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 4,
+          "description": "FOUR,  to Third man",
+          "teamId": ""
+        },
+        {
+          "over": 10,
+          "ball": 5,
+          "bowler": "Hetvi Patel",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Deep cover",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 10,
+          "ball": 4,
+          "bowler": "Hetvi Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 1,
+          "description": "1 run,  to Backward Point",
+          "teamId": ""
+        },
+        {
+          "over": 10,
+          "ball": 3,
+          "bowler": "Hetvi Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 10,
+          "ball": 2,
+          "bowler": "Hetvi Patel",
+          "batter": "TANVIR SHAIKH",
+          "runs": 2,
+          "description": "2 runs,  to Deep point",
+          "teamId": ""
+        },
+        {
+          "over": 10,
+          "ball": 1,
+          "bowler": "Hetvi Patel",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Wide long-on",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 9,
+          "ball": 6,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "TANVIR SHAIKH",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "11065282"
+        },
+        {
+          "over": 9,
+          "ball": 5,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "TANVIR SHAIKH",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "11065282"
+        },
+        {
+          "over": 9,
+          "ball": 4,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "TANVIR SHAIKH",
+          "runs": 2,
+          "description": "2 runs,  to Third man",
+          "teamId": "",
+          "bowlerId": "11065282"
+        },
+        {
+          "over": 9,
+          "ball": 3,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Wide long-off",
+          "teamId": "",
+          "bowlerId": "11065282",
+          "batterId": "8965007"
+        },
+        {
+          "over": 9,
+          "ball": 2,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "TANVIR SHAIKH",
+          "runs": 1,
+          "description": "1 run,  to Deep extra cover",
+          "teamId": "",
+          "bowlerId": "11065282"
+        },
+        {
+          "over": 9,
+          "ball": 1,
+          "bowler": "WAarya yogeshbhai Mehta",
+          "batter": "Jaya Mohite",
+          "runs": 0,
+          "description": "OUT StumpedJaya Mohite st †Maitri Rathod b Aarya yogeshbhai Mehta (2r 6b 0x4s 0x6s SR: 33.33)",
+          "teamId": "",
+          "bowlerId": "11065282",
+          "wicketInfo": {
+            "wicketType": "stumped",
+            "playerName": "Jaya Mohite",
+            "bowler": "Aarya yogeshbhai Mehta",
+            "fielder": "Maitri Rathod",
+            "battingStats": {
+              "runs": 2,
+              "balls": 6,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": 33.33
+            }
+          }
+        },
+        {
+          "over": 8,
+          "ball": 6,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Amrita Joseph",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4437714",
+          "batterId": "8965007"
+        },
+        {
+          "over": 8,
+          "ball": 5,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Jaya Mohite",
+          "runs": 1,
+          "description": "1 run,  to Wide long-off",
+          "teamId": "",
+          "bowlerId": "4437714"
+        },
+        {
+          "over": 8,
+          "ball": 4,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Jaya Mohite",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4437714"
+        },
+        {
+          "over": 8,
+          "ball": 3,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Deep extra cover",
+          "teamId": "",
+          "bowlerId": "4437714",
+          "batterId": "8965007"
+        },
+        {
+          "over": 8,
+          "ball": 2,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Jaya Mohite",
+          "runs": 1,
+          "description": "1 run,  to Deep extra cover",
+          "teamId": "",
+          "bowlerId": "4437714"
+        },
+        {
+          "over": 8,
+          "ball": 1,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Wide long-off",
+          "teamId": "",
+          "bowlerId": "4437714",
+          "batterId": "8965007"
+        },
+        {
+          "over": 7,
+          "ball": 6,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "Jaya Mohite",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "11065282"
+        },
+        {
+          "over": 7,
+          "ball": 5,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "Jaya Mohite",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "11065282"
+        },
+        {
+          "over": 7,
+          "ball": 4,
+          "bowler": "WAarya yogeshbhai Mehta",
+          "batter": "Hrutvisha Patel",
+          "runs": 0,
+          "description": "OUT LBWHrutvisha Patel lbw b Aarya yogeshbhai Mehta (3r 11b 0x4s 0x6s SR: 27.27)",
+          "teamId": "",
+          "bowlerId": "11065282",
+          "wicketInfo": {
+            "wicketType": "lbw",
+            "playerName": "Hrutvisha Patel",
+            "bowler": "Aarya yogeshbhai Mehta",
+            "battingStats": {
+              "runs": 3,
+              "balls": 11,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": 27.27
+            }
+          }
+        },
+        {
+          "over": 7,
+          "ball": 3,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "Hrutvisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "11065282"
+        },
+        {
+          "over": 7,
+          "ball": 2,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "Hrutvisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "11065282"
+        },
+        {
+          "over": 7,
+          "ball": 1,
+          "bowler": "Aarya yogeshbhai Mehta",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Deep extra cover",
+          "teamId": "",
+          "bowlerId": "11065282",
+          "batterId": "8965007"
+        },
+        {
+          "over": 6,
+          "ball": 6,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Long-off",
+          "teamId": "",
+          "bowlerId": "4437714",
+          "batterId": "8965007"
+        },
+        {
+          "over": 6,
+          "ball": 5,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Amrita Joseph",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4437714",
+          "batterId": "8965007"
+        },
+        {
+          "over": 6,
+          "ball": 4,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Amrita Joseph",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4437714",
+          "batterId": "8965007"
+        },
+        {
+          "over": 6,
+          "ball": 3,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Hrutvisha Patel",
+          "runs": 1,
+          "description": "1 run,  to Deep extra cover",
+          "teamId": "",
+          "bowlerId": "4437714"
+        },
+        {
+          "over": 6,
+          "ball": 3,
+          "bowler": "WDJanvi nikeshkumar Raval",
+          "batter": "Hrutvisha Patel",
+          "runs": 0,
+          "description": "wide",
+          "teamId": "",
+          "bowlerId": "4437714"
+        },
+        {
+          "over": 6,
+          "ball": 2,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Long-off",
+          "teamId": "",
+          "bowlerId": "4437714",
+          "batterId": "8965007"
+        },
+        {
+          "over": 6,
+          "ball": 1,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Hrutvisha Patel",
+          "runs": 1,
+          "description": "1 run,  to Cow corner",
+          "teamId": "",
+          "bowlerId": "4437714"
+        },
+        {
+          "over": 5,
+          "ball": 6,
+          "bowler": "Jinal Patel",
+          "batter": "Amrita Joseph",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 5,
+          "ball": 5,
+          "bowler": "Jinal Patel",
+          "batter": "Amrita Joseph",
+          "runs": 4,
+          "description": "FOUR,  to Wide long-off",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 5,
+          "ball": 4,
+          "bowler": "Jinal Patel",
+          "batter": "Amrita Joseph",
+          "runs": 2,
+          "description": "2 runs,  to Long-off",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 5,
+          "ball": 3,
+          "bowler": "Jinal Patel",
+          "batter": "Amrita Joseph",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 5,
+          "ball": 2,
+          "bowler": "Jinal Patel",
+          "batter": "Hrutvisha Patel",
+          "runs": 1,
+          "description": "1 run,  to Cover",
+          "teamId": ""
+        },
+        {
+          "over": 5,
+          "ball": 1,
+          "bowler": "Jinal Patel",
+          "batter": "Amrita Joseph",
+          "runs": 1,
+          "description": "1 run,  to Fine leg",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 4,
+          "ball": 6,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Hrutvisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4437714"
+        },
+        {
+          "over": 4,
+          "ball": 5,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Hrutvisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4437714"
+        },
+        {
+          "over": 4,
+          "ball": 4,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Hrutvisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4437714"
+        },
+        {
+          "over": 4,
+          "ball": 3,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Hrutvisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4437714"
+        },
+        {
+          "over": 4,
+          "ball": 2,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Hrutvisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4437714"
+        },
+        {
+          "over": 4,
+          "ball": 1,
+          "bowler": "WJanvi nikeshkumar Raval",
+          "batter": "Dharti Rathod",
+          "runs": 0,
+          "description": "OUT BowledDharti Rathod b Janvi nikeshkumar Raval (6r 12b 1x4s 0x6s SR: 50.00)",
+          "teamId": "",
+          "bowlerId": "4437714",
+          "batterId": "1619798",
+          "wicketInfo": {
+            "wicketType": "bowled",
+            "playerName": "Dharti Rathod",
+            "bowler": "Janvi nikeshkumar Raval",
+            "battingStats": {
+              "runs": 6,
+              "balls": 12,
+              "fours": 1,
+              "sixes": 0,
+              "strikeRate": 50
+            }
+          }
+        },
+        {
+          "over": 3,
+          "ball": 6,
+          "bowler": "Jinal Patel",
+          "batter": "Amrita Joseph",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 3,
+          "ball": 5,
+          "bowler": "Jinal Patel",
+          "batter": "Amrita Joseph",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "8965007"
+        },
+        {
+          "over": 3,
+          "ball": 4,
+          "bowler": "Jinal Patel",
+          "batter": "Dharti Rathod",
+          "runs": 1,
+          "description": "1 run,  to Third man",
+          "teamId": "",
+          "batterId": "1619798"
+        },
+        {
+          "over": 3,
+          "ball": 3,
+          "bowler": "Jinal Patel",
+          "batter": "Dharti Rathod",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "1619798"
+        },
+        {
+          "over": 3,
+          "ball": 2,
+          "bowler": "Jinal Patel",
+          "batter": "Dharti Rathod",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "1619798"
+        },
+        {
+          "over": 3,
+          "ball": 1,
+          "bowler": "Jinal Patel",
+          "batter": "Dharti Rathod",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "1619798"
+        },
+        {
+          "over": 2,
+          "ball": 6,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Amrita Joseph",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4437714",
+          "batterId": "8965007"
+        },
+        {
+          "over": 2,
+          "ball": 5,
+          "bowler": "WJanvi nikeshkumar Raval",
+          "batter": "Nishat Changiwala",
+          "runs": 0,
+          "description": "OUT BowledNishat Changiwala b Janvi nikeshkumar Raval (9r 10b 2x4s 0x6s SR: 90.00)",
+          "teamId": "",
+          "bowlerId": "4437714",
+          "batterId": "4678429",
+          "wicketInfo": {
+            "wicketType": "bowled",
+            "playerName": "Nishat Changiwala",
+            "bowler": "Janvi nikeshkumar Raval",
+            "battingStats": {
+              "runs": 9,
+              "balls": 10,
+              "fours": 2,
+              "sixes": 0,
+              "strikeRate": 90
+            }
+          }
+        },
+        {
+          "over": 2,
+          "ball": 4,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Nishat Changiwala",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4437714",
+          "batterId": "4678429"
+        },
+        {
+          "over": 2,
+          "ball": 3,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Nishat Changiwala",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4437714",
+          "batterId": "4678429"
+        },
+        {
+          "over": 2,
+          "ball": 2,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Nishat Changiwala",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4437714",
+          "batterId": "4678429"
+        },
+        {
+          "over": 2,
+          "ball": 1,
+          "bowler": "Janvi nikeshkumar Raval",
+          "batter": "Nishat Changiwala",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4437714",
+          "batterId": "4678429"
+        },
+        {
+          "over": 1,
+          "ball": 6,
+          "bowler": "Jinal Patel",
+          "batter": "Dharti Rathod",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "1619798"
+        },
+        {
+          "over": 1,
+          "ball": 6,
+          "bowler": "WDJinal Patel",
+          "batter": "Dharti Rathod",
+          "runs": 0,
+          "description": "wide",
+          "teamId": "",
+          "batterId": "1619798"
+        },
+        {
+          "over": 1,
+          "ball": 5,
+          "bowler": "Jinal Patel",
+          "batter": "Dharti Rathod",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "1619798"
+        },
+        {
+          "over": 1,
+          "ball": 4,
+          "bowler": "Jinal Patel",
+          "batter": "Dharti Rathod",
+          "runs": 4,
+          "description": "FOUR,  to Cow corner",
+          "teamId": "",
+          "batterId": "1619798"
+        },
+        {
+          "over": 1,
+          "ball": 3,
+          "bowler": "Jinal Patel",
+          "batter": "Dharti Rathod",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "1619798"
+        },
+        {
+          "over": 1,
+          "ball": 2,
+          "bowler": "Jinal Patel",
+          "batter": "Dharti Rathod",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "1619798"
+        },
+        {
+          "over": 1,
+          "ball": 1,
+          "bowler": "Jinal Patel",
+          "batter": "Dharti Rathod",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "1619798"
+        },
+        {
+          "over": 0,
+          "ball": 6,
+          "bowler": "Arohi Bist",
+          "batter": "Nishat Changiwala",
+          "runs": 4,
+          "description": "FOUR,  to Deep backward point",
+          "teamId": "",
+          "bowlerId": "30696739",
+          "batterId": "4678429"
+        },
+        {
+          "over": 0,
+          "ball": 5,
+          "bowler": "Arohi Bist",
+          "batter": "Dharti Rathod",
+          "runs": 1,
+          "description": "1 run,  to Backward square leg",
+          "teamId": "",
+          "bowlerId": "30696739",
+          "batterId": "1619798"
+        },
+        {
+          "over": 0,
+          "ball": 4,
+          "bowler": "Arohi Bist",
+          "batter": "Nishat Changiwala",
+          "runs": 1,
+          "description": "1 run,  to Backward Point",
+          "teamId": "",
+          "bowlerId": "30696739",
+          "batterId": "4678429"
+        },
+        {
+          "over": 0,
+          "ball": 3,
+          "bowler": "Arohi Bist",
+          "batter": "Nishat Changiwala",
+          "runs": 4,
+          "description": "FOUR,  to Straight long-off",
+          "teamId": "",
+          "bowlerId": "30696739",
+          "batterId": "4678429"
+        },
+        {
+          "over": 0,
+          "ball": 2,
+          "bowler": "Arohi Bist",
+          "batter": "Nishat Changiwala",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "30696739",
+          "batterId": "4678429"
+        },
+        {
+          "over": 0,
+          "ball": 1,
+          "bowler": "Arohi Bist",
+          "batter": "Nishat Changiwala",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "30696739",
+          "batterId": "4678429"
+        }
+      ],
+      "totalRuns": 5,
+      "totalWickets": 75,
+      "totalOvers": 20
+    },
+    {
+      "teamId": "",
+      "teamName": "Combined Disrict Women - 1",
+      "overs": [
+        {
+          "over": 20,
+          "bowler": "4-0-4-0",
+          "runs": 1,
+          "wickets": 8,
+          "balls": 6,
+          "maidens": 0,
+          "economy": 1,
+          "summary": "End of over 203 Runs 1 Wkts84/9Hetvi Patel*17 (21)Vanshika dharmeshbhai Patel1 (2)Jaya Mohite4-0-4-0TANVIR SHAIKH4-0-4-0",
+          "teamId": ""
+        },
+        {
+          "over": 19,
+          "bowler": "4-0-4-0",
+          "runs": 1,
+          "wickets": 8,
+          "balls": 6,
+          "maidens": 0,
+          "economy": 1,
+          "summary": "End of over 194 Runs 1 Wkts81/8Hetvi Patel*15 (18)Maitri Rathod2 (3)TANVIR SHAIKH4-0-4-0Sneha Baria3-0-3-0",
+          "teamId": ""
+        },
+        {
+          "over": 18,
+          "bowler": "3-0-3-0",
+          "runs": 0,
+          "wickets": 7,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 182 Runs 0 Wkts77/7Hetvi Patel*14 (17)Arohi Bist4 (9)Sneha Baria3-0-3-0TANVIR SHAIKH3-0-3-0",
+          "teamId": ""
+        },
+        {
+          "over": 17,
+          "bowler": "3-0-3-0",
+          "runs": 0,
+          "wickets": 7,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 174 Runs 0 Wkts75/7Hetvi Patel*13 (15)Arohi Bist3 (5)TANVIR SHAIKH3-0-3-0Sneha Baria2-0-2-0",
+          "teamId": ""
+        },
+        {
+          "over": 16,
+          "bowler": "2-0-2-0",
+          "runs": 1,
+          "wickets": 7,
+          "balls": 6,
+          "maidens": 0,
+          "economy": 1,
+          "summary": "End of over 163 Runs 1 Wkts71/7Hetvi Patel*11 (12)Arohi Bist1 (2)Sneha Baria2-0-2-0TANVIR SHAIKH2-0-2-0",
+          "teamId": ""
+        },
+        {
+          "over": 15,
+          "bowler": "2-0-2-0",
+          "runs": 0,
+          "wickets": 6,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 154 Runs 0 Wkts68/6Hetvi Patel*9 (11)Jinal Patel9 (13)TANVIR SHAIKH2-0-2-0Sneha Baria1-0-1-0",
+          "teamId": ""
+        },
+        {
+          "over": 14,
+          "bowler": "1-0-1-0",
+          "runs": 0,
+          "wickets": 6,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 142 Runs 0 Wkts64/6Hetvi Patel*7 (7)Jinal Patel7 (11)Sneha Baria1-0-1-0Jaya Mohite3-0-3-0",
+          "teamId": ""
+        },
+        {
+          "over": 13,
+          "bowler": "3-0-3-0",
+          "runs": 0,
+          "wickets": 6,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 135 Runs 0 Wkts62/6Hetvi Patel*6 (4)Jinal Patel6 (8)Jaya Mohite3-0-3-0Janki Rathod2-0-2-0",
+          "teamId": ""
+        },
+        {
+          "over": 12,
+          "bowler": "2-0-2-0",
+          "runs": 1,
+          "wickets": 5,
+          "balls": 6,
+          "maidens": 0,
+          "economy": 1,
+          "summary": "End of over 127 Runs 1 Wkts57/6Hetvi Patel*6 (4)Jinal Patel1 (2)Janki Rathod2-0-2-0Jaya Mohite2-0-2-0",
+          "teamId": ""
+        },
+        {
+          "over": 11,
+          "bowler": "2-0-2-0",
+          "runs": 2,
+          "wickets": 5,
+          "balls": 6,
+          "maidens": 0,
+          "economy": 2,
+          "summary": "End of over 114 Runs 2 Wkts50/5Hetvi Patel*0 (1)Aadhya mineshbhai Patel1 (5)Jaya Mohite2-0-2-0Janki Rathod1-0-1-0",
+          "teamId": ""
+        },
+        {
+          "over": 10,
+          "bowler": "1-0-1-0",
+          "runs": 0,
+          "wickets": 4,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 104 Runs 0 Wkts46/3Trisha Patel*26 (29)Aadhya mineshbhai Patel1 (5)Janki Rathod1-0-1-0Jaya Mohite1-0-1-0",
+          "teamId": ""
+        },
+        {
+          "over": 9,
+          "bowler": "1-0-1-0",
+          "runs": 1,
+          "wickets": 4,
+          "balls": 6,
+          "maidens": 0,
+          "economy": 1,
+          "summary": "End of over 95 Runs 1 Wkts42/3Trisha Patel*24 (27)Aadhya mineshbhai Patel0 (1)Jaya Mohite1-0-1-0BHUMIKA RATHOD2-0-2-0",
+          "teamId": ""
+        },
+        {
+          "over": 8,
+          "bowler": "2-0-2-0",
+          "runs": 0,
+          "wickets": 3,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 84 Runs 0 Wkts37/2Trisha Patel*23 (24)Neha girishkumar Patel3 (11)BHUMIKA RATHOD2-0-2-0RIDDHI MAURYA3-1-3-1",
+          "teamId": ""
+        },
+        {
+          "over": 6,
+          "bowler": "1-0-1-0",
+          "runs": 0,
+          "wickets": 2,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 61 Runs 0 Wkts21/2Trisha Patel*10 (17)Neha girishkumar Patel0 (6)BHUMIKA RATHOD1-0-1-0RIDDHI MAURYA2-1-2-1",
+          "teamId": ""
+        },
+        {
+          "over": 50,
+          "bowler": "2-1-2-1",
+          "runs": 2,
+          "wickets": 2,
+          "balls": 6,
+          "maidens": 0,
+          "economy": 2,
+          "summary": "End of over 50 Runs 2 Wkts20/2Trisha Patel*9 (14)Neha girishkumar Patel0 (3)RIDDHI MAURYA2-1-2-1TANVIR SHAIKH1-0-1-0",
+          "teamId": ""
+        },
+        {
+          "over": 45,
+          "bowler": "1-0-1-0",
+          "runs": 0,
+          "wickets": 2,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 45 Runs 0 Wkts20/0Trisha Patel*9 (14)Kavyanjali ripalkumar Patel5 (10)TANVIR SHAIKH1-0-1-0MAITHILI GANJALE2-0-2-0",
+          "teamId": ""
+        },
+        {
+          "over": 39,
+          "bowler": "2-0-2-0",
+          "runs": 0,
+          "wickets": 1,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 39 Runs 0 Wkts15/0Trisha Patel*5 (12)Kavyanjali ripalkumar Patel4 (6)MAITHILI GANJALE2-0-2-0RIDDHI MAURYA1-0-1-0",
+          "teamId": ""
+        },
+        {
+          "over": 25,
+          "bowler": "1-0-1-0",
+          "runs": 0,
+          "wickets": 6,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 25 Runs 0 Wkts6/0Trisha Patel*5 (12)Kavyanjali ripalkumar Patel0 (0)RIDDHI MAURYA1-0-1-0MAITHILI GANJALE1-0-1-0",
+          "teamId": ""
+        },
+        {
+          "over": 11,
+          "bowler": "1-0-1-0",
+          "runs": 0,
+          "wickets": 1,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 11 Runs 0 Wkts1/0Trisha Patel*1 (6)Kavyanjali ripalkumar Patel0 (0)MAITHILI GANJALE1-0-1-0",
+          "teamId": ""
+        }
+      ],
+      "balls": [
+        {
+          "over": 19,
+          "ball": 6,
+          "bowler": "Jaya Mohite",
+          "batter": "Hetvi Patel",
+          "runs": 1,
+          "description": "1 run,  to Straight long-on",
+          "teamId": ""
+        },
+        {
+          "over": 19,
+          "ball": 5,
+          "bowler": "Jaya Mohite",
+          "batter": "Vanshika dharmeshbhai Patel",
+          "runs": 1,
+          "description": "1 run,  to Backward square leg",
+          "teamId": ""
+        },
+        {
+          "over": 19,
+          "ball": 4,
+          "bowler": "Jaya Mohite",
+          "batter": "Vanshika dharmeshbhai Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 19,
+          "ball": 3,
+          "bowler": "WJaya Mohite",
+          "batter": "Maitri Rathod",
+          "runs": 0,
+          "description": "OUT BowledMaitri Rathod b Jaya Mohite (2r 4b 0x4s 0x6s SR: 50.00)",
+          "teamId": "",
+          "wicketInfo": {
+            "wicketType": "bowled",
+            "playerName": "Maitri Rathod",
+            "bowler": "Jaya Mohite",
+            "battingStats": {
+              "runs": 2,
+              "balls": 4,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": 50
+            }
+          }
+        },
+        {
+          "over": 19,
+          "ball": 2,
+          "bowler": "Jaya Mohite",
+          "batter": "Hetvi Patel",
+          "runs": 1,
+          "description": "1 run,  to Wide long-on",
+          "teamId": ""
+        },
+        {
+          "over": 19,
+          "ball": 1,
+          "bowler": "Jaya Mohite",
+          "batter": "Hetvi Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 18,
+          "ball": 6,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Maitri Rathod",
+          "runs": 2,
+          "description": "2 runs,  to Deep mid wicket",
+          "teamId": ""
+        },
+        {
+          "over": 18,
+          "ball": 5,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Maitri Rathod",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 18,
+          "ball": 4,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Maitri Rathod",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 18,
+          "ball": 3,
+          "bowler": "WTANVIR SHAIKH",
+          "batter": "Arohi Bist",
+          "runs": 0,
+          "description": "OUT BowledArohi Bist b TANVIR SHAIKH (5r 11b 0x4s 0x6s SR: 45.45)",
+          "teamId": "",
+          "batterId": "30696739",
+          "wicketInfo": {
+            "wicketType": "bowled",
+            "playerName": "Arohi Bist",
+            "bowler": "TANVIR SHAIKH",
+            "battingStats": {
+              "runs": 5,
+              "balls": 11,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": 45.45
+            }
+          }
+        },
+        {
+          "over": 18,
+          "ball": 2,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Hetvi Patel",
+          "runs": 1,
+          "description": "1 run,  to Long-off",
+          "teamId": ""
+        },
+        {
+          "over": 18,
+          "ball": 1,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Arohi Bist",
+          "runs": 1,
+          "description": "1 run,  to Mid wicket",
+          "teamId": "",
+          "batterId": "30696739"
+        },
+        {
+          "over": 17,
+          "ball": 6,
+          "bowler": "Sneha Baria",
+          "batter": "Arohi Bist",
+          "runs": 1,
+          "description": "1 run,  to Long-off",
+          "teamId": "",
+          "batterId": "30696739"
+        },
+        {
+          "over": 17,
+          "ball": 5,
+          "bowler": "Sneha Baria",
+          "batter": "Arohi Bist",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "30696739"
+        },
+        {
+          "over": 17,
+          "ball": 4,
+          "bowler": "Sneha Baria",
+          "batter": "Arohi Bist",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "30696739"
+        },
+        {
+          "over": 17,
+          "ball": 3,
+          "bowler": "Sneha Baria",
+          "batter": "Arohi Bist",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "30696739"
+        },
+        {
+          "over": 17,
+          "ball": 2,
+          "bowler": "Sneha Baria",
+          "batter": "Hetvi Patel",
+          "runs": 1,
+          "description": "1 run,  to Deep mid wicket",
+          "teamId": ""
+        },
+        {
+          "over": 17,
+          "ball": 1,
+          "bowler": "Sneha Baria",
+          "batter": "Hetvi Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 16,
+          "ball": 6,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Hetvi Patel",
+          "runs": 1,
+          "description": "1 run,  to Wide long-on",
+          "teamId": ""
+        },
+        {
+          "over": 16,
+          "ball": 5,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Arohi Bist",
+          "runs": 1,
+          "description": "1 run,  to Backward square leg",
+          "teamId": "",
+          "batterId": "30696739"
+        },
+        {
+          "over": 16,
+          "ball": 4,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Hetvi Patel",
+          "runs": 1,
+          "description": "1 run,  to Long-on",
+          "teamId": ""
+        },
+        {
+          "over": 16,
+          "ball": 3,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Hetvi Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 16,
+          "ball": 2,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Arohi Bist",
+          "runs": 1,
+          "description": "1 run,  to Deep extra cover",
+          "teamId": "",
+          "batterId": "30696739"
+        },
+        {
+          "over": 16,
+          "ball": 1,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Arohi Bist",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "30696739"
+        },
+        {
+          "over": 15,
+          "ball": 6,
+          "bowler": "Sneha Baria",
+          "batter": "Hetvi Patel",
+          "runs": 2,
+          "description": "2 runs,  to Wide long-off",
+          "teamId": ""
+        },
+        {
+          "over": 15,
+          "ball": 5,
+          "bowler": "Sneha Baria",
+          "batter": "Arohi Bist",
+          "runs": 1,
+          "description": "1 run,  to Short fine leg",
+          "teamId": "",
+          "batterId": "30696739"
+        },
+        {
+          "over": 15,
+          "ball": 4,
+          "bowler": "Sneha Baria",
+          "batter": "Arohi Bist",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "30696739"
+        },
+        {
+          "over": 15,
+          "ball": 3,
+          "bowler": "WSneha Baria",
+          "batter": "Jinal Patel",
+          "runs": 0,
+          "description": "OUT BowledJinal Patel b Sneha Baria (9r 16b 1x4s 0x6s SR: 56.25)",
+          "teamId": "",
+          "wicketInfo": {
+            "wicketType": "bowled",
+            "playerName": "Jinal Patel",
+            "bowler": "Sneha Baria",
+            "battingStats": {
+              "runs": 9,
+              "balls": 16,
+              "fours": 1,
+              "sixes": 0,
+              "strikeRate": 56.25
+            }
+          }
+        },
+        {
+          "over": 15,
+          "ball": 2,
+          "bowler": "Sneha Baria",
+          "batter": "Jinal Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 15,
+          "ball": 1,
+          "bowler": "Sneha Baria",
+          "batter": "Jinal Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 14,
+          "ball": 6,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Hetvi Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 14,
+          "ball": 5,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Hetvi Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 14,
+          "ball": 4,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Jinal Patel",
+          "runs": 1,
+          "description": "1 run,  to Cow corner",
+          "teamId": ""
+        },
+        {
+          "over": 14,
+          "ball": 3,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Hetvi Patel",
+          "runs": 1,
+          "description": "1 run,  to Long-on",
+          "teamId": ""
+        },
+        {
+          "over": 14,
+          "ball": 2,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Jinal Patel",
+          "runs": 1,
+          "description": "1 run,  to Long-on",
+          "teamId": ""
+        },
+        {
+          "over": 14,
+          "ball": 1,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Hetvi Patel",
+          "runs": 1,
+          "description": "1 run,  to Short fine leg",
+          "teamId": ""
+        },
+        {
+          "over": 13,
+          "ball": 6,
+          "bowler": "Sneha Baria",
+          "batter": "Jinal Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 13,
+          "ball": 5,
+          "bowler": "Sneha Baria",
+          "batter": "Hetvi Patel",
+          "runs": 1,
+          "description": "1 run,  to Straight long-on",
+          "teamId": ""
+        },
+        {
+          "over": 13,
+          "ball": 4,
+          "bowler": "Sneha Baria",
+          "batter": "Hetvi Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 13,
+          "ball": 3,
+          "bowler": "Sneha Baria",
+          "batter": "Hetvi Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 13,
+          "ball": 2,
+          "bowler": "Sneha Baria",
+          "batter": "Jinal Patel",
+          "runs": 1,
+          "description": "1 run,  to Wide long-on",
+          "teamId": ""
+        },
+        {
+          "over": 13,
+          "ball": 1,
+          "bowler": "Sneha Baria",
+          "batter": "Jinal Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 12,
+          "ball": 6,
+          "bowler": "Jaya Mohite",
+          "batter": "Jinal Patel",
+          "runs": 1,
+          "description": "1 run,  to Deep mid wicket",
+          "teamId": ""
+        },
+        {
+          "over": 12,
+          "ball": 5,
+          "bowler": "Jaya Mohite",
+          "batter": "Jinal Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 12,
+          "ball": 4,
+          "bowler": "Jaya Mohite",
+          "batter": "Jinal Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 12,
+          "ball": 3,
+          "bowler": "Jaya Mohite",
+          "batter": "Jinal Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 12,
+          "ball": 2,
+          "bowler": "Jaya Mohite",
+          "batter": "Jinal Patel",
+          "runs": 4,
+          "description": "FOUR,  to Deep extra cover",
+          "teamId": ""
+        },
+        {
+          "over": 12,
+          "ball": 1,
+          "bowler": "Jaya Mohite",
+          "batter": "Jinal Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 11,
+          "ball": 6,
+          "bowler": "Janki Rathod",
+          "batter": "Hetvi Patel",
+          "runs": 6,
+          "description": "SIX,  to Wide long-on",
+          "teamId": "",
+          "bowlerId": "4047587"
+        },
+        {
+          "over": 11,
+          "ball": 5,
+          "bowler": "Janki Rathod",
+          "batter": "Hetvi Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4047587"
+        },
+        {
+          "over": 11,
+          "ball": 4,
+          "bowler": "Janki Rathod",
+          "batter": "Hetvi Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4047587"
+        },
+        {
+          "over": 11,
+          "ball": 3,
+          "bowler": "Janki Rathod",
+          "batter": "Jinal Patel",
+          "runs": 1,
+          "description": "1 run,  to Cow corner",
+          "teamId": "",
+          "bowlerId": "4047587"
+        },
+        {
+          "over": 11,
+          "ball": 2,
+          "bowler": "Janki Rathod",
+          "batter": "Jinal Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4047587"
+        },
+        {
+          "over": 11,
+          "ball": 1,
+          "bowler": "WJanki Rathod",
+          "batter": "Aadhya mineshbhai Patel",
+          "runs": 0,
+          "description": "OUT LBWAadhya mineshbhai Patel lbw b Janki Rathod (1r 6b 0x4s 0x6s SR: 16.67)",
+          "teamId": "",
+          "bowlerId": "4047587",
+          "batterId": "7601817",
+          "wicketInfo": {
+            "wicketType": "lbw",
+            "playerName": "Aadhya mineshbhai Patel",
+            "bowler": "Janki Rathod",
+            "battingStats": {
+              "runs": 1,
+              "balls": 6,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": 16.67
+            }
+          }
+        },
+        {
+          "over": 10,
+          "ball": 6,
+          "bowler": "Jaya Mohite",
+          "batter": "Hetvi Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 10,
+          "ball": 5,
+          "bowler": "WJaya Mohite",
+          "batter": "Aarya yogeshbhai Mehta",
+          "runs": 0,
+          "description": "OUT LBWAarya yogeshbhai Mehta lbw b Jaya Mohite (4r 4b 1x4s 0x6s SR: 100.00)",
+          "teamId": "",
+          "batterId": "11065282",
+          "wicketInfo": {
+            "wicketType": "lbw",
+            "playerName": "Aarya yogeshbhai Mehta",
+            "bowler": "Jaya Mohite",
+            "battingStats": {
+              "runs": 4,
+              "balls": 4,
+              "fours": 1,
+              "sixes": 0,
+              "strikeRate": 100
+            }
+          }
+        },
+        {
+          "over": 10,
+          "ball": 4,
+          "bowler": "Jaya Mohite",
+          "batter": "Aarya yogeshbhai Mehta",
+          "runs": 4,
+          "description": "FOUR,  to Third man",
+          "teamId": "",
+          "batterId": "11065282"
+        },
+        {
+          "over": 10,
+          "ball": 3,
+          "bowler": "Jaya Mohite",
+          "batter": "Aarya yogeshbhai Mehta",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "11065282"
+        },
+        {
+          "over": 10,
+          "ball": 2,
+          "bowler": "Jaya Mohite",
+          "batter": "Aarya yogeshbhai Mehta",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "11065282"
+        },
+        {
+          "over": 10,
+          "ball": 1,
+          "bowler": "WJaya Mohite",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "OUT Caught out, Caught at Cover by MAITHILI GANJALETrisha Patel c MAITHILI GANJALE b Jaya Mohite (26r 30b 3x4s 1x6s SR: 86.67)",
+          "teamId": "",
+          "wicketInfo": {
+            "wicketType": "caught",
+            "playerName": "Trisha Patel",
+            "bowler": "Jaya Mohite",
+            "fielder": "MAITHILI GANJALE",
+            "battingStats": {
+              "runs": 26,
+              "balls": 30,
+              "fours": 3,
+              "sixes": 1,
+              "strikeRate": 86.67
+            }
+          }
+        },
+        {
+          "over": 9,
+          "ball": 6,
+          "bowler": "Janki Rathod",
+          "batter": "Trisha Patel",
+          "runs": 1,
+          "description": "1 run,  to Cow corner",
+          "teamId": "",
+          "bowlerId": "4047587"
+        },
+        {
+          "over": 9,
+          "ball": 5,
+          "bowler": "Janki Rathod",
+          "batter": "Aadhya mineshbhai Patel",
+          "runs": 1,
+          "description": "1 run,  to Cow corner",
+          "teamId": "",
+          "bowlerId": "4047587",
+          "batterId": "7601817"
+        },
+        {
+          "over": 9,
+          "ball": 4,
+          "bowler": "Janki Rathod",
+          "batter": "Aadhya mineshbhai Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4047587",
+          "batterId": "7601817"
+        },
+        {
+          "over": 9,
+          "ball": 4,
+          "bowler": "WDJanki Rathod",
+          "batter": "Aadhya mineshbhai Patel",
+          "runs": 0,
+          "description": "wide",
+          "teamId": "",
+          "bowlerId": "4047587",
+          "batterId": "7601817"
+        },
+        {
+          "over": 9,
+          "ball": 3,
+          "bowler": "Janki Rathod",
+          "batter": "Aadhya mineshbhai Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4047587",
+          "batterId": "7601817"
+        },
+        {
+          "over": 9,
+          "ball": 2,
+          "bowler": "Janki Rathod",
+          "batter": "Aadhya mineshbhai Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "4047587",
+          "batterId": "7601817"
+        },
+        {
+          "over": 9,
+          "ball": 1,
+          "bowler": "Janki Rathod",
+          "batter": "Trisha Patel",
+          "runs": 1,
+          "description": "1 run,  to Short third man",
+          "teamId": "",
+          "bowlerId": "4047587"
+        },
+        {
+          "over": 8,
+          "ball": 6,
+          "bowler": "Jaya Mohite",
+          "batter": "Aadhya mineshbhai Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "7601817"
+        },
+        {
+          "over": 8,
+          "ball": 5,
+          "bowler": "WJaya Mohite",
+          "batter": "Neha girishkumar Patel",
+          "runs": 0,
+          "description": "OUT Caught and bowled, Caught at Short mid off by Jaya MohiteNeha girishkumar Patel c&b Jaya Mohite (7r 13b 1x4s 0x6s SR: 53.85)",
+          "teamId": "",
+          "wicketInfo": {
+            "wicketType": "other",
+            "playerName": "Caught",
+            "bowler": "WJaya Mohite",
+            "battingStats": {
+              "runs": 7,
+              "balls": 13,
+              "fours": 1,
+              "sixes": 0,
+              "strikeRate": 53.85
+            }
+          }
+        },
+        {
+          "over": 8,
+          "ball": 4,
+          "bowler": "Jaya Mohite",
+          "batter": "Neha girishkumar Patel",
+          "runs": 4,
+          "description": "FOUR,  to Long-off",
+          "teamId": ""
+        },
+        {
+          "over": 8,
+          "ball": 3,
+          "bowler": "Jaya Mohite",
+          "batter": "Trisha Patel",
+          "runs": 1,
+          "description": "1 run,  to Wide long-off",
+          "teamId": ""
+        },
+        {
+          "over": 8,
+          "ball": 2,
+          "bowler": "Jaya Mohite",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 8,
+          "ball": 1,
+          "bowler": "Jaya Mohite",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 7,
+          "ball": 6,
+          "bowler": "BHUMIKA RATHOD",
+          "batter": "Trisha Patel",
+          "runs": 1,
+          "description": "1 run,  to Long-off",
+          "teamId": "",
+          "bowlerId": "19389091"
+        },
+        {
+          "over": 7,
+          "ball": 5,
+          "bowler": "BHUMIKA RATHOD",
+          "batter": "Neha girishkumar Patel",
+          "runs": 1,
+          "description": "1 run,  to Long-on",
+          "teamId": "",
+          "bowlerId": "19389091"
+        },
+        {
+          "over": 7,
+          "ball": 4,
+          "bowler": "BHUMIKA RATHOD",
+          "batter": "Neha girishkumar Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "19389091"
+        },
+        {
+          "over": 7,
+          "ball": 3,
+          "bowler": "BHUMIKA RATHOD",
+          "batter": "Trisha Patel",
+          "runs": 1,
+          "description": "1 run,  to Long-off",
+          "teamId": "",
+          "bowlerId": "19389091"
+        },
+        {
+          "over": 7,
+          "ball": 2,
+          "bowler": "BHUMIKA RATHOD",
+          "batter": "Neha girishkumar Patel",
+          "runs": 1,
+          "description": "1 run,  to Deep extra cover",
+          "teamId": "",
+          "bowlerId": "19389091"
+        },
+        {
+          "over": 7,
+          "ball": 1,
+          "bowler": "BHUMIKA RATHOD",
+          "batter": "Neha girishkumar Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "19389091"
+        },
+        {
+          "over": 6,
+          "ball": 6,
+          "bowler": "RIDDHI MAURYA",
+          "batter": "Neha girishkumar Patel",
+          "runs": 1,
+          "description": "1 run,  to Long-on",
+          "teamId": ""
+        },
+        {
+          "over": 6,
+          "ball": 5,
+          "bowler": "RIDDHI MAURYA",
+          "batter": "Trisha Patel",
+          "runs": 1,
+          "description": "1 run,  to Long-on",
+          "teamId": ""
+        },
+        {
+          "over": 6,
+          "ball": 4,
+          "bowler": "RIDDHI MAURYA",
+          "batter": "Trisha Patel",
+          "runs": 6,
+          "description": "SIX,  to Deep mid wicket",
+          "teamId": ""
+        },
+        {
+          "over": 6,
+          "ball": 3,
+          "bowler": "RIDDHI MAURYA",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 6,
+          "ball": 2,
+          "bowler": "RIDDHI MAURYA",
+          "batter": "Trisha Patel",
+          "runs": 4,
+          "description": "FOUR,  to Cow corner",
+          "teamId": ""
+        },
+        {
+          "over": 6,
+          "ball": 1,
+          "bowler": "RIDDHI MAURYA",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 5,
+          "ball": 6,
+          "bowler": "BHUMIKA RATHOD",
+          "batter": "Neha girishkumar Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "19389091"
+        },
+        {
+          "over": 5,
+          "ball": 5,
+          "bowler": "BHUMIKA RATHOD",
+          "batter": "Neha girishkumar Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "19389091"
+        },
+        {
+          "over": 5,
+          "ball": 4,
+          "bowler": "BHUMIKA RATHOD",
+          "batter": "Neha girishkumar Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "19389091"
+        },
+        {
+          "over": 5,
+          "ball": 3,
+          "bowler": "BHUMIKA RATHOD",
+          "batter": "Trisha Patel",
+          "runs": 1,
+          "description": "1 run,  to Cover",
+          "teamId": "",
+          "bowlerId": "19389091"
+        },
+        {
+          "over": 5,
+          "ball": 2,
+          "bowler": "BHUMIKA RATHOD",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "19389091"
+        },
+        {
+          "over": 5,
+          "ball": 1,
+          "bowler": "BHUMIKA RATHOD",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "bowlerId": "19389091"
+        },
+        {
+          "over": 4,
+          "ball": 6,
+          "bowler": "RIDDHI MAURYA",
+          "batter": "Neha girishkumar Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 4,
+          "ball": 5,
+          "bowler": "RIDDHI MAURYA",
+          "batter": "Neha girishkumar Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 4,
+          "ball": 4,
+          "bowler": "RIDDHI MAURYA",
+          "batter": "Neha girishkumar Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 4,
+          "ball": 3,
+          "bowler": "WRIDDHI MAURYA",
+          "batter": "Janvi nikeshkumar Raval",
+          "runs": 0,
+          "description": "OUT BowledJanvi nikeshkumar Raval b RIDDHI MAURYA (0r 2b 0x4s 0x6s SR: 0.00)",
+          "teamId": "",
+          "batterId": "4437714",
+          "wicketInfo": {
+            "wicketType": "bowled",
+            "playerName": "Janvi nikeshkumar Raval",
+            "bowler": "RIDDHI MAURYA",
+            "battingStats": {
+              "runs": 0,
+              "balls": 2,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": 0
+            }
+          }
+        },
+        {
+          "over": 4,
+          "ball": 2,
+          "bowler": "RIDDHI MAURYA",
+          "batter": "Janvi nikeshkumar Raval",
+          "runs": 0,
+          "description": "no run",
+          "teamId": "",
+          "batterId": "4437714"
+        },
+        {
+          "over": 4,
+          "ball": 1,
+          "bowler": "WRIDDHI MAURYA",
+          "batter": "Kavyanjali ripalkumar Patel",
+          "runs": 0,
+          "description": "OUT Caught behind, Caught Behind by Nishat ChangiwalaKavyanjali ripalkumar Patel c †Nishat Changiwala b RIDDHI MAURYA (5r 11b 1x4s 0x6s SR: 45.45)",
+          "teamId": "",
+          "wicketInfo": {
+            "wicketType": "caught",
+            "playerName": "Caught behind, Caught Behind by Nishat ChangiwalaKavyanjali ripalkumar Patel",
+            "bowler": "RIDDHI MAURYA",
+            "fielder": "†Nishat Changiwala",
+            "battingStats": {
+              "runs": 5,
+              "balls": 11,
+              "fours": 1,
+              "sixes": 0,
+              "strikeRate": 45.45
+            }
+          }
+        },
+        {
+          "over": 3,
+          "ball": 6,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 3,
+          "ball": 5,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Trisha Patel",
+          "runs": 4,
+          "description": "FOUR,  to Deep backward square leg",
+          "teamId": ""
+        },
+        {
+          "over": 3,
+          "ball": 4,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Kavyanjali ripalkumar Patel",
+          "runs": 1,
+          "description": "1 run,  to Wide long-on",
+          "teamId": ""
+        },
+        {
+          "over": 3,
+          "ball": 3,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Kavyanjali ripalkumar Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 3,
+          "ball": 2,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Kavyanjali ripalkumar Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 3,
+          "ball": 1,
+          "bowler": "TANVIR SHAIKH",
+          "batter": "Kavyanjali ripalkumar Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 2,
+          "ball": 6,
+          "bowler": "LBMAITHILI GANJALE",
+          "batter": "Kavyanjali ripalkumar Patel",
+          "runs": 1,
+          "description": "leg bye, 1 run",
+          "teamId": ""
+        },
+        {
+          "over": 2,
+          "ball": 5,
+          "bowler": "MAITHILI GANJALE",
+          "batter": "Kavyanjali ripalkumar Patel",
+          "runs": 4,
+          "description": "FOUR,  to Deep extra cover",
+          "teamId": ""
+        },
+        {
+          "over": 2,
+          "ball": 4,
+          "bowler": "MAITHILI GANJALE",
+          "batter": "Kavyanjali ripalkumar Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 2,
+          "ball": 3,
+          "bowler": "MAITHILI GANJALE",
+          "batter": "Kavyanjali ripalkumar Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 2,
+          "ball": 2,
+          "bowler": "MAITHILI GANJALE",
+          "batter": "Kavyanjali ripalkumar Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 2,
+          "ball": 1,
+          "bowler": "MAITHILI GANJALE",
+          "batter": "Kavyanjali ripalkumar Patel",
+          "runs": 4,
+          "description": "leg bye, 4 runs",
+          "teamId": ""
+        },
+        {
+          "over": 1,
+          "ball": 6,
+          "bowler": "RIDDHI MAURYA",
+          "batter": "Trisha Patel",
+          "runs": 4,
+          "description": "FOUR,  to Deep extra cover",
+          "teamId": ""
+        },
+        {
+          "over": 1,
+          "ball": 6,
+          "bowler": "WDRIDDHI MAURYA",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "wide",
+          "teamId": ""
+        },
+        {
+          "over": 1,
+          "ball": 5,
+          "bowler": "RIDDHI MAURYA",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 1,
+          "ball": 4,
+          "bowler": "RIDDHI MAURYA",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 1,
+          "ball": 3,
+          "bowler": "RIDDHI MAURYA",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 1,
+          "ball": 2,
+          "bowler": "RIDDHI MAURYA",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 1,
+          "ball": 1,
+          "bowler": "RIDDHI MAURYA",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 0,
+          "ball": 6,
+          "bowler": "MAITHILI GANJALE",
+          "batter": "Trisha Patel",
+          "runs": 1,
+          "description": "1 run,  to Long-on",
+          "teamId": ""
+        },
+        {
+          "over": 0,
+          "ball": 5,
+          "bowler": "MAITHILI GANJALE",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 0,
+          "ball": 4,
+          "bowler": "MAITHILI GANJALE",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 0,
+          "ball": 3,
+          "bowler": "MAITHILI GANJALE",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 0,
+          "ball": 2,
+          "bowler": "MAITHILI GANJALE",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 0,
+          "ball": 1,
+          "bowler": "MAITHILI GANJALE",
+          "batter": "Trisha Patel",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        }
+      ],
+      "totalRuns": 9,
+      "totalWickets": 90,
+      "totalOvers": 19
+    }
+  ],
+  "teams": [],
+  "playersData": [],
+  "commentary": [
+    {
+      "over": 19,
+      "ball": 6,
+      "bowler": "Jinal Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 2,
+      "description": "2 runs,  to Cow corner",
+      "teamId": ""
+    },
+    {
+      "over": 19,
+      "ball": 5,
+      "bowler": "Jinal Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 19,
+      "ball": 4,
+      "bowler": "Jinal Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 19,
+      "ball": 3,
+      "bowler": "Jinal Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 4,
+      "description": "FOUR,  to Straight long-off",
+      "teamId": ""
+    },
+    {
+      "over": 19,
+      "ball": 2,
+      "bowler": "Jinal Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 19,
+      "ball": 1,
+      "bowler": "Jinal Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 18,
+      "ball": 6,
+      "bowler": "Arohi Bist",
+      "batter": "Sneha Baria",
+      "runs": 2,
+      "description": "2 runs,  to Third man",
+      "teamId": "",
+      "bowlerId": "30696739"
+    },
+    {
+      "over": 18,
+      "ball": 5,
+      "bowler": "WArohi Bist",
+      "batter": "Amrita Joseph",
+      "runs": 0,
+      "description": "OUT Caught out, Caught at Long-on by Trisha PatelAmrita Joseph c Trisha Patel b Arohi Bist (36r 39b 3x4s 0x6s SR: 92.31)",
+      "teamId": "",
+      "bowlerId": "30696739",
+      "batterId": "8965007",
+      "wicketInfo": {
+        "wicketType": "caught",
+        "playerName": "Amrita Joseph",
+        "bowler": "Arohi Bist",
+        "fielder": "Trisha Patel",
+        "battingStats": {
+          "runs": 36,
+          "balls": 39,
+          "fours": 3,
+          "sixes": 0,
+          "strikeRate": 92.31
+        }
+      }
+    },
+    {
+      "over": 18,
+      "ball": 5,
+      "bowler": "WDArohi Bist",
+      "batter": "Amrita Joseph",
+      "runs": 0,
+      "description": "wide",
+      "teamId": "",
+      "bowlerId": "30696739",
+      "batterId": "8965007"
+    },
+    {
+      "over": 18,
+      "ball": 4,
+      "bowler": "Arohi Bist",
+      "batter": "TANVIR SHAIKH",
+      "runs": 1,
+      "description": "1 run,  to Deep mid wicket",
+      "teamId": "",
+      "bowlerId": "30696739"
+    },
+    {
+      "over": 18,
+      "ball": 3,
+      "bowler": "Arohi Bist",
+      "batter": "TANVIR SHAIKH",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "30696739"
+    },
+    {
+      "over": 18,
+      "ball": 2,
+      "bowler": "Arohi Bist",
+      "batter": "TANVIR SHAIKH",
+      "runs": 4,
+      "description": "FOUR,  to Deep backward square leg",
+      "teamId": "",
+      "bowlerId": "30696739"
+    },
+    {
+      "over": 18,
+      "ball": 1,
+      "bowler": "Arohi Bist",
+      "batter": "TANVIR SHAIKH",
+      "runs": 2,
+      "description": "2 runs,  to Deep extra cover",
+      "teamId": "",
+      "bowlerId": "30696739"
+    },
+    {
+      "over": 17,
+      "ball": 6,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "TANVIR SHAIKH",
+      "runs": 1,
+      "description": "1 run,  to Deep backward square leg",
+      "teamId": "",
+      "bowlerId": "11065282"
+    },
+    {
+      "over": 17,
+      "ball": 5,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Deep cover",
+      "teamId": "",
+      "bowlerId": "11065282",
+      "batterId": "8965007"
+    },
+    {
+      "over": 17,
+      "ball": 4,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "Amrita Joseph",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "11065282",
+      "batterId": "8965007"
+    },
+    {
+      "over": 17,
+      "ball": 3,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "TANVIR SHAIKH",
+      "runs": 1,
+      "description": "1 run,  to Deep mid wicket",
+      "teamId": "",
+      "bowlerId": "11065282"
+    },
+    {
+      "over": 17,
+      "ball": 3,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "TANVIR SHAIKH",
+      "runs": 4,
+      "description": "wide, 4 runs",
+      "teamId": "",
+      "bowlerId": "11065282"
+    },
+    {
+      "over": 17,
+      "ball": 2,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Backward Point",
+      "teamId": "",
+      "bowlerId": "11065282",
+      "batterId": "8965007"
+    },
+    {
+      "over": 17,
+      "ball": 1,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "Amrita Joseph",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "11065282",
+      "batterId": "8965007"
+    },
+    {
+      "over": 16,
+      "ball": 6,
+      "bowler": "Hetvi Patel",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Deep extra cover",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 16,
+      "ball": 5,
+      "bowler": "LBHetvi Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 1,
+      "description": "leg bye, 1 run",
+      "teamId": ""
+    },
+    {
+      "over": 16,
+      "ball": 4,
+      "bowler": "Hetvi Patel",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Deep cover",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 16,
+      "ball": 3,
+      "bowler": "Hetvi Patel",
+      "batter": "Amrita Joseph",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 16,
+      "ball": 2,
+      "bowler": "Hetvi Patel",
+      "batter": "Amrita Joseph",
+      "runs": 4,
+      "description": "FOUR,  to Deep extra cover",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 16,
+      "ball": 1,
+      "bowler": "Hetvi Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 1,
+      "description": "1 run,  to Backward Point",
+      "teamId": ""
+    },
+    {
+      "over": 15,
+      "ball": 6,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "TANVIR SHAIKH",
+      "runs": 1,
+      "description": "1 run,  to Deep backward square leg",
+      "teamId": "",
+      "bowlerId": "11065282"
+    },
+    {
+      "over": 15,
+      "ball": 5,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "TANVIR SHAIKH",
+      "runs": 4,
+      "description": "FOUR,  to Long-off",
+      "teamId": "",
+      "bowlerId": "11065282"
+    },
+    {
+      "over": 15,
+      "ball": 4,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "TANVIR SHAIKH",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "11065282"
+    },
+    {
+      "over": 15,
+      "ball": 3,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Deep extra cover",
+      "teamId": "",
+      "bowlerId": "11065282",
+      "batterId": "8965007"
+    },
+    {
+      "over": 15,
+      "ball": 2,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "TANVIR SHAIKH",
+      "runs": 1,
+      "description": "1 run,  to Wide long-on",
+      "teamId": "",
+      "bowlerId": "11065282"
+    },
+    {
+      "over": 15,
+      "ball": 1,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Long-off",
+      "teamId": "",
+      "bowlerId": "11065282",
+      "batterId": "8965007"
+    },
+    {
+      "over": 14,
+      "ball": 6,
+      "bowler": "Vanshika dharmeshbhai Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 14,
+      "ball": 5,
+      "bowler": "Vanshika dharmeshbhai Patel",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Long-off",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 14,
+      "ball": 4,
+      "bowler": "Vanshika dharmeshbhai Patel",
+      "batter": "Amrita Joseph",
+      "runs": 4,
+      "description": "FOUR,  to Cow corner",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 14,
+      "ball": 3,
+      "bowler": "Vanshika dharmeshbhai Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 1,
+      "description": "1 run,  to Long-off",
+      "teamId": ""
+    },
+    {
+      "over": 14,
+      "ball": 2,
+      "bowler": "Vanshika dharmeshbhai Patel",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Wide long-on",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 14,
+      "ball": 1,
+      "bowler": "Vanshika dharmeshbhai Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 1,
+      "description": "1 run,  to Deep mid wicket",
+      "teamId": ""
+    },
+    {
+      "over": 13,
+      "ball": 6,
+      "bowler": "Arohi Bist",
+      "batter": "Amrita Joseph",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "30696739",
+      "batterId": "8965007"
+    },
+    {
+      "over": 13,
+      "ball": 5,
+      "bowler": "Arohi Bist",
+      "batter": "TANVIR SHAIKH",
+      "runs": 1,
+      "description": "1 run,  to Deep mid wicket",
+      "teamId": "",
+      "bowlerId": "30696739"
+    },
+    {
+      "over": 13,
+      "ball": 4,
+      "bowler": "Arohi Bist",
+      "batter": "TANVIR SHAIKH",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "30696739"
+    },
+    {
+      "over": 13,
+      "ball": 3,
+      "bowler": "Arohi Bist",
+      "batter": "TANVIR SHAIKH",
+      "runs": 4,
+      "description": "FOUR,  to Cow corner",
+      "teamId": "",
+      "bowlerId": "30696739"
+    },
+    {
+      "over": 13,
+      "ball": 2,
+      "bowler": "Arohi Bist",
+      "batter": "TANVIR SHAIKH",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "30696739"
+    },
+    {
+      "over": 13,
+      "ball": 1,
+      "bowler": "Arohi Bist",
+      "batter": "TANVIR SHAIKH",
+      "runs": 4,
+      "description": "bye, 4 runs",
+      "teamId": "",
+      "bowlerId": "30696739"
+    },
+    {
+      "over": 12,
+      "ball": 6,
+      "bowler": "Vanshika dharmeshbhai Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 1,
+      "description": "1 run,  to Backward Point",
+      "teamId": ""
+    },
+    {
+      "over": 12,
+      "ball": 5,
+      "bowler": "Vanshika dharmeshbhai Patel",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Deep cover",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 12,
+      "ball": 4,
+      "bowler": "Vanshika dharmeshbhai Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 1,
+      "description": "1 run,  to Mid wicket",
+      "teamId": ""
+    },
+    {
+      "over": 12,
+      "ball": 3,
+      "bowler": "Vanshika dharmeshbhai Patel",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Wide long-off",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 12,
+      "ball": 2,
+      "bowler": "Vanshika dharmeshbhai Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 1,
+      "description": "1 run,  to Wide long-off",
+      "teamId": ""
+    },
+    {
+      "over": 12,
+      "ball": 1,
+      "bowler": "Vanshika dharmeshbhai Patel",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Deep extra cover",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 11,
+      "ball": 6,
+      "bowler": "Trisha Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 11,
+      "ball": 5,
+      "bowler": "Trisha Patel",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Deep cover point",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 11,
+      "ball": 4,
+      "bowler": "Trisha Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 1,
+      "description": "1 run,  to Short third man",
+      "teamId": ""
+    },
+    {
+      "over": 11,
+      "ball": 3,
+      "bowler": "Trisha Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 4,
+      "description": "FOUR,  to Deep extra cover",
+      "teamId": ""
+    },
+    {
+      "over": 11,
+      "ball": 2,
+      "bowler": "Trisha Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 11,
+      "ball": 1,
+      "bowler": "Trisha Patel",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Long-off",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 10,
+      "ball": 6,
+      "bowler": "Hetvi Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 4,
+      "description": "FOUR,  to Third man",
+      "teamId": ""
+    },
+    {
+      "over": 10,
+      "ball": 5,
+      "bowler": "Hetvi Patel",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Deep cover",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 10,
+      "ball": 4,
+      "bowler": "Hetvi Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 1,
+      "description": "1 run,  to Backward Point",
+      "teamId": ""
+    },
+    {
+      "over": 10,
+      "ball": 3,
+      "bowler": "Hetvi Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 10,
+      "ball": 2,
+      "bowler": "Hetvi Patel",
+      "batter": "TANVIR SHAIKH",
+      "runs": 2,
+      "description": "2 runs,  to Deep point",
+      "teamId": ""
+    },
+    {
+      "over": 10,
+      "ball": 1,
+      "bowler": "Hetvi Patel",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Wide long-on",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 9,
+      "ball": 6,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "TANVIR SHAIKH",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "11065282"
+    },
+    {
+      "over": 9,
+      "ball": 5,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "TANVIR SHAIKH",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "11065282"
+    },
+    {
+      "over": 9,
+      "ball": 4,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "TANVIR SHAIKH",
+      "runs": 2,
+      "description": "2 runs,  to Third man",
+      "teamId": "",
+      "bowlerId": "11065282"
+    },
+    {
+      "over": 9,
+      "ball": 3,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Wide long-off",
+      "teamId": "",
+      "bowlerId": "11065282",
+      "batterId": "8965007"
+    },
+    {
+      "over": 9,
+      "ball": 2,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "TANVIR SHAIKH",
+      "runs": 1,
+      "description": "1 run,  to Deep extra cover",
+      "teamId": "",
+      "bowlerId": "11065282"
+    },
+    {
+      "over": 9,
+      "ball": 1,
+      "bowler": "WAarya yogeshbhai Mehta",
+      "batter": "Jaya Mohite",
+      "runs": 0,
+      "description": "OUT StumpedJaya Mohite st †Maitri Rathod b Aarya yogeshbhai Mehta (2r 6b 0x4s 0x6s SR: 33.33)",
+      "teamId": "",
+      "bowlerId": "11065282",
+      "wicketInfo": {
+        "wicketType": "stumped",
+        "playerName": "Jaya Mohite",
+        "bowler": "Aarya yogeshbhai Mehta",
+        "fielder": "Maitri Rathod",
+        "battingStats": {
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strikeRate": 33.33
+        }
+      }
+    },
+    {
+      "over": 8,
+      "ball": 6,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Amrita Joseph",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4437714",
+      "batterId": "8965007"
+    },
+    {
+      "over": 8,
+      "ball": 5,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Jaya Mohite",
+      "runs": 1,
+      "description": "1 run,  to Wide long-off",
+      "teamId": "",
+      "bowlerId": "4437714"
+    },
+    {
+      "over": 8,
+      "ball": 4,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Jaya Mohite",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4437714"
+    },
+    {
+      "over": 8,
+      "ball": 3,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Deep extra cover",
+      "teamId": "",
+      "bowlerId": "4437714",
+      "batterId": "8965007"
+    },
+    {
+      "over": 8,
+      "ball": 2,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Jaya Mohite",
+      "runs": 1,
+      "description": "1 run,  to Deep extra cover",
+      "teamId": "",
+      "bowlerId": "4437714"
+    },
+    {
+      "over": 8,
+      "ball": 1,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Wide long-off",
+      "teamId": "",
+      "bowlerId": "4437714",
+      "batterId": "8965007"
+    },
+    {
+      "over": 7,
+      "ball": 6,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "Jaya Mohite",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "11065282"
+    },
+    {
+      "over": 7,
+      "ball": 5,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "Jaya Mohite",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "11065282"
+    },
+    {
+      "over": 7,
+      "ball": 4,
+      "bowler": "WAarya yogeshbhai Mehta",
+      "batter": "Hrutvisha Patel",
+      "runs": 0,
+      "description": "OUT LBWHrutvisha Patel lbw b Aarya yogeshbhai Mehta (3r 11b 0x4s 0x6s SR: 27.27)",
+      "teamId": "",
+      "bowlerId": "11065282",
+      "wicketInfo": {
+        "wicketType": "lbw",
+        "playerName": "Hrutvisha Patel",
+        "bowler": "Aarya yogeshbhai Mehta",
+        "battingStats": {
+          "runs": 3,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strikeRate": 27.27
+        }
+      }
+    },
+    {
+      "over": 7,
+      "ball": 3,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "Hrutvisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "11065282"
+    },
+    {
+      "over": 7,
+      "ball": 2,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "Hrutvisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "11065282"
+    },
+    {
+      "over": 7,
+      "ball": 1,
+      "bowler": "Aarya yogeshbhai Mehta",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Deep extra cover",
+      "teamId": "",
+      "bowlerId": "11065282",
+      "batterId": "8965007"
+    },
+    {
+      "over": 6,
+      "ball": 6,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Long-off",
+      "teamId": "",
+      "bowlerId": "4437714",
+      "batterId": "8965007"
+    },
+    {
+      "over": 6,
+      "ball": 5,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Amrita Joseph",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4437714",
+      "batterId": "8965007"
+    },
+    {
+      "over": 6,
+      "ball": 4,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Amrita Joseph",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4437714",
+      "batterId": "8965007"
+    },
+    {
+      "over": 6,
+      "ball": 3,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Hrutvisha Patel",
+      "runs": 1,
+      "description": "1 run,  to Deep extra cover",
+      "teamId": "",
+      "bowlerId": "4437714"
+    },
+    {
+      "over": 6,
+      "ball": 3,
+      "bowler": "WDJanvi nikeshkumar Raval",
+      "batter": "Hrutvisha Patel",
+      "runs": 0,
+      "description": "wide",
+      "teamId": "",
+      "bowlerId": "4437714"
+    },
+    {
+      "over": 6,
+      "ball": 2,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Long-off",
+      "teamId": "",
+      "bowlerId": "4437714",
+      "batterId": "8965007"
+    },
+    {
+      "over": 6,
+      "ball": 1,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Hrutvisha Patel",
+      "runs": 1,
+      "description": "1 run,  to Cow corner",
+      "teamId": "",
+      "bowlerId": "4437714"
+    },
+    {
+      "over": 5,
+      "ball": 6,
+      "bowler": "Jinal Patel",
+      "batter": "Amrita Joseph",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 5,
+      "ball": 5,
+      "bowler": "Jinal Patel",
+      "batter": "Amrita Joseph",
+      "runs": 4,
+      "description": "FOUR,  to Wide long-off",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 5,
+      "ball": 4,
+      "bowler": "Jinal Patel",
+      "batter": "Amrita Joseph",
+      "runs": 2,
+      "description": "2 runs,  to Long-off",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 5,
+      "ball": 3,
+      "bowler": "Jinal Patel",
+      "batter": "Amrita Joseph",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 5,
+      "ball": 2,
+      "bowler": "Jinal Patel",
+      "batter": "Hrutvisha Patel",
+      "runs": 1,
+      "description": "1 run,  to Cover",
+      "teamId": ""
+    },
+    {
+      "over": 5,
+      "ball": 1,
+      "bowler": "Jinal Patel",
+      "batter": "Amrita Joseph",
+      "runs": 1,
+      "description": "1 run,  to Fine leg",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 4,
+      "ball": 6,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Hrutvisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4437714"
+    },
+    {
+      "over": 4,
+      "ball": 5,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Hrutvisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4437714"
+    },
+    {
+      "over": 4,
+      "ball": 4,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Hrutvisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4437714"
+    },
+    {
+      "over": 4,
+      "ball": 3,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Hrutvisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4437714"
+    },
+    {
+      "over": 4,
+      "ball": 2,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Hrutvisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4437714"
+    },
+    {
+      "over": 4,
+      "ball": 1,
+      "bowler": "WJanvi nikeshkumar Raval",
+      "batter": "Dharti Rathod",
+      "runs": 0,
+      "description": "OUT BowledDharti Rathod b Janvi nikeshkumar Raval (6r 12b 1x4s 0x6s SR: 50.00)",
+      "teamId": "",
+      "bowlerId": "4437714",
+      "batterId": "1619798",
+      "wicketInfo": {
+        "wicketType": "bowled",
+        "playerName": "Dharti Rathod",
+        "bowler": "Janvi nikeshkumar Raval",
+        "battingStats": {
+          "runs": 6,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strikeRate": 50
+        }
+      }
+    },
+    {
+      "over": 3,
+      "ball": 6,
+      "bowler": "Jinal Patel",
+      "batter": "Amrita Joseph",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 3,
+      "ball": 5,
+      "bowler": "Jinal Patel",
+      "batter": "Amrita Joseph",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "8965007"
+    },
+    {
+      "over": 3,
+      "ball": 4,
+      "bowler": "Jinal Patel",
+      "batter": "Dharti Rathod",
+      "runs": 1,
+      "description": "1 run,  to Third man",
+      "teamId": "",
+      "batterId": "1619798"
+    },
+    {
+      "over": 3,
+      "ball": 3,
+      "bowler": "Jinal Patel",
+      "batter": "Dharti Rathod",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "1619798"
+    },
+    {
+      "over": 3,
+      "ball": 2,
+      "bowler": "Jinal Patel",
+      "batter": "Dharti Rathod",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "1619798"
+    },
+    {
+      "over": 3,
+      "ball": 1,
+      "bowler": "Jinal Patel",
+      "batter": "Dharti Rathod",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "1619798"
+    },
+    {
+      "over": 2,
+      "ball": 6,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Amrita Joseph",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4437714",
+      "batterId": "8965007"
+    },
+    {
+      "over": 2,
+      "ball": 5,
+      "bowler": "WJanvi nikeshkumar Raval",
+      "batter": "Nishat Changiwala",
+      "runs": 0,
+      "description": "OUT BowledNishat Changiwala b Janvi nikeshkumar Raval (9r 10b 2x4s 0x6s SR: 90.00)",
+      "teamId": "",
+      "bowlerId": "4437714",
+      "batterId": "4678429",
+      "wicketInfo": {
+        "wicketType": "bowled",
+        "playerName": "Nishat Changiwala",
+        "bowler": "Janvi nikeshkumar Raval",
+        "battingStats": {
+          "runs": 9,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strikeRate": 90
+        }
+      }
+    },
+    {
+      "over": 2,
+      "ball": 4,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Nishat Changiwala",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4437714",
+      "batterId": "4678429"
+    },
+    {
+      "over": 2,
+      "ball": 3,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Nishat Changiwala",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4437714",
+      "batterId": "4678429"
+    },
+    {
+      "over": 2,
+      "ball": 2,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Nishat Changiwala",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4437714",
+      "batterId": "4678429"
+    },
+    {
+      "over": 2,
+      "ball": 1,
+      "bowler": "Janvi nikeshkumar Raval",
+      "batter": "Nishat Changiwala",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4437714",
+      "batterId": "4678429"
+    },
+    {
+      "over": 1,
+      "ball": 6,
+      "bowler": "Jinal Patel",
+      "batter": "Dharti Rathod",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "1619798"
+    },
+    {
+      "over": 1,
+      "ball": 6,
+      "bowler": "WDJinal Patel",
+      "batter": "Dharti Rathod",
+      "runs": 0,
+      "description": "wide",
+      "teamId": "",
+      "batterId": "1619798"
+    },
+    {
+      "over": 1,
+      "ball": 5,
+      "bowler": "Jinal Patel",
+      "batter": "Dharti Rathod",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "1619798"
+    },
+    {
+      "over": 1,
+      "ball": 4,
+      "bowler": "Jinal Patel",
+      "batter": "Dharti Rathod",
+      "runs": 4,
+      "description": "FOUR,  to Cow corner",
+      "teamId": "",
+      "batterId": "1619798"
+    },
+    {
+      "over": 1,
+      "ball": 3,
+      "bowler": "Jinal Patel",
+      "batter": "Dharti Rathod",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "1619798"
+    },
+    {
+      "over": 1,
+      "ball": 2,
+      "bowler": "Jinal Patel",
+      "batter": "Dharti Rathod",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "1619798"
+    },
+    {
+      "over": 1,
+      "ball": 1,
+      "bowler": "Jinal Patel",
+      "batter": "Dharti Rathod",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "1619798"
+    },
+    {
+      "over": 0,
+      "ball": 6,
+      "bowler": "Arohi Bist",
+      "batter": "Nishat Changiwala",
+      "runs": 4,
+      "description": "FOUR,  to Deep backward point",
+      "teamId": "",
+      "bowlerId": "30696739",
+      "batterId": "4678429"
+    },
+    {
+      "over": 0,
+      "ball": 5,
+      "bowler": "Arohi Bist",
+      "batter": "Dharti Rathod",
+      "runs": 1,
+      "description": "1 run,  to Backward square leg",
+      "teamId": "",
+      "bowlerId": "30696739",
+      "batterId": "1619798"
+    },
+    {
+      "over": 0,
+      "ball": 4,
+      "bowler": "Arohi Bist",
+      "batter": "Nishat Changiwala",
+      "runs": 1,
+      "description": "1 run,  to Backward Point",
+      "teamId": "",
+      "bowlerId": "30696739",
+      "batterId": "4678429"
+    },
+    {
+      "over": 0,
+      "ball": 3,
+      "bowler": "Arohi Bist",
+      "batter": "Nishat Changiwala",
+      "runs": 4,
+      "description": "FOUR,  to Straight long-off",
+      "teamId": "",
+      "bowlerId": "30696739",
+      "batterId": "4678429"
+    },
+    {
+      "over": 0,
+      "ball": 2,
+      "bowler": "Arohi Bist",
+      "batter": "Nishat Changiwala",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "30696739",
+      "batterId": "4678429"
+    },
+    {
+      "over": 0,
+      "ball": 1,
+      "bowler": "Arohi Bist",
+      "batter": "Nishat Changiwala",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "30696739",
+      "batterId": "4678429"
+    },
+    {
+      "over": 19,
+      "ball": 6,
+      "bowler": "Jaya Mohite",
+      "batter": "Hetvi Patel",
+      "runs": 1,
+      "description": "1 run,  to Straight long-on",
+      "teamId": ""
+    },
+    {
+      "over": 19,
+      "ball": 5,
+      "bowler": "Jaya Mohite",
+      "batter": "Vanshika dharmeshbhai Patel",
+      "runs": 1,
+      "description": "1 run,  to Backward square leg",
+      "teamId": ""
+    },
+    {
+      "over": 19,
+      "ball": 4,
+      "bowler": "Jaya Mohite",
+      "batter": "Vanshika dharmeshbhai Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 19,
+      "ball": 3,
+      "bowler": "WJaya Mohite",
+      "batter": "Maitri Rathod",
+      "runs": 0,
+      "description": "OUT BowledMaitri Rathod b Jaya Mohite (2r 4b 0x4s 0x6s SR: 50.00)",
+      "teamId": "",
+      "wicketInfo": {
+        "wicketType": "bowled",
+        "playerName": "Maitri Rathod",
+        "bowler": "Jaya Mohite",
+        "battingStats": {
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strikeRate": 50
+        }
+      }
+    },
+    {
+      "over": 19,
+      "ball": 2,
+      "bowler": "Jaya Mohite",
+      "batter": "Hetvi Patel",
+      "runs": 1,
+      "description": "1 run,  to Wide long-on",
+      "teamId": ""
+    },
+    {
+      "over": 19,
+      "ball": 1,
+      "bowler": "Jaya Mohite",
+      "batter": "Hetvi Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 18,
+      "ball": 6,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Maitri Rathod",
+      "runs": 2,
+      "description": "2 runs,  to Deep mid wicket",
+      "teamId": ""
+    },
+    {
+      "over": 18,
+      "ball": 5,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Maitri Rathod",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 18,
+      "ball": 4,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Maitri Rathod",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 18,
+      "ball": 3,
+      "bowler": "WTANVIR SHAIKH",
+      "batter": "Arohi Bist",
+      "runs": 0,
+      "description": "OUT BowledArohi Bist b TANVIR SHAIKH (5r 11b 0x4s 0x6s SR: 45.45)",
+      "teamId": "",
+      "batterId": "30696739",
+      "wicketInfo": {
+        "wicketType": "bowled",
+        "playerName": "Arohi Bist",
+        "bowler": "TANVIR SHAIKH",
+        "battingStats": {
+          "runs": 5,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strikeRate": 45.45
+        }
+      }
+    },
+    {
+      "over": 18,
+      "ball": 2,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Hetvi Patel",
+      "runs": 1,
+      "description": "1 run,  to Long-off",
+      "teamId": ""
+    },
+    {
+      "over": 18,
+      "ball": 1,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Arohi Bist",
+      "runs": 1,
+      "description": "1 run,  to Mid wicket",
+      "teamId": "",
+      "batterId": "30696739"
+    },
+    {
+      "over": 17,
+      "ball": 6,
+      "bowler": "Sneha Baria",
+      "batter": "Arohi Bist",
+      "runs": 1,
+      "description": "1 run,  to Long-off",
+      "teamId": "",
+      "batterId": "30696739"
+    },
+    {
+      "over": 17,
+      "ball": 5,
+      "bowler": "Sneha Baria",
+      "batter": "Arohi Bist",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "30696739"
+    },
+    {
+      "over": 17,
+      "ball": 4,
+      "bowler": "Sneha Baria",
+      "batter": "Arohi Bist",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "30696739"
+    },
+    {
+      "over": 17,
+      "ball": 3,
+      "bowler": "Sneha Baria",
+      "batter": "Arohi Bist",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "30696739"
+    },
+    {
+      "over": 17,
+      "ball": 2,
+      "bowler": "Sneha Baria",
+      "batter": "Hetvi Patel",
+      "runs": 1,
+      "description": "1 run,  to Deep mid wicket",
+      "teamId": ""
+    },
+    {
+      "over": 17,
+      "ball": 1,
+      "bowler": "Sneha Baria",
+      "batter": "Hetvi Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 16,
+      "ball": 6,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Hetvi Patel",
+      "runs": 1,
+      "description": "1 run,  to Wide long-on",
+      "teamId": ""
+    },
+    {
+      "over": 16,
+      "ball": 5,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Arohi Bist",
+      "runs": 1,
+      "description": "1 run,  to Backward square leg",
+      "teamId": "",
+      "batterId": "30696739"
+    },
+    {
+      "over": 16,
+      "ball": 4,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Hetvi Patel",
+      "runs": 1,
+      "description": "1 run,  to Long-on",
+      "teamId": ""
+    },
+    {
+      "over": 16,
+      "ball": 3,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Hetvi Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 16,
+      "ball": 2,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Arohi Bist",
+      "runs": 1,
+      "description": "1 run,  to Deep extra cover",
+      "teamId": "",
+      "batterId": "30696739"
+    },
+    {
+      "over": 16,
+      "ball": 1,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Arohi Bist",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "30696739"
+    },
+    {
+      "over": 15,
+      "ball": 6,
+      "bowler": "Sneha Baria",
+      "batter": "Hetvi Patel",
+      "runs": 2,
+      "description": "2 runs,  to Wide long-off",
+      "teamId": ""
+    },
+    {
+      "over": 15,
+      "ball": 5,
+      "bowler": "Sneha Baria",
+      "batter": "Arohi Bist",
+      "runs": 1,
+      "description": "1 run,  to Short fine leg",
+      "teamId": "",
+      "batterId": "30696739"
+    },
+    {
+      "over": 15,
+      "ball": 4,
+      "bowler": "Sneha Baria",
+      "batter": "Arohi Bist",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "30696739"
+    },
+    {
+      "over": 15,
+      "ball": 3,
+      "bowler": "WSneha Baria",
+      "batter": "Jinal Patel",
+      "runs": 0,
+      "description": "OUT BowledJinal Patel b Sneha Baria (9r 16b 1x4s 0x6s SR: 56.25)",
+      "teamId": "",
+      "wicketInfo": {
+        "wicketType": "bowled",
+        "playerName": "Jinal Patel",
+        "bowler": "Sneha Baria",
+        "battingStats": {
+          "runs": 9,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strikeRate": 56.25
+        }
+      }
+    },
+    {
+      "over": 15,
+      "ball": 2,
+      "bowler": "Sneha Baria",
+      "batter": "Jinal Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 15,
+      "ball": 1,
+      "bowler": "Sneha Baria",
+      "batter": "Jinal Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 14,
+      "ball": 6,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Hetvi Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 14,
+      "ball": 5,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Hetvi Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 14,
+      "ball": 4,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Jinal Patel",
+      "runs": 1,
+      "description": "1 run,  to Cow corner",
+      "teamId": ""
+    },
+    {
+      "over": 14,
+      "ball": 3,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Hetvi Patel",
+      "runs": 1,
+      "description": "1 run,  to Long-on",
+      "teamId": ""
+    },
+    {
+      "over": 14,
+      "ball": 2,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Jinal Patel",
+      "runs": 1,
+      "description": "1 run,  to Long-on",
+      "teamId": ""
+    },
+    {
+      "over": 14,
+      "ball": 1,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Hetvi Patel",
+      "runs": 1,
+      "description": "1 run,  to Short fine leg",
+      "teamId": ""
+    },
+    {
+      "over": 13,
+      "ball": 6,
+      "bowler": "Sneha Baria",
+      "batter": "Jinal Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 13,
+      "ball": 5,
+      "bowler": "Sneha Baria",
+      "batter": "Hetvi Patel",
+      "runs": 1,
+      "description": "1 run,  to Straight long-on",
+      "teamId": ""
+    },
+    {
+      "over": 13,
+      "ball": 4,
+      "bowler": "Sneha Baria",
+      "batter": "Hetvi Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 13,
+      "ball": 3,
+      "bowler": "Sneha Baria",
+      "batter": "Hetvi Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 13,
+      "ball": 2,
+      "bowler": "Sneha Baria",
+      "batter": "Jinal Patel",
+      "runs": 1,
+      "description": "1 run,  to Wide long-on",
+      "teamId": ""
+    },
+    {
+      "over": 13,
+      "ball": 1,
+      "bowler": "Sneha Baria",
+      "batter": "Jinal Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 12,
+      "ball": 6,
+      "bowler": "Jaya Mohite",
+      "batter": "Jinal Patel",
+      "runs": 1,
+      "description": "1 run,  to Deep mid wicket",
+      "teamId": ""
+    },
+    {
+      "over": 12,
+      "ball": 5,
+      "bowler": "Jaya Mohite",
+      "batter": "Jinal Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 12,
+      "ball": 4,
+      "bowler": "Jaya Mohite",
+      "batter": "Jinal Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 12,
+      "ball": 3,
+      "bowler": "Jaya Mohite",
+      "batter": "Jinal Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 12,
+      "ball": 2,
+      "bowler": "Jaya Mohite",
+      "batter": "Jinal Patel",
+      "runs": 4,
+      "description": "FOUR,  to Deep extra cover",
+      "teamId": ""
+    },
+    {
+      "over": 12,
+      "ball": 1,
+      "bowler": "Jaya Mohite",
+      "batter": "Jinal Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 11,
+      "ball": 6,
+      "bowler": "Janki Rathod",
+      "batter": "Hetvi Patel",
+      "runs": 6,
+      "description": "SIX,  to Wide long-on",
+      "teamId": "",
+      "bowlerId": "4047587"
+    },
+    {
+      "over": 11,
+      "ball": 5,
+      "bowler": "Janki Rathod",
+      "batter": "Hetvi Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4047587"
+    },
+    {
+      "over": 11,
+      "ball": 4,
+      "bowler": "Janki Rathod",
+      "batter": "Hetvi Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4047587"
+    },
+    {
+      "over": 11,
+      "ball": 3,
+      "bowler": "Janki Rathod",
+      "batter": "Jinal Patel",
+      "runs": 1,
+      "description": "1 run,  to Cow corner",
+      "teamId": "",
+      "bowlerId": "4047587"
+    },
+    {
+      "over": 11,
+      "ball": 2,
+      "bowler": "Janki Rathod",
+      "batter": "Jinal Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4047587"
+    },
+    {
+      "over": 11,
+      "ball": 1,
+      "bowler": "WJanki Rathod",
+      "batter": "Aadhya mineshbhai Patel",
+      "runs": 0,
+      "description": "OUT LBWAadhya mineshbhai Patel lbw b Janki Rathod (1r 6b 0x4s 0x6s SR: 16.67)",
+      "teamId": "",
+      "bowlerId": "4047587",
+      "batterId": "7601817",
+      "wicketInfo": {
+        "wicketType": "lbw",
+        "playerName": "Aadhya mineshbhai Patel",
+        "bowler": "Janki Rathod",
+        "battingStats": {
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strikeRate": 16.67
+        }
+      }
+    },
+    {
+      "over": 10,
+      "ball": 6,
+      "bowler": "Jaya Mohite",
+      "batter": "Hetvi Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 10,
+      "ball": 5,
+      "bowler": "WJaya Mohite",
+      "batter": "Aarya yogeshbhai Mehta",
+      "runs": 0,
+      "description": "OUT LBWAarya yogeshbhai Mehta lbw b Jaya Mohite (4r 4b 1x4s 0x6s SR: 100.00)",
+      "teamId": "",
+      "batterId": "11065282",
+      "wicketInfo": {
+        "wicketType": "lbw",
+        "playerName": "Aarya yogeshbhai Mehta",
+        "bowler": "Jaya Mohite",
+        "battingStats": {
+          "runs": 4,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strikeRate": 100
+        }
+      }
+    },
+    {
+      "over": 10,
+      "ball": 4,
+      "bowler": "Jaya Mohite",
+      "batter": "Aarya yogeshbhai Mehta",
+      "runs": 4,
+      "description": "FOUR,  to Third man",
+      "teamId": "",
+      "batterId": "11065282"
+    },
+    {
+      "over": 10,
+      "ball": 3,
+      "bowler": "Jaya Mohite",
+      "batter": "Aarya yogeshbhai Mehta",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "11065282"
+    },
+    {
+      "over": 10,
+      "ball": 2,
+      "bowler": "Jaya Mohite",
+      "batter": "Aarya yogeshbhai Mehta",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "11065282"
+    },
+    {
+      "over": 10,
+      "ball": 1,
+      "bowler": "WJaya Mohite",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "OUT Caught out, Caught at Cover by MAITHILI GANJALETrisha Patel c MAITHILI GANJALE b Jaya Mohite (26r 30b 3x4s 1x6s SR: 86.67)",
+      "teamId": "",
+      "wicketInfo": {
+        "wicketType": "caught",
+        "playerName": "Trisha Patel",
+        "bowler": "Jaya Mohite",
+        "fielder": "MAITHILI GANJALE",
+        "battingStats": {
+          "runs": 26,
+          "balls": 30,
+          "fours": 3,
+          "sixes": 1,
+          "strikeRate": 86.67
+        }
+      }
+    },
+    {
+      "over": 9,
+      "ball": 6,
+      "bowler": "Janki Rathod",
+      "batter": "Trisha Patel",
+      "runs": 1,
+      "description": "1 run,  to Cow corner",
+      "teamId": "",
+      "bowlerId": "4047587"
+    },
+    {
+      "over": 9,
+      "ball": 5,
+      "bowler": "Janki Rathod",
+      "batter": "Aadhya mineshbhai Patel",
+      "runs": 1,
+      "description": "1 run,  to Cow corner",
+      "teamId": "",
+      "bowlerId": "4047587",
+      "batterId": "7601817"
+    },
+    {
+      "over": 9,
+      "ball": 4,
+      "bowler": "Janki Rathod",
+      "batter": "Aadhya mineshbhai Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4047587",
+      "batterId": "7601817"
+    },
+    {
+      "over": 9,
+      "ball": 4,
+      "bowler": "WDJanki Rathod",
+      "batter": "Aadhya mineshbhai Patel",
+      "runs": 0,
+      "description": "wide",
+      "teamId": "",
+      "bowlerId": "4047587",
+      "batterId": "7601817"
+    },
+    {
+      "over": 9,
+      "ball": 3,
+      "bowler": "Janki Rathod",
+      "batter": "Aadhya mineshbhai Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4047587",
+      "batterId": "7601817"
+    },
+    {
+      "over": 9,
+      "ball": 2,
+      "bowler": "Janki Rathod",
+      "batter": "Aadhya mineshbhai Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "4047587",
+      "batterId": "7601817"
+    },
+    {
+      "over": 9,
+      "ball": 1,
+      "bowler": "Janki Rathod",
+      "batter": "Trisha Patel",
+      "runs": 1,
+      "description": "1 run,  to Short third man",
+      "teamId": "",
+      "bowlerId": "4047587"
+    },
+    {
+      "over": 8,
+      "ball": 6,
+      "bowler": "Jaya Mohite",
+      "batter": "Aadhya mineshbhai Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "7601817"
+    },
+    {
+      "over": 8,
+      "ball": 5,
+      "bowler": "WJaya Mohite",
+      "batter": "Neha girishkumar Patel",
+      "runs": 0,
+      "description": "OUT Caught and bowled, Caught at Short mid off by Jaya MohiteNeha girishkumar Patel c&b Jaya Mohite (7r 13b 1x4s 0x6s SR: 53.85)",
+      "teamId": "",
+      "wicketInfo": {
+        "wicketType": "other",
+        "playerName": "Caught",
+        "bowler": "WJaya Mohite",
+        "battingStats": {
+          "runs": 7,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strikeRate": 53.85
+        }
+      }
+    },
+    {
+      "over": 8,
+      "ball": 4,
+      "bowler": "Jaya Mohite",
+      "batter": "Neha girishkumar Patel",
+      "runs": 4,
+      "description": "FOUR,  to Long-off",
+      "teamId": ""
+    },
+    {
+      "over": 8,
+      "ball": 3,
+      "bowler": "Jaya Mohite",
+      "batter": "Trisha Patel",
+      "runs": 1,
+      "description": "1 run,  to Wide long-off",
+      "teamId": ""
+    },
+    {
+      "over": 8,
+      "ball": 2,
+      "bowler": "Jaya Mohite",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 8,
+      "ball": 1,
+      "bowler": "Jaya Mohite",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 7,
+      "ball": 6,
+      "bowler": "BHUMIKA RATHOD",
+      "batter": "Trisha Patel",
+      "runs": 1,
+      "description": "1 run,  to Long-off",
+      "teamId": "",
+      "bowlerId": "19389091"
+    },
+    {
+      "over": 7,
+      "ball": 5,
+      "bowler": "BHUMIKA RATHOD",
+      "batter": "Neha girishkumar Patel",
+      "runs": 1,
+      "description": "1 run,  to Long-on",
+      "teamId": "",
+      "bowlerId": "19389091"
+    },
+    {
+      "over": 7,
+      "ball": 4,
+      "bowler": "BHUMIKA RATHOD",
+      "batter": "Neha girishkumar Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "19389091"
+    },
+    {
+      "over": 7,
+      "ball": 3,
+      "bowler": "BHUMIKA RATHOD",
+      "batter": "Trisha Patel",
+      "runs": 1,
+      "description": "1 run,  to Long-off",
+      "teamId": "",
+      "bowlerId": "19389091"
+    },
+    {
+      "over": 7,
+      "ball": 2,
+      "bowler": "BHUMIKA RATHOD",
+      "batter": "Neha girishkumar Patel",
+      "runs": 1,
+      "description": "1 run,  to Deep extra cover",
+      "teamId": "",
+      "bowlerId": "19389091"
+    },
+    {
+      "over": 7,
+      "ball": 1,
+      "bowler": "BHUMIKA RATHOD",
+      "batter": "Neha girishkumar Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "19389091"
+    },
+    {
+      "over": 6,
+      "ball": 6,
+      "bowler": "RIDDHI MAURYA",
+      "batter": "Neha girishkumar Patel",
+      "runs": 1,
+      "description": "1 run,  to Long-on",
+      "teamId": ""
+    },
+    {
+      "over": 6,
+      "ball": 5,
+      "bowler": "RIDDHI MAURYA",
+      "batter": "Trisha Patel",
+      "runs": 1,
+      "description": "1 run,  to Long-on",
+      "teamId": ""
+    },
+    {
+      "over": 6,
+      "ball": 4,
+      "bowler": "RIDDHI MAURYA",
+      "batter": "Trisha Patel",
+      "runs": 6,
+      "description": "SIX,  to Deep mid wicket",
+      "teamId": ""
+    },
+    {
+      "over": 6,
+      "ball": 3,
+      "bowler": "RIDDHI MAURYA",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 6,
+      "ball": 2,
+      "bowler": "RIDDHI MAURYA",
+      "batter": "Trisha Patel",
+      "runs": 4,
+      "description": "FOUR,  to Cow corner",
+      "teamId": ""
+    },
+    {
+      "over": 6,
+      "ball": 1,
+      "bowler": "RIDDHI MAURYA",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 5,
+      "ball": 6,
+      "bowler": "BHUMIKA RATHOD",
+      "batter": "Neha girishkumar Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "19389091"
+    },
+    {
+      "over": 5,
+      "ball": 5,
+      "bowler": "BHUMIKA RATHOD",
+      "batter": "Neha girishkumar Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "19389091"
+    },
+    {
+      "over": 5,
+      "ball": 4,
+      "bowler": "BHUMIKA RATHOD",
+      "batter": "Neha girishkumar Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "19389091"
+    },
+    {
+      "over": 5,
+      "ball": 3,
+      "bowler": "BHUMIKA RATHOD",
+      "batter": "Trisha Patel",
+      "runs": 1,
+      "description": "1 run,  to Cover",
+      "teamId": "",
+      "bowlerId": "19389091"
+    },
+    {
+      "over": 5,
+      "ball": 2,
+      "bowler": "BHUMIKA RATHOD",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "19389091"
+    },
+    {
+      "over": 5,
+      "ball": 1,
+      "bowler": "BHUMIKA RATHOD",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "bowlerId": "19389091"
+    },
+    {
+      "over": 4,
+      "ball": 6,
+      "bowler": "RIDDHI MAURYA",
+      "batter": "Neha girishkumar Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 4,
+      "ball": 5,
+      "bowler": "RIDDHI MAURYA",
+      "batter": "Neha girishkumar Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 4,
+      "ball": 4,
+      "bowler": "RIDDHI MAURYA",
+      "batter": "Neha girishkumar Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 4,
+      "ball": 3,
+      "bowler": "WRIDDHI MAURYA",
+      "batter": "Janvi nikeshkumar Raval",
+      "runs": 0,
+      "description": "OUT BowledJanvi nikeshkumar Raval b RIDDHI MAURYA (0r 2b 0x4s 0x6s SR: 0.00)",
+      "teamId": "",
+      "batterId": "4437714",
+      "wicketInfo": {
+        "wicketType": "bowled",
+        "playerName": "Janvi nikeshkumar Raval",
+        "bowler": "RIDDHI MAURYA",
+        "battingStats": {
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strikeRate": 0
+        }
+      }
+    },
+    {
+      "over": 4,
+      "ball": 2,
+      "bowler": "RIDDHI MAURYA",
+      "batter": "Janvi nikeshkumar Raval",
+      "runs": 0,
+      "description": "no run",
+      "teamId": "",
+      "batterId": "4437714"
+    },
+    {
+      "over": 4,
+      "ball": 1,
+      "bowler": "WRIDDHI MAURYA",
+      "batter": "Kavyanjali ripalkumar Patel",
+      "runs": 0,
+      "description": "OUT Caught behind, Caught Behind by Nishat ChangiwalaKavyanjali ripalkumar Patel c †Nishat Changiwala b RIDDHI MAURYA (5r 11b 1x4s 0x6s SR: 45.45)",
+      "teamId": "",
+      "wicketInfo": {
+        "wicketType": "caught",
+        "playerName": "Caught behind, Caught Behind by Nishat ChangiwalaKavyanjali ripalkumar Patel",
+        "bowler": "RIDDHI MAURYA",
+        "fielder": "†Nishat Changiwala",
+        "battingStats": {
+          "runs": 5,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strikeRate": 45.45
+        }
+      }
+    },
+    {
+      "over": 3,
+      "ball": 6,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 3,
+      "ball": 5,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Trisha Patel",
+      "runs": 4,
+      "description": "FOUR,  to Deep backward square leg",
+      "teamId": ""
+    },
+    {
+      "over": 3,
+      "ball": 4,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Kavyanjali ripalkumar Patel",
+      "runs": 1,
+      "description": "1 run,  to Wide long-on",
+      "teamId": ""
+    },
+    {
+      "over": 3,
+      "ball": 3,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Kavyanjali ripalkumar Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 3,
+      "ball": 2,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Kavyanjali ripalkumar Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 3,
+      "ball": 1,
+      "bowler": "TANVIR SHAIKH",
+      "batter": "Kavyanjali ripalkumar Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 2,
+      "ball": 6,
+      "bowler": "LBMAITHILI GANJALE",
+      "batter": "Kavyanjali ripalkumar Patel",
+      "runs": 1,
+      "description": "leg bye, 1 run",
+      "teamId": ""
+    },
+    {
+      "over": 2,
+      "ball": 5,
+      "bowler": "MAITHILI GANJALE",
+      "batter": "Kavyanjali ripalkumar Patel",
+      "runs": 4,
+      "description": "FOUR,  to Deep extra cover",
+      "teamId": ""
+    },
+    {
+      "over": 2,
+      "ball": 4,
+      "bowler": "MAITHILI GANJALE",
+      "batter": "Kavyanjali ripalkumar Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 2,
+      "ball": 3,
+      "bowler": "MAITHILI GANJALE",
+      "batter": "Kavyanjali ripalkumar Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 2,
+      "ball": 2,
+      "bowler": "MAITHILI GANJALE",
+      "batter": "Kavyanjali ripalkumar Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 2,
+      "ball": 1,
+      "bowler": "MAITHILI GANJALE",
+      "batter": "Kavyanjali ripalkumar Patel",
+      "runs": 4,
+      "description": "leg bye, 4 runs",
+      "teamId": ""
+    },
+    {
+      "over": 1,
+      "ball": 6,
+      "bowler": "RIDDHI MAURYA",
+      "batter": "Trisha Patel",
+      "runs": 4,
+      "description": "FOUR,  to Deep extra cover",
+      "teamId": ""
+    },
+    {
+      "over": 1,
+      "ball": 6,
+      "bowler": "WDRIDDHI MAURYA",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "wide",
+      "teamId": ""
+    },
+    {
+      "over": 1,
+      "ball": 5,
+      "bowler": "RIDDHI MAURYA",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 1,
+      "ball": 4,
+      "bowler": "RIDDHI MAURYA",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 1,
+      "ball": 3,
+      "bowler": "RIDDHI MAURYA",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 1,
+      "ball": 2,
+      "bowler": "RIDDHI MAURYA",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 1,
+      "ball": 1,
+      "bowler": "RIDDHI MAURYA",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 0,
+      "ball": 6,
+      "bowler": "MAITHILI GANJALE",
+      "batter": "Trisha Patel",
+      "runs": 1,
+      "description": "1 run,  to Long-on",
+      "teamId": ""
+    },
+    {
+      "over": 0,
+      "ball": 5,
+      "bowler": "MAITHILI GANJALE",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 0,
+      "ball": 4,
+      "bowler": "MAITHILI GANJALE",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 0,
+      "ball": 3,
+      "bowler": "MAITHILI GANJALE",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 0,
+      "ball": 2,
+      "bowler": "MAITHILI GANJALE",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 0,
+      "ball": 1,
+      "bowler": "MAITHILI GANJALE",
+      "batter": "Trisha Patel",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    }
+  ]
+}

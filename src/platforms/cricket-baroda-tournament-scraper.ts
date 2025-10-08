@@ -1,7 +1,7 @@
 import puppeteer, { Browser, Page } from 'puppeteer';
 import { TournamentScraper, MatchInfo, TournamentInfo, TournamentTeam, MatchPlayer } from './interfaces';
 import { logger, logOperation } from '../logger';
-import { BrowserError, ScraperError, withErrorHandling, withRetry } from '../errors';
+import { BrowserError, ScraperError, withRetry } from '../errors';
 import { CONFIG } from '../config';
 
 /**
@@ -714,7 +714,7 @@ export class CricketBarodaTournamentScraper implements TournamentScraper {
      * @param tournamentUrl - Tournament URL
      * @returns Promise resolving to list of teams
      */
-    private async extractTeamsWithPagination(tournamentUrl: string): Promise<TournamentTeam[]> {
+    private async extractTeamsWithPagination(_tournamentUrl: string): Promise<TournamentTeam[]> {
         const allTeams = new Map<string, any>();
 
         // First, navigate to matches tab to ensure matches are visible
@@ -919,7 +919,7 @@ export class CricketBarodaTournamentScraper implements TournamentScraper {
 
                 // Extract teams from match cards
                 const matchCards = document.querySelectorAll('.match-card');
-                matchCards.forEach((card, matchIndex) => {
+                matchCards.forEach((card, _matchIndex) => {
                     // Look for team names in the match card
                     // Teams are embedded in long text strings with scores
                     const cardText = card.textContent || '';
@@ -997,7 +997,7 @@ export class CricketBarodaTournamentScraper implements TournamentScraper {
 
                     for (const selector of possibleTeamSelectors) {
                         const elements = document.querySelectorAll(selector);
-                        elements.forEach((element, index) => {
+                        elements.forEach((element, _index) => {
                             const name = element.textContent?.trim();
                             if (name && name.length > 3 && !teamNames.has(name)) {
                                 teamNames.add(name);

@@ -1,0 +1,299 @@
+{
+  "match": {
+    "title": "Baroda Cricket Association",
+    "url": "https://www.cricketbaroda.com/match/17801317/Advick-Cricket-Academy-Women-vs-Y.S.C-Women",
+    "teams": [],
+    "result": "Advick Cricket Academy Women won by 20 runs",
+    "venue": "",
+    "date": "",
+    "matchType": "T20"
+  },
+  "teams": [
+    {
+      "name": "Advick Cricket Academy Women",
+      "id": "10134249",
+      "players": [
+        {
+          "name": "Surbhi Chauhan",
+          "id": "2691385"
+        },
+        {
+          "name": "Akshara Tiwari",
+          "id": "15861855"
+        },
+        {
+          "name": "Charusmita Vasava",
+          "id": "2820877"
+        },
+        {
+          "name": "Dhruvi Patel",
+          "id": "9775739"
+        },
+        {
+          "name": "Hani Patel",
+          "id": "77342"
+        },
+        {
+          "name": "Maitri Maniar",
+          "id": "7318468"
+        },
+        {
+          "name": "Pratha Vanar",
+          "id": "3435906"
+        },
+        {
+          "name": "Vani Bamania",
+          "id": "9082410"
+        },
+        {
+          "name": "Prapti Raval",
+          "id": "5486918"
+        },
+        {
+          "name": "Mesvi Pokar",
+          "id": "9813467"
+        },
+        {
+          "name": "Jovita Shringarpure",
+          "id": "15828040"
+        }
+      ]
+    },
+    {
+      "name": "Y.S.C Women",
+      "id": "10134252",
+      "players": [
+        {
+          "name": "Amrita Joseph",
+          "id": "8965007"
+        },
+        {
+          "name": "Bhumika Rathod",
+          "id": "19389091"
+        },
+        {
+          "name": "Dharti Rathod",
+          "id": "1619798"
+        },
+        {
+          "name": "Janki Rathod",
+          "id": "4047587"
+        },
+        {
+          "name": "Nishat Changiwala",
+          "id": "4678429"
+        },
+        {
+          "name": "Riddhi Maurya",
+          "id": "40748141"
+        },
+        {
+          "name": "Tanvir Shaikh",
+          "id": "9775734"
+        },
+        {
+          "name": "Jaya Mohite",
+          "id": "3010391"
+        },
+        {
+          "name": "Maithili Ganjale",
+          "id": "2532426"
+        },
+        {
+          "name": "Hrutvisha Patel",
+          "id": "9775738"
+        },
+        {
+          "name": "Sneha Baria",
+          "id": "14985843"
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "over": 2,
+      "balls": [
+        {
+          "ball": 4,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": {
+            "name": "Pratha Vanar",
+            "id": "3435906",
+            "teamId": "10134249"
+          },
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "2.4WDBHUMIKA RATHOD to Pratha Vanar, wide"
+        }
+      ]
+    },
+    {
+      "over": 8,
+      "balls": [
+        {
+          "ball": 4,
+          "bowler": {
+            "name": "Jaya Mohite",
+            "id": "3010391",
+            "teamId": "10134252"
+          },
+          "batsman": {
+            "name": "Mesvi Pokar",
+            "id": "9813467",
+            "teamId": "10134249"
+          },
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "8.4LBJaya Mohite to Mesvi Pokar, leg bye, 1 run"
+        }
+      ]
+    },
+    {
+      "over": 10,
+      "balls": [
+        {
+          "ball": 6,
+          "bowler": {
+            "name": "Jaya Mohite",
+            "id": "3010391",
+            "teamId": "10134252"
+          },
+          "batsman": {
+            "name": "Surbhi Chauhan",
+            "id": "2691385",
+            "teamId": "10134249"
+          },
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "10.6BJaya Mohite to Surbhi Chauhan, bye, 1 run"
+        }
+      ]
+    },
+    {
+      "over": 11,
+      "balls": [
+        {
+          "ball": 3,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": {
+            "name": "Surbhi Chauhan",
+            "id": "2691385",
+            "teamId": "10134249"
+          },
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "11.3WDBHUMIKA RATHOD to Surbhi Chauhan, wide"
+        }
+      ]
+    },
+    {
+      "over": 13,
+      "balls": [
+        {
+          "ball": 3,
+          "bowler": {
+            "name": "Bhumika Rathod",
+            "id": "19389091",
+            "teamId": "10134252"
+          },
+          "batsman": {
+            "name": "Hani Patel",
+            "id": "77342",
+            "teamId": "10134249"
+          },
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "13.3WDBHUMIKA RATHOD to Hani Patel, wide"
+        }
+      ]
+    },
+    {
+      "over": 14,
+      "balls": [
+        {
+          "ball": 4,
+          "bowler": {
+            "name": "Sneha Baria",
+            "id": "14985843",
+            "teamId": "10134252"
+          },
+          "batsman": {
+            "name": "Hani Patel",
+            "id": "77342",
+            "teamId": "10134249"
+          },
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "14.4BSneha Baria to Hani Patel, bye, 1 run"
+        }
+      ]
+    },
+    {
+      "over": 16,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": {
+            "name": "Sneha Baria",
+            "id": "14985843",
+            "teamId": "10134252"
+          },
+          "batsman": {
+            "name": "Prapti Raval",
+            "id": "5486918",
+            "teamId": "10134249"
+          },
+          "runs": 2,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "16.1BSneha Baria to Prapti Raval, bye, 2 runs"
+        }
+      ]
+    },
+    {
+      "over": 17,
+      "balls": [
+        {
+          "ball": 5,
+          "bowler": {
+            "name": "Tanvir Shaikh",
+            "id": "9775734",
+            "teamId": "10134252"
+          },
+          "batsman": {
+            "name": "Hani Patel",
+            "id": "77342",
+            "teamId": "10134249"
+          },
+          "runs": 1,
+          "wickets": 0,
+          "wicketType": null,
+          "shotArea": null,
+          "description": "17.5WDTANVIR SHAIKH to Hani Patel, wide"
+        }
+      ]
+    }
+  ]
+}

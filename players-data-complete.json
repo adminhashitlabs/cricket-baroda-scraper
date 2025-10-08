@@ -1,0 +1,135 @@
+{
+  "teams": [
+    {
+      "name": "Advick Cricket Academy Women",
+      "id": "10134249",
+      "pillId": "10134249",
+      "index": 0
+    },
+    {
+      "name": "Y.S.C Women",
+      "id": "10134252",
+      "pillId": "10134252",
+      "index": 1
+    }
+  ],
+  "players": [
+    {
+      "name": "Surbhi Chauhan",
+      "id": null,
+      "teamId": "10134249"
+    },
+    {
+      "name": "Akshara Tiwari",
+      "id": null,
+      "teamId": "10134249"
+    },
+    {
+      "name": "Charusmita Vasava",
+      "id": null,
+      "teamId": "10134249"
+    },
+    {
+      "name": "Dhruvi Patel",
+      "id": null,
+      "teamId": "10134249"
+    },
+    {
+      "name": "Hani Patel",
+      "id": null,
+      "teamId": "10134249"
+    },
+    {
+      "name": "Maitri Maniar",
+      "id": null,
+      "teamId": "10134249"
+    },
+    {
+      "name": "Pratha Vanar",
+      "id": null,
+      "teamId": "10134249"
+    },
+    {
+      "name": "Vani Bamania",
+      "id": null,
+      "teamId": "10134249"
+    },
+    {
+      "name": "Prapti Raval",
+      "id": null,
+      "teamId": "10134249"
+    },
+    {
+      "name": "Mesvi Pokar",
+      "id": null,
+      "teamId": "10134249"
+    },
+    {
+      "name": "Jovita Shringarpure",
+      "id": null,
+      "teamId": "10134249"
+    },
+    {
+      "name": "Amrita Joseph",
+      "id": null,
+      "teamId": "10134252"
+    },
+    {
+      "name": "Bhumika Rathod",
+      "id": null,
+      "teamId": "10134252"
+    },
+    {
+      "name": "Dharti Rathod",
+      "id": null,
+      "teamId": "10134252"
+    },
+    {
+      "name": "Janki Rathod",
+      "id": null,
+      "teamId": "10134252"
+    },
+    {
+      "name": "Nishat Changiwala",
+      "id": null,
+      "teamId": "10134252"
+    },
+    {
+      "name": "Riddhi Maurya",
+      "id": null,
+      "teamId": "10134252"
+    },
+    {
+      "name": "Tanvir Shaikh",
+      "id": null,
+      "teamId": "10134252"
+    },
+    {
+      "name": "Jaya Mohite",
+      "id": null,
+      "teamId": "10134252"
+    },
+    {
+      "name": "Maithili Ganjale",
+      "id": null,
+      "teamId": "10134252"
+    },
+    {
+      "name": "Hrutvisha Patel",
+      "id": null,
+      "teamId": "10134252"
+    },
+    {
+      "name": "Sneha Baria",
+      "id": null,
+      "teamId": "10134252"
+    }
+  ],
+  "metadata": {
+    "extractionDate": "2025-09-14T17:57:37.268Z",
+    "source": "CricketBaroda TEAMS tab",
+    "totalPlayers": 22,
+    "playersWithIds": 0,
+    "matchUrl": "https://www.cricketbaroda.com/match/17801317/Advick-Cricket-Academy-Women-vs-Y.S.C-Women"
+  }
+}

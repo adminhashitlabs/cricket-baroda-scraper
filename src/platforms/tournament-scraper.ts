@@ -1,7 +1,7 @@
 import puppeteer, { Browser, Page } from 'puppeteer';
 import { TournamentScraper, MatchInfo, TournamentInfo, TournamentTeam, MatchPlayer } from './interfaces';
 import { logger, logOperation } from '../logger';
-import { BrowserError, ScraperError, withErrorHandling, withRetry } from '../errors';
+import { BrowserError, ScraperError, withRetry } from '../errors';
 import { CONFIG } from '../config';
 
 /**

@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A web scraping application that collects data from a website and transfers it to an application.",
   "main": "src/index.ts",
+  "bin": {
+    "cricket-scraper": "cli.js"
+  },
   "scripts": {
     "start": "ts-node dist/index.js",
     "dev": "ts-node src/index.ts",
@@ -11,6 +14,9 @@
     "scrape:pipeline": "npm run build && ts-node dist/index.js pipeline",
     "scrape:tournament": "npm run build && PIPELINE_MODE=tournament TOURNAMENT_URL=\"https://www.cricketbaroda.com/tournament/12345\" ts-node dist/index.js pipeline",
     "scrape:matches": "npm run build && PIPELINE_MODE=matches URLS=\"https://www.cricketbaroda.com/match/1,https://www.cricketbaroda.com/match/2\" ts-node dist/index.js pipeline",
+    "extract:players": "node extract-players.js",
+    "extract:match": "node complete-match-structured.js",
+    "cli": "node cli.js",
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",

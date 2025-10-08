@@ -26,7 +26,85 @@ A comprehensive TypeScript-based web scraping application that extracts detailed
 - **Code Quality**: ESLint and Prettier integration
 - **Performance Monitoring**: Built-in operation timing and progress tracking
 
-## 📁 Project Structure
+## � Quick Start
+
+### Prerequisites
+- Node.js 18+ and npm
+- Git
+
+### Installation
+```bash
+git clone <repository-url>
+cd web-scraper-app
+npm install
+```
+
+### Basic Usage
+```bash
+# Extract player data from a match
+npm run extract:players
+
+# Extract complete match data with commentary
+npm run extract:match
+
+# Run tests
+npm test
+
+# Check code quality
+npm run lint
+```
+
+### CLI Usage
+The project includes a convenient CLI for common operations:
+
+```bash
+# Show available commands
+npm run cli
+
+# Extract players
+npm run cli players
+
+# Extract match data
+npm run cli match
+
+# Run tests
+npm run cli test
+```
+
+### Example Output
+The scraper generates structured JSON output like:
+```json
+{
+  "match": {
+    "title": "Baroda Cricket Association",
+    "url": "https://www.cricketbaroda.com/match/...",
+    "result": "Advick Cricket Academy Women won by 20 runs"
+  },
+  "teams": [
+    {
+      "name": "Advick Cricket Academy Women",
+      "players": [
+        {"name": "Surbhi Chauhan", "id": "2691385"},
+        {"name": "Akshara Tiwari", "id": "15861855"}
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "over": 0,
+      "balls": [
+        {
+          "ball": 1,
+          "bowler": {"name": "Maithili Ganjale", "id": "2532426"},
+          "batsman": {"name": "Mesvi Pokar", "id": "9813467"},
+          "runs": 4,
+          "description": "0.14MAITHILI GANJALE to Mesvi Pokar, FOUR"
+        }
+      ]
+    }
+  ]
+}
+```
 
 ```
 web-scraper-app/

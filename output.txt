@@ -1,0 +1,3018 @@
+Looking for COMMENTARY tab...
+Found 67 links on the page
+Link: "" -> /
+Link: "Baroda Cricket Association" -> /
+Link: "HOME" -> /
+Link: "ABOUT US" -> #
+Link: "MATCH CENTER" -> #
+Link: "BCA" -> #
+Link: "BPL" -> /baroda/bpl
+Link: "MEDIA" -> #
+Link: "CONTACT US" -> /baroda/contact-us
+Link: "JOB OPPORTUNITIES" -> #
+Link: "WEBSITE POLICY" -> /baroda/website-policy
+Link: "Sign In" -> /enter/sign-in
+Link: "Late Dr. Mrunalini Devi Puar Womens T20 Tournament 2025-26" -> /tournament/1500003/Late-Dr.-Mrunalini-Devi-Puar-Womens-T20-Tournament-2025-26
+Link: "Y.S.C Women" -> /team/10134252/Y.S.C-Women
+Link: "Combined Disrict Women - 1" -> /team/10134216/Combined-Disrict-Women---1
+Link: "SUMMARY" -> 
+Link: "SCORECARD" -> 
+Link: "COMMENTARY" -> 
+Found COMMENTARY link, clicking...
+COMMENTARY tab clicked
+Current URL after COMMENTARY click: https://www.cricketbaroda.com/match/17797270/Y.S.C-Women-vs-Combined-Disrict-Women---1
+Looking for team selector...
+Found team selector, now selecting team and waiting for commentary...
+Team options: [
+  { value: '10134252-1', text: 'Y.S.C Women' },
+  { value: '10134216-1', text: 'Combined Disrict Women - 1' },
+  { value: '-1', text: 'All Commentary' },
+  { value: '1', text: 'Wickets Commentary' },
+  { value: '2', text: 'Boundaries Commentary' }
+]
+Selecting team...
+Selected team for 1st inning: Y.S.C Women
+Waiting 3 seconds...
+Wait complete
+Calling extractCommentaryBalls...
+extractCommentaryBalls method called
+Waiting for commentary container...
+Commentary container found
+Found 144 total elements in commentary container (using direct children selector)
+Starting to process elements...
+Processing element 0/144
+Element 0: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 206 Runs 0 Wkts118/5Sneha Baria*2 (1)TANVIR SHAIKH47 (41)Jinal Patel4-0-4-0Arohi Bist3-0-3-0"
+Parsed over 20, runs: 0, wickets: 1, bowler figures: 4-0-4-0, 3-0-3-0
+Parsed over summary: over 20
+Processing element 1/144
+Element 1: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 2/144
+Element 2: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 3/144
+Element 3: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 4/144
+Element 4: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 5/144
+Element 5: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 6/144
+Element 6: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 7/144
+Element 7: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 1910 Runs 1 Wkts112/5Sneha Baria*2 (1)TANVIR SHAIKH41 (35)Arohi Bist3-0-3-0Aarya yogeshbhai Mehta4-0-4-0"
+Parsed over 19, runs: 1, wickets: 1, bowler figures: 3-0-3-0, 4-0-4-0
+Parsed over summary: over 19
+Processing element 8/144
+Element 8: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 9/144
+Element 9: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 10/144
+Element 10: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 11/144
+Element 11: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 12/144
+Element 12: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 13/144
+Element 13: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 14/144
+Element 14: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 15/144
+Element 15: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 189 Runs 0 Wkts102/4Amrita Joseph*36 (38)TANVIR SHAIKH34 (31)Aarya yogeshbhai Mehta4-0-4-0Hetvi Patel2-0-2-0"
+Parsed over 18, runs: 0, wickets: 1, bowler figures: 4-0-4-0, 2-0-2-0
+Parsed over summary: over 18
+Processing element 16/144
+Element 16: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 17/144
+Element 17: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 18/144
+Element 18: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 19/144
+Element 19: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 20/144
+Element 20: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 21/144
+Element 21: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 22/144
+Element 22: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 23/144
+Element 23: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 178 Runs 0 Wkts93/4Amrita Joseph*34 (34)TANVIR SHAIKH32 (29)Hetvi Patel2-0-2-0Aarya yogeshbhai Mehta3-0-3-0"
+Parsed over 17, runs: 0, wickets: 9, bowler figures: 2-0-2-0, 3-0-3-0
+Parsed over summary: over 17
+Processing element 24/144
+Element 24: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 25/144
+Element 25: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 26/144
+Element 26: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 27/144
+Element 27: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 28/144
+Element 28: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 29/144
+Element 29: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 30/144
+Element 30: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 168 Runs 0 Wkts85/4Amrita Joseph*28 (30)TANVIR SHAIKH31 (27)Aarya yogeshbhai Mehta3-0-3-0Vanshika dharmeshbhai Patel2-0-2-0"
+Parsed over 16, runs: 0, wickets: 8, bowler figures: 3-0-3-0, 2-0-2-0
+Parsed over summary: over 16
+Processing element 31/144
+Element 31: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 32/144
+Element 32: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 33/144
+Element 33: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 34/144
+Element 34: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 35/144
+Element 35: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 36/144
+Element 36: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 37/144
+Element 37: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 158 Runs 0 Wkts77/4Amrita Joseph*26 (28)TANVIR SHAIKH25 (23)Vanshika dharmeshbhai Patel2-0-2-0Arohi Bist2-0-2-0"
+Parsed over 15, runs: 0, wickets: 7, bowler figures: 2-0-2-0, 2-0-2-0
+Parsed over summary: over 15
+Processing element 38/144
+Element 38: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 39/144
+Element 39: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 40/144
+Element 40: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 41/144
+Element 41: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 42/144
+Element 42: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 43/144
+Element 43: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 44/144
+Element 44: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 149 Runs 0 Wkts69/4Amrita Joseph*20 (25)TANVIR SHAIKH23 (20)Arohi Bist2-0-2-0Vanshika dharmeshbhai Patel1-0-1-0"
+Parsed over 14, runs: 0, wickets: 6, bowler figures: 2-0-2-0, 1-0-1-0
+Parsed over summary: over 14
+Processing element 45/144
+Element 45: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 46/144
+Element 46: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 47/144
+Element 47: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 48/144
+Element 48: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 49/144
+Element 49: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 50/144
+Element 50: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 51/144
+Element 51: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 136 Runs 0 Wkts60/4Amrita Joseph*20 (24)TANVIR SHAIKH18 (15)Vanshika dharmeshbhai Patel1-0-1-0Trisha Patel1-0-1-0"
+Parsed over 13, runs: 0, wickets: 6, bowler figures: 1-0-1-0, 1-0-1-0
+Parsed over summary: over 13
+Processing element 52/144
+Element 52: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 53/144
+Element 53: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 54/144
+Element 54: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 55/144
+Element 55: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 56/144
+Element 56: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 57/144
+Element 57: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 58/144
+Element 58: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 127 Runs 0 Wkts54/4Amrita Joseph*17 (21)TANVIR SHAIKH15 (12)Trisha Patel1-0-1-0Hetvi Patel1-0-1-0"
+Parsed over 12, runs: 0, wickets: 5, bowler figures: 1-0-1-0, 1-0-1-0
+Parsed over summary: over 12
+Processing element 59/144
+Element 59: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 60/144
+Element 60: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 61/144
+Element 61: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 62/144
+Element 62: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 63/144
+Element 63: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 64/144
+Element 64: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 65/144
+Element 65: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 119 Runs 0 Wkts47/4Amrita Joseph*15 (19)TANVIR SHAIKH10 (8)Hetvi Patel1-0-1-0Aarya yogeshbhai Mehta2-0-2-0"
+Parsed over 11, runs: 0, wickets: 4, bowler figures: 1-0-1-0, 2-0-2-0
+Parsed over summary: over 11
+Processing element 66/144
+Element 66: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 67/144
+Element 67: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 68/144
+Element 68: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 69/144
+Element 69: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 70/144
+Element 70: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 71/144
+Element 71: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 72/144
+Element 72: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 104 Runs 1 Wkts38/4Amrita Joseph*13 (17)TANVIR SHAIKH3 (4)Aarya yogeshbhai Mehta2-0-2-0Janvi nikeshkumar Raval4-2-4-2"
+Parsed over 10, runs: 1, wickets: 3, bowler figures: 2-0-2-0, 4-2-4-2
+Parsed over summary: over 10
+Processing element 73/144
+Element 73: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 74/144
+Element 74: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 75/144
+Element 75: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 76/144
+Element 76: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 77/144
+Element 77: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 78/144
+Element 78: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 79/144
+Element 79: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 94 Runs 0 Wkts34/3Amrita Joseph*12 (16)Jaya Mohite2 (5)Janvi nikeshkumar Raval4-2-4-2Aarya yogeshbhai Mehta1-0-1-0"
+Parsed over 9, runs: 0, wickets: 3, bowler figures: 4-2-4-2, 1-0-1-0
+Parsed over summary: over 9
+Processing element 80/144
+Element 80: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 81/144
+Element 81: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 82/144
+Element 82: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 83/144
+Element 83: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 84/144
+Element 84: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 85/144
+Element 85: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 86/144
+Element 86: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 81 Runs 1 Wkts30/3Amrita Joseph*10 (13)Jaya Mohite0 (2)Aarya yogeshbhai Mehta1-0-1-0Janvi nikeshkumar Raval3-2-3-2"
+Parsed over 8, runs: 1, wickets: 3, bowler figures: 1-0-1-0, 3-2-3-2
+Parsed over summary: over 8
+Processing element 87/144
+Element 87: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 88/144
+Element 88: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 89/144
+Element 89: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 90/144
+Element 90: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 91/144
+Element 91: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 92/144
+Element 92: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 93/144
+Element 93: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 75 Runs 0 Wkts29/2Amrita Joseph*9 (12)Hrutvisha Patel3 (8)Janvi nikeshkumar Raval3-2-3-2Jinal Patel3-0-3-0"
+Parsed over 7, runs: 0, wickets: 2, bowler figures: 3-2-3-2, 3-0-3-0
+Parsed over summary: over 7
+Processing element 94/144
+Element 94: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 95/144
+Element 95: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 96/144
+Element 96: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 97/144
+Element 97: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 98/144
+Element 98: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 99/144
+Element 99: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 100/144
+Element 100: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 101/144
+Element 101: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 68 Runs 0 Wkts24/2Amrita Joseph*7 (8)Hrutvisha Patel1 (6)Jinal Patel3-0-3-0Janvi nikeshkumar Raval2-2-2-2"
+Parsed over 6, runs: 0, wickets: 2, bowler figures: 3-0-3-0, 2-2-2-2
+Parsed over summary: over 6
+Processing element 102/144
+Element 102: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 103/144
+Element 103: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 104/144
+Element 104: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 105/144
+Element 105: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 106/144
+Element 106: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 107/144
+Element 107: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 108/144
+Element 108: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 50 Runs 1 Wkts16/2Amrita Joseph*0 (3)Hrutvisha Patel0 (5)Janvi nikeshkumar Raval2-2-2-2Jinal Patel2-0-2-0"
+Parsed over 50, runs: 1, wickets: 1, bowler figures: 2-2-2-2, 2-0-2-0
+Parsed over summary: over 50
+Processing element 109/144
+Element 109: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 110/144
+Element 110: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 111/144
+Element 111: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 112/144
+Element 112: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 113/144
+Element 113: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 114/144
+Element 114: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 115/144
+Element 115: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 41 Runs 0 Wkts16/1Amrita Joseph*0 (3)Dharti Rathod6 (11)Jinal Patel2-0-2-0Janvi nikeshkumar Raval1-1-1-1"
+Parsed over 41, runs: 0, wickets: 1, bowler figures: 2-0-2-0, 1-1-1-1
+Parsed over summary: over 41
+Processing element 116/144
+Element 116: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 117/144
+Element 117: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 118/144
+Element 118: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 119/144
+Element 119: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 120/144
+Element 120: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 121/144
+Element 121: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 122/144
+Element 122: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 30 Runs 1 Wkts15/1Amrita Joseph*0 (1)Dharti Rathod5 (7)Janvi nikeshkumar Raval1-1-1-1Jinal Patel1-0-1-0"
+Parsed over 30, runs: 1, wickets: 1, bowler figures: 1-1-1-1, 1-0-1-0
+Parsed over summary: over 30
+Processing element 123/144
+Element 123: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 124/144
+Element 124: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 125/144
+Element 125: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 126/144
+Element 126: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 127/144
+Element 127: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 128/144
+Element 128: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 129/144
+Element 129: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 25 Runs 0 Wkts15/0Nishat Changiwala*9 (5)Dharti Rathod5 (7)Jinal Patel1-0-1-0Arohi Bist1-0-1-0"
+Parsed over 25, runs: 0, wickets: 1, bowler figures: 1-0-1-0, 1-0-1-0
+Parsed over summary: over 25
+Processing element 130/144
+Element 130: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 131/144
+Element 131: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 132/144
+Element 132: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 133/144
+Element 133: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 134/144
+Element 134: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 135/144
+Element 135: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 136/144
+Element 136: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 137/144
+Element 137: DIV.sc-5abfe348-7 ITdWq
+Found over summary element
+Parsing over summary text: "End of over 110 Runs 0 Wkts10/0Nishat Changiwala*9 (5)Dharti Rathod1 (1)Arohi Bist1-0-1-0"
+Parsed over 11, runs: 0, wickets: 10, bowler figures: 1-0-1-0
+Parsed over summary: over 11
+Processing element 138/144
+Element 138: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 139/144
+Element 139: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 140/144
+Element 140: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 141/144
+Element 141: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 142/144
+Element 142: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processing element 143/144
+Element 143: DIV.sc-5abfe348-1 kokwLL
+Processing ball element
+Processed elements - Balls: 124, Summaries: 20, Unknown: 0
+Extracted 124 balls and 20 over summaries from commentary
+Scraped data: {
+  "title": "",
+  "matchTitle": "",
+  "team1": "",
+  "team2": "",
+  "score1": "",
+  "score2": "",
+  "status": "",
+  "venue": "",
+  "date": "",
+  "players": [],
+  "innings": [
+    {
+      "teamId": "",
+      "teamName": "Y.S.C Women",
+      "overs": [
+        {
+          "over": 20,
+          "bowler": "4-0-4-0",
+          "runs": 0,
+          "wickets": 1,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 206 Runs 0 Wkts118/5Sneha Baria*2 (1)TANVIR SHAIKH47 (41)Jinal Patel4-0-4-0Arohi Bist3-0-3-0",
+          "teamId": ""
+        },
+        {
+          "over": 19,
+          "bowler": "3-0-3-0",
+          "runs": 1,
+          "wickets": 1,
+          "balls": 6,
+          "maidens": 0,
+          "economy": 1,
+          "summary": "End of over 1910 Runs 1 Wkts112/5Sneha Baria*2 (1)TANVIR SHAIKH41 (35)Arohi Bist3-0-3-0Aarya yogeshbhai Mehta4-0-4-0",
+          "teamId": ""
+        },
+        {
+          "over": 18,
+          "bowler": "4-0-4-0",
+          "runs": 0,
+          "wickets": 1,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 189 Runs 0 Wkts102/4Amrita Joseph*36 (38)TANVIR SHAIKH34 (31)Aarya yogeshbhai Mehta4-0-4-0Hetvi Patel2-0-2-0",
+          "teamId": ""
+        },
+        {
+          "over": 17,
+          "bowler": "2-0-2-0",
+          "runs": 0,
+          "wickets": 9,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 178 Runs 0 Wkts93/4Amrita Joseph*34 (34)TANVIR SHAIKH32 (29)Hetvi Patel2-0-2-0Aarya yogeshbhai Mehta3-0-3-0",
+          "teamId": ""
+        },
+        {
+          "over": 16,
+          "bowler": "3-0-3-0",
+          "runs": 0,
+          "wickets": 8,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 168 Runs 0 Wkts85/4Amrita Joseph*28 (30)TANVIR SHAIKH31 (27)Aarya yogeshbhai Mehta3-0-3-0Vanshika dharmeshbhai Patel2-0-2-0",
+          "teamId": ""
+        },
+        {
+          "over": 15,
+          "bowler": "2-0-2-0",
+          "runs": 0,
+          "wickets": 7,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 158 Runs 0 Wkts77/4Amrita Joseph*26 (28)TANVIR SHAIKH25 (23)Vanshika dharmeshbhai Patel2-0-2-0Arohi Bist2-0-2-0",
+          "teamId": ""
+        },
+        {
+          "over": 14,
+          "bowler": "2-0-2-0",
+          "runs": 0,
+          "wickets": 6,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 149 Runs 0 Wkts69/4Amrita Joseph*20 (25)TANVIR SHAIKH23 (20)Arohi Bist2-0-2-0Vanshika dharmeshbhai Patel1-0-1-0",
+          "teamId": ""
+        },
+        {
+          "over": 13,
+          "bowler": "1-0-1-0",
+          "runs": 0,
+          "wickets": 6,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 136 Runs 0 Wkts60/4Amrita Joseph*20 (24)TANVIR SHAIKH18 (15)Vanshika dharmeshbhai Patel1-0-1-0Trisha Patel1-0-1-0",
+          "teamId": ""
+        },
+        {
+          "over": 12,
+          "bowler": "1-0-1-0",
+          "runs": 0,
+          "wickets": 5,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 127 Runs 0 Wkts54/4Amrita Joseph*17 (21)TANVIR SHAIKH15 (12)Trisha Patel1-0-1-0Hetvi Patel1-0-1-0",
+          "teamId": ""
+        },
+        {
+          "over": 11,
+          "bowler": "1-0-1-0",
+          "runs": 0,
+          "wickets": 4,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 119 Runs 0 Wkts47/4Amrita Joseph*15 (19)TANVIR SHAIKH10 (8)Hetvi Patel1-0-1-0Aarya yogeshbhai Mehta2-0-2-0",
+          "teamId": ""
+        },
+        {
+          "over": 10,
+          "bowler": "2-0-2-0",
+          "runs": 1,
+          "wickets": 3,
+          "balls": 6,
+          "maidens": 0,
+          "economy": 1,
+          "summary": "End of over 104 Runs 1 Wkts38/4Amrita Joseph*13 (17)TANVIR SHAIKH3 (4)Aarya yogeshbhai Mehta2-0-2-0Janvi nikeshkumar Raval4-2-4-2",
+          "teamId": ""
+        },
+        {
+          "over": 9,
+          "bowler": "4-2-4-2",
+          "runs": 0,
+          "wickets": 3,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 94 Runs 0 Wkts34/3Amrita Joseph*12 (16)Jaya Mohite2 (5)Janvi nikeshkumar Raval4-2-4-2Aarya yogeshbhai Mehta1-0-1-0",
+          "teamId": ""
+        },
+        {
+          "over": 8,
+          "bowler": "1-0-1-0",
+          "runs": 1,
+          "wickets": 3,
+          "balls": 6,
+          "maidens": 0,
+          "economy": 1,
+          "summary": "End of over 81 Runs 1 Wkts30/3Amrita Joseph*10 (13)Jaya Mohite0 (2)Aarya yogeshbhai Mehta1-0-1-0Janvi nikeshkumar Raval3-2-3-2",
+          "teamId": ""
+        },
+        {
+          "over": 7,
+          "bowler": "3-2-3-2",
+          "runs": 0,
+          "wickets": 2,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 75 Runs 0 Wkts29/2Amrita Joseph*9 (12)Hrutvisha Patel3 (8)Janvi nikeshkumar Raval3-2-3-2Jinal Patel3-0-3-0",
+          "teamId": ""
+        },
+        {
+          "over": 6,
+          "bowler": "3-0-3-0",
+          "runs": 0,
+          "wickets": 2,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 68 Runs 0 Wkts24/2Amrita Joseph*7 (8)Hrutvisha Patel1 (6)Jinal Patel3-0-3-0Janvi nikeshkumar Raval2-2-2-2",
+          "teamId": ""
+        },
+        {
+          "over": 50,
+          "bowler": "2-2-2-2",
+          "runs": 1,
+          "wickets": 1,
+          "balls": 6,
+          "maidens": 0,
+          "economy": 1,
+          "summary": "End of over 50 Runs 1 Wkts16/2Amrita Joseph*0 (3)Hrutvisha Patel0 (5)Janvi nikeshkumar Raval2-2-2-2Jinal Patel2-0-2-0",
+          "teamId": ""
+        },
+        {
+          "over": 41,
+          "bowler": "2-0-2-0",
+          "runs": 0,
+          "wickets": 1,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 41 Runs 0 Wkts16/1Amrita Joseph*0 (3)Dharti Rathod6 (11)Jinal Patel2-0-2-0Janvi nikeshkumar Raval1-1-1-1",
+          "teamId": ""
+        },
+        {
+          "over": 30,
+          "bowler": "1-1-1-1",
+          "runs": 1,
+          "wickets": 1,
+          "balls": 6,
+          "maidens": 0,
+          "economy": 1,
+          "summary": "End of over 30 Runs 1 Wkts15/1Amrita Joseph*0 (1)Dharti Rathod5 (7)Janvi nikeshkumar Raval1-1-1-1Jinal Patel1-0-1-0",
+          "teamId": ""
+        },
+        {
+          "over": 25,
+          "bowler": "1-0-1-0",
+          "runs": 0,
+          "wickets": 1,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 25 Runs 0 Wkts15/0Nishat Changiwala*9 (5)Dharti Rathod5 (7)Jinal Patel1-0-1-0Arohi Bist1-0-1-0",
+          "teamId": ""
+        },
+        {
+          "over": 11,
+          "bowler": "1-0-1-0",
+          "runs": 0,
+          "wickets": 10,
+          "balls": 6,
+          "maidens": 1,
+          "economy": 0,
+          "summary": "End of over 110 Runs 0 Wkts10/0Nishat Changiwala*9 (5)Dharti Rathod1 (1)Arohi Bist1-0-1-0",
+          "teamId": ""
+        }
+      ],
+      "balls": [
+        {
+          "over": 19,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "2 runs,  to Cow corner",
+          "teamId": ""
+        },
+        {
+          "over": 19,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 19,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 19,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "FOUR,  to Straight long-off",
+          "teamId": ""
+        },
+        {
+          "over": 19,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 19,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 18,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "2 runs,  to Third man",
+          "teamId": ""
+        },
+        {
+          "over": 18,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "OUT Caught out, Caught at Long-on by Trisha PatelAmrita Joseph c Trisha Patel b Arohi Bist (36r 39b 3x4s 0x6s SR: 92.31)",
+          "teamId": ""
+        },
+        {
+          "over": 18,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "wide",
+          "teamId": ""
+        },
+        {
+          "over": 18,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep mid wicket",
+          "teamId": ""
+        },
+        {
+          "over": 18,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 18,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "FOUR,  to Deep backward square leg",
+          "teamId": ""
+        },
+        {
+          "over": 18,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "2 runs,  to Deep extra cover",
+          "teamId": ""
+        },
+        {
+          "over": 17,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep backward square leg",
+          "teamId": ""
+        },
+        {
+          "over": 17,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep cover",
+          "teamId": ""
+        },
+        {
+          "over": 17,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 17,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep mid wicket",
+          "teamId": ""
+        },
+        {
+          "over": 17,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "wide, 4 runs",
+          "teamId": ""
+        },
+        {
+          "over": 17,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Backward Point",
+          "teamId": ""
+        },
+        {
+          "over": 17,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 16,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep extra cover",
+          "teamId": ""
+        },
+        {
+          "over": 16,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "leg bye, 1 run",
+          "teamId": ""
+        },
+        {
+          "over": 16,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep cover",
+          "teamId": ""
+        },
+        {
+          "over": 16,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 16,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "FOUR,  to Deep extra cover",
+          "teamId": ""
+        },
+        {
+          "over": 16,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Backward Point",
+          "teamId": ""
+        },
+        {
+          "over": 15,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep backward square leg",
+          "teamId": ""
+        },
+        {
+          "over": 15,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "FOUR,  to Long-off",
+          "teamId": ""
+        },
+        {
+          "over": 15,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 15,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep extra cover",
+          "teamId": ""
+        },
+        {
+          "over": 15,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Wide long-on",
+          "teamId": ""
+        },
+        {
+          "over": 15,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Long-off",
+          "teamId": ""
+        },
+        {
+          "over": 14,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 14,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Long-off",
+          "teamId": ""
+        },
+        {
+          "over": 14,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "FOUR,  to Cow corner",
+          "teamId": ""
+        },
+        {
+          "over": 14,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Long-off",
+          "teamId": ""
+        },
+        {
+          "over": 14,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Wide long-on",
+          "teamId": ""
+        },
+        {
+          "over": 14,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep mid wicket",
+          "teamId": ""
+        },
+        {
+          "over": 13,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 13,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep mid wicket",
+          "teamId": ""
+        },
+        {
+          "over": 13,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 13,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "FOUR,  to Cow corner",
+          "teamId": ""
+        },
+        {
+          "over": 13,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 13,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "bye, 4 runs",
+          "teamId": ""
+        },
+        {
+          "over": 12,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Backward Point",
+          "teamId": ""
+        },
+        {
+          "over": 12,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep cover",
+          "teamId": ""
+        },
+        {
+          "over": 12,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Mid wicket",
+          "teamId": ""
+        },
+        {
+          "over": 12,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Wide long-off",
+          "teamId": ""
+        },
+        {
+          "over": 12,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Wide long-off",
+          "teamId": ""
+        },
+        {
+          "over": 12,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep extra cover",
+          "teamId": ""
+        },
+        {
+          "over": 11,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 11,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep cover point",
+          "teamId": ""
+        },
+        {
+          "over": 11,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Short third man",
+          "teamId": ""
+        },
+        {
+          "over": 11,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "FOUR,  to Deep extra cover",
+          "teamId": ""
+        },
+        {
+          "over": 11,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 11,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Long-off",
+          "teamId": ""
+        },
+        {
+          "over": 10,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "FOUR,  to Third man",
+          "teamId": ""
+        },
+        {
+          "over": 10,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep cover",
+          "teamId": ""
+        },
+        {
+          "over": 10,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Backward Point",
+          "teamId": ""
+        },
+        {
+          "over": 10,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 10,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "2 runs,  to Deep point",
+          "teamId": ""
+        },
+        {
+          "over": 10,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Wide long-on",
+          "teamId": ""
+        },
+        {
+          "over": 9,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 9,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 9,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "2 runs,  to Third man",
+          "teamId": ""
+        },
+        {
+          "over": 9,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Wide long-off",
+          "teamId": ""
+        },
+        {
+          "over": 9,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep extra cover",
+          "teamId": ""
+        },
+        {
+          "over": 9,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "OUT StumpedJaya Mohite st †Maitri Rathod b Aarya yogeshbhai Mehta (2r 6b 0x4s 0x6s SR: 33.33)",
+          "teamId": ""
+        },
+        {
+          "over": 8,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 8,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Wide long-off",
+          "teamId": ""
+        },
+        {
+          "over": 8,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 8,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep extra cover",
+          "teamId": ""
+        },
+        {
+          "over": 8,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep extra cover",
+          "teamId": ""
+        },
+        {
+          "over": 8,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Wide long-off",
+          "teamId": ""
+        },
+        {
+          "over": 7,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 7,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 7,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "OUT LBWHrutvisha Patel lbw b Aarya yogeshbhai Mehta (3r 11b 0x4s 0x6s SR: 27.27)",
+          "teamId": ""
+        },
+        {
+          "over": 7,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 7,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 7,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep extra cover",
+          "teamId": ""
+        },
+        {
+          "over": 6,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Long-off",
+          "teamId": ""
+        },
+        {
+          "over": 6,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 6,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 6,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Deep extra cover",
+          "teamId": ""
+        },
+        {
+          "over": 6,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "wide",
+          "teamId": ""
+        },
+        {
+          "over": 6,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Long-off",
+          "teamId": ""
+        },
+        {
+          "over": 6,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Cow corner",
+          "teamId": ""
+        },
+        {
+          "over": 5,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 5,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "FOUR,  to Wide long-off",
+          "teamId": ""
+        },
+        {
+          "over": 5,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "2 runs,  to Long-off",
+          "teamId": ""
+        },
+        {
+          "over": 5,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 5,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Cover",
+          "teamId": ""
+        },
+        {
+          "over": 5,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Fine leg",
+          "teamId": ""
+        },
+        {
+          "over": 4,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 4,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 4,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 4,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 4,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 4,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "OUT BowledDharti Rathod b Janvi nikeshkumar Raval (6r 12b 1x4s 0x6s SR: 50.00)",
+          "teamId": ""
+        },
+        {
+          "over": 3,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 3,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 3,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Third man",
+          "teamId": ""
+        },
+        {
+          "over": 3,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 3,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 3,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 2,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 2,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "OUT BowledNishat Changiwala b Janvi nikeshkumar Raval (9r 10b 2x4s 0x6s SR: 90.00)",
+          "teamId": ""
+        },
+        {
+          "over": 2,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 2,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 2,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 2,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 1,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 1,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "wide",
+          "teamId": ""
+        },
+        {
+          "over": 1,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 1,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "FOUR,  to Cow corner",
+          "teamId": ""
+        },
+        {
+          "over": 1,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 1,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 1,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 0,
+          "ball": 6,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "FOUR,  to Deep backward point",
+          "teamId": ""
+        },
+        {
+          "over": 0,
+          "ball": 5,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Backward square leg",
+          "teamId": ""
+        },
+        {
+          "over": 0,
+          "ball": 4,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "1 run,  to Backward Point",
+          "teamId": ""
+        },
+        {
+          "over": 0,
+          "ball": 3,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "FOUR,  to Straight long-off",
+          "teamId": ""
+        },
+        {
+          "over": 0,
+          "ball": 2,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        },
+        {
+          "over": 0,
+          "ball": 1,
+          "bowler": "",
+          "batter": "",
+          "runs": 0,
+          "description": "no run",
+          "teamId": ""
+        }
+      ],
+      "totalRuns": 5,
+      "totalWickets": 75,
+      "totalOvers": 20
+    }
+  ],
+  "teams": [],
+  "playersData": [],
+  "commentary": [
+    {
+      "over": 19,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "2 runs,  to Cow corner",
+      "teamId": ""
+    },
+    {
+      "over": 19,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 19,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 19,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "FOUR,  to Straight long-off",
+      "teamId": ""
+    },
+    {
+      "over": 19,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 19,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 18,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "2 runs,  to Third man",
+      "teamId": ""
+    },
+    {
+      "over": 18,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "OUT Caught out, Caught at Long-on by Trisha PatelAmrita Joseph c Trisha Patel b Arohi Bist (36r 39b 3x4s 0x6s SR: 92.31)",
+      "teamId": ""
+    },
+    {
+      "over": 18,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "wide",
+      "teamId": ""
+    },
+    {
+      "over": 18,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep mid wicket",
+      "teamId": ""
+    },
+    {
+      "over": 18,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 18,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "FOUR,  to Deep backward square leg",
+      "teamId": ""
+    },
+    {
+      "over": 18,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "2 runs,  to Deep extra cover",
+      "teamId": ""
+    },
+    {
+      "over": 17,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep backward square leg",
+      "teamId": ""
+    },
+    {
+      "over": 17,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep cover",
+      "teamId": ""
+    },
+    {
+      "over": 17,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 17,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep mid wicket",
+      "teamId": ""
+    },
+    {
+      "over": 17,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "wide, 4 runs",
+      "teamId": ""
+    },
+    {
+      "over": 17,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Backward Point",
+      "teamId": ""
+    },
+    {
+      "over": 17,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 16,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep extra cover",
+      "teamId": ""
+    },
+    {
+      "over": 16,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "leg bye, 1 run",
+      "teamId": ""
+    },
+    {
+      "over": 16,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep cover",
+      "teamId": ""
+    },
+    {
+      "over": 16,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 16,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "FOUR,  to Deep extra cover",
+      "teamId": ""
+    },
+    {
+      "over": 16,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Backward Point",
+      "teamId": ""
+    },
+    {
+      "over": 15,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep backward square leg",
+      "teamId": ""
+    },
+    {
+      "over": 15,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "FOUR,  to Long-off",
+      "teamId": ""
+    },
+    {
+      "over": 15,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 15,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep extra cover",
+      "teamId": ""
+    },
+    {
+      "over": 15,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Wide long-on",
+      "teamId": ""
+    },
+    {
+      "over": 15,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Long-off",
+      "teamId": ""
+    },
+    {
+      "over": 14,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 14,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Long-off",
+      "teamId": ""
+    },
+    {
+      "over": 14,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "FOUR,  to Cow corner",
+      "teamId": ""
+    },
+    {
+      "over": 14,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Long-off",
+      "teamId": ""
+    },
+    {
+      "over": 14,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Wide long-on",
+      "teamId": ""
+    },
+    {
+      "over": 14,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep mid wicket",
+      "teamId": ""
+    },
+    {
+      "over": 13,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 13,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep mid wicket",
+      "teamId": ""
+    },
+    {
+      "over": 13,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 13,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "FOUR,  to Cow corner",
+      "teamId": ""
+    },
+    {
+      "over": 13,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 13,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "bye, 4 runs",
+      "teamId": ""
+    },
+    {
+      "over": 12,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Backward Point",
+      "teamId": ""
+    },
+    {
+      "over": 12,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep cover",
+      "teamId": ""
+    },
+    {
+      "over": 12,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Mid wicket",
+      "teamId": ""
+    },
+    {
+      "over": 12,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Wide long-off",
+      "teamId": ""
+    },
+    {
+      "over": 12,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Wide long-off",
+      "teamId": ""
+    },
+    {
+      "over": 12,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep extra cover",
+      "teamId": ""
+    },
+    {
+      "over": 11,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 11,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep cover point",
+      "teamId": ""
+    },
+    {
+      "over": 11,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Short third man",
+      "teamId": ""
+    },
+    {
+      "over": 11,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "FOUR,  to Deep extra cover",
+      "teamId": ""
+    },
+    {
+      "over": 11,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 11,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Long-off",
+      "teamId": ""
+    },
+    {
+      "over": 10,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "FOUR,  to Third man",
+      "teamId": ""
+    },
+    {
+      "over": 10,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep cover",
+      "teamId": ""
+    },
+    {
+      "over": 10,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Backward Point",
+      "teamId": ""
+    },
+    {
+      "over": 10,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 10,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "2 runs,  to Deep point",
+      "teamId": ""
+    },
+    {
+      "over": 10,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Wide long-on",
+      "teamId": ""
+    },
+    {
+      "over": 9,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 9,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 9,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "2 runs,  to Third man",
+      "teamId": ""
+    },
+    {
+      "over": 9,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Wide long-off",
+      "teamId": ""
+    },
+    {
+      "over": 9,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep extra cover",
+      "teamId": ""
+    },
+    {
+      "over": 9,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "OUT StumpedJaya Mohite st †Maitri Rathod b Aarya yogeshbhai Mehta (2r 6b 0x4s 0x6s SR: 33.33)",
+      "teamId": ""
+    },
+    {
+      "over": 8,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 8,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Wide long-off",
+      "teamId": ""
+    },
+    {
+      "over": 8,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 8,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep extra cover",
+      "teamId": ""
+    },
+    {
+      "over": 8,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep extra cover",
+      "teamId": ""
+    },
+    {
+      "over": 8,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Wide long-off",
+      "teamId": ""
+    },
+    {
+      "over": 7,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 7,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 7,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "OUT LBWHrutvisha Patel lbw b Aarya yogeshbhai Mehta (3r 11b 0x4s 0x6s SR: 27.27)",
+      "teamId": ""
+    },
+    {
+      "over": 7,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 7,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 7,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep extra cover",
+      "teamId": ""
+    },
+    {
+      "over": 6,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Long-off",
+      "teamId": ""
+    },
+    {
+      "over": 6,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 6,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 6,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Deep extra cover",
+      "teamId": ""
+    },
+    {
+      "over": 6,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "wide",
+      "teamId": ""
+    },
+    {
+      "over": 6,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Long-off",
+      "teamId": ""
+    },
+    {
+      "over": 6,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Cow corner",
+      "teamId": ""
+    },
+    {
+      "over": 5,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 5,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "FOUR,  to Wide long-off",
+      "teamId": ""
+    },
+    {
+      "over": 5,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "2 runs,  to Long-off",
+      "teamId": ""
+    },
+    {
+      "over": 5,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 5,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Cover",
+      "teamId": ""
+    },
+    {
+      "over": 5,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Fine leg",
+      "teamId": ""
+    },
+    {
+      "over": 4,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 4,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 4,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 4,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 4,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 4,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "OUT BowledDharti Rathod b Janvi nikeshkumar Raval (6r 12b 1x4s 0x6s SR: 50.00)",
+      "teamId": ""
+    },
+    {
+      "over": 3,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 3,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 3,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Third man",
+      "teamId": ""
+    },
+    {
+      "over": 3,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 3,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 3,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 2,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 2,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "OUT BowledNishat Changiwala b Janvi nikeshkumar Raval (9r 10b 2x4s 0x6s SR: 90.00)",
+      "teamId": ""
+    },
+    {
+      "over": 2,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 2,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 2,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 2,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 1,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 1,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "wide",
+      "teamId": ""
+    },
+    {
+      "over": 1,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 1,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "FOUR,  to Cow corner",
+      "teamId": ""
+    },
+    {
+      "over": 1,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 1,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 1,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 0,
+      "ball": 6,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "FOUR,  to Deep backward point",
+      "teamId": ""
+    },
+    {
+      "over": 0,
+      "ball": 5,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Backward square leg",
+      "teamId": ""
+    },
+    {
+      "over": 0,
+      "ball": 4,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "1 run,  to Backward Point",
+      "teamId": ""
+    },
+    {
+      "over": 0,
+      "ball": 3,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "FOUR,  to Straight long-off",
+      "teamId": ""
+    },
+    {
+      "over": 0,
+      "ball": 2,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    },
+    {
+      "over": 0,
+      "ball": 1,
+      "bowler": "",
+      "batter": "",
+      "runs": 0,
+      "description": "no run",
+      "teamId": ""
+    }
+  ]
+}
+Scraping completed successfully.

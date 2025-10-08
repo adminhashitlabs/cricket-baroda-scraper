@@ -1,4 +1,4 @@
-import { ScrapedData, BallData, Team, Player } from '../types';
+import { ScrapedData, Team, Player } from '../types';
 
 /**
  * Configuration for a cricket platform
