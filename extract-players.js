@@ -150,4 +150,13 @@ async function extractPlayerData() {
     }
 }
 
-extractPlayerData().catch(console.error);
+async function extractPlayers() {
+    return await extractPlayerData();
+}
+
+module.exports = { extractPlayers };
+
+// Run if called directly
+if (require.main === module) {
+    extractPlayerData().catch(console.error);
+}

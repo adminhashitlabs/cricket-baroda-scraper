@@ -430,17 +430,16 @@ class CompleteMatchExtractor {
     }
 }
 
-async function runCompleteExtraction() {
-    const browser = await puppeteer.launch({ headless: false });
+async function extractMatchData(matchUrl) {
+    const browser = await puppeteer.launch({ headless: true });
     const page = await browser.newPage();
-
-    const matchUrl = 'https://www.cricketbaroda.com/match/17801317/Advick-Cricket-Academy-Women-vs-Y.S.C-Women';
 
     try {
         const extractor = new CompleteMatchExtractor(browser, page, matchUrl);
-        await extractor.extractCompleteMatchData();
+        return await extractor.extractCompleteMatchData();
     } catch (error) {
         console.error('❌ Extraction failed:', error.message);
+        throw error;
     } finally {
         console.log('\n🔒 Closing browser...');
         await browser.close();
@@ -448,4 +447,14 @@ async function runCompleteExtraction() {
     }
 }
 
-runCompleteExtraction();
+async function runCompleteExtraction() {
+    const matchUrl = 'https://www.cricketbaroda.com/match/17801317/Advick-Cricket-Academy-Women-vs-Y.S.C-Women';
+    return await extractMatchData(matchUrl);
+}
+
+module.exports = { extractMatchData };
+
+// Run if called directly
+if (require.main === module) {
+    runCompleteExtraction();
+}

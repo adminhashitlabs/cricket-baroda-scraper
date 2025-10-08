@@ -453,7 +453,7 @@ The application includes comprehensive error handling:
 - **[Contributing Guide](CONTRIBUTING.md)** - How to contribute to the project
 - **[Development History](DEVELOPMENT_HISTORY.md)** - Project timeline and architectural decisions
 - **[Changelog](CHANGELOG.md)** - Version history and release notes
-- **[API Documentation](API.md)** - Technical API reference (when available)
+- **[API Documentation](API.md)** - Technical API reference for agent integration
 
 ## 👥 Team Collaboration
 
@@ -490,6 +490,24 @@ This project is designed for team development with:
    npm run cli players  # Test player extraction
    npm run cli match    # Test match scraping
    ```
+
+## 🌐 API for Agent Integration
+
+The project includes a REST API for seamless agent integration:
+
+```bash
+# Start the API server
+npm run api
+
+# API will be available at http://localhost:3000
+```
+
+### API Endpoints
+- `GET /health` - Health check
+- `GET /api/players` - Extract player data
+- `POST /api/match` - Extract match data with commentary
+
+See **[API Documentation](API.md)** for complete integration guide and examples.
 
 ## 🤝 Contributing
 
