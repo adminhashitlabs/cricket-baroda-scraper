@@ -450,6 +450,7 @@ The application includes comprehensive error handling:
 
 ## 📖 Documentation
 
+- **[Getting Started](GETTING_STARTED.md)** - Complete setup and usage guide
 - **[Contributing Guide](CONTRIBUTING.md)** - How to contribute to the project
 - **[Development History](DEVELOPMENT_HISTORY.md)** - Project timeline and architectural decisions
 - **[Changelog](CHANGELOG.md)** - Version history and release notes
