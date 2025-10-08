@@ -1,0 +1,126 @@
+{
+  "teams": [
+    {
+      "name": "Advick Cricket Academy Women",
+      "id": "10134249",
+      "pillId": "10134249"
+    },
+    {
+      "name": "Y.S.C Women",
+      "id": "10134252",
+      "pillId": "10134252"
+    }
+  ],
+  "players": [
+    {
+      "name": "Surbhi Chauhan",
+      "id": "2691385",
+      "teamId": "10134249"
+    },
+    {
+      "name": "Akshara Tiwari",
+      "id": "15861855",
+      "teamId": "10134249"
+    },
+    {
+      "name": "Charusmita Vasava",
+      "id": "2820877",
+      "teamId": "10134249"
+    },
+    {
+      "name": "Dhruvi Patel",
+      "id": "9775739",
+      "teamId": "10134249"
+    },
+    {
+      "name": "Hani Patel",
+      "id": "77342",
+      "teamId": "10134249"
+    },
+    {
+      "name": "Maitri Maniar",
+      "id": "7318468",
+      "teamId": "10134249"
+    },
+    {
+      "name": "Pratha Vanar",
+      "id": "3435906",
+      "teamId": "10134249"
+    },
+    {
+      "name": "Vani Bamania",
+      "id": "9082410",
+      "teamId": "10134249"
+    },
+    {
+      "name": "Prapti Raval",
+      "id": "5486918",
+      "teamId": "10134249"
+    },
+    {
+      "name": "Mesvi Pokar",
+      "id": "9813467",
+      "teamId": "10134249"
+    },
+    {
+      "name": "Jovita Shringarpure",
+      "id": "15828040",
+      "teamId": "10134249"
+    },
+    {
+      "name": "Amrita Joseph",
+      "id": "8965007",
+      "teamId": "10134252"
+    },
+    {
+      "name": "Bhumika Rathod",
+      "id": "19389091",
+      "teamId": "10134252"
+    },
+    {
+      "name": "Dharti Rathod",
+      "id": "1619798",
+      "teamId": "10134252"
+    },
+    {
+      "name": "Janki Rathod",
+      "id": "4047587",
+      "teamId": "10134252"
+    },
+    {
+      "name": "Nishat Changiwala",
+      "id": "4678429",
+      "teamId": "10134252"
+    },
+    {
+      "name": "Riddhi Maurya",
+      "id": "40748141",
+      "teamId": "10134252"
+    },
+    {
+      "name": "Tanvir Shaikh",
+      "id": "9775734",
+      "teamId": "10134252"
+    },
+    {
+      "name": "Jaya Mohite",
+      "id": "3010391",
+      "teamId": "10134252"
+    },
+    {
+      "name": "Maithili Ganjale",
+      "id": "2532426",
+      "teamId": "10134252"
+    },
+    {
+      "name": "Hrutvisha Patel",
+      "id": "9775738",
+      "teamId": "10134252"
+    },
+    {
+      "name": "Sneha Baria",
+      "id": "14985843",
+      "teamId": "10134252"
+    }
+  ]
+}
