@@ -1,126 +1,146 @@
 {
   "teams": [
     {
-      "name": "Advick Cricket Academy Women",
-      "id": "10134249",
-      "pillId": "10134249"
+      "name": "ALEMBIC WARRIORS",
+      "id": "10327549",
+      "pillId": "10327549"
     },
     {
-      "name": "Y.S.C Women",
-      "id": "10134252",
-      "pillId": "10134252"
+      "name": "AMI SUPER AVENGERS",
+      "id": "10327553",
+      "pillId": "10327553"
     }
   ],
-  "players": [
+  "teamOnePlayers": [
     {
-      "name": "Surbhi Chauhan",
-      "id": "2691385",
-      "teamId": "10134249"
+      "name": "Ninad Rathva (C)",
+      "id": "40348"
     },
     {
-      "name": "Akshara Tiwari",
-      "id": "15861855",
-      "teamId": "10134249"
+      "name": "Anant Bharwad (WK)",
+      "id": "40347"
     },
     {
-      "name": "Charusmita Vasava",
-      "id": "2820877",
-      "teamId": "10134249"
+      "name": "Deep Patel",
+      "id": "7553794"
     },
     {
-      "name": "Dhruvi Patel",
-      "id": "9775739",
-      "teamId": "10134249"
+      "name": "Dhruv N Patel",
+      "id": "307222"
     },
     {
-      "name": "Hani Patel",
-      "id": "77342",
-      "teamId": "10134249"
+      "name": "Hemant Punde",
+      "id": "40344"
     },
     {
-      "name": "Maitri Maniar",
-      "id": "7318468",
-      "teamId": "10134249"
+      "name": "Lakshit Toksiya",
+      "id": "163141"
     },
     {
-      "name": "Pratha Vanar",
-      "id": "3435906",
-      "teamId": "10134249"
+      "name": "Prasoon Jangid",
+      "id": "506366"
     },
     {
-      "name": "Vani Bamania",
-      "id": "9082410",
-      "teamId": "10134249"
+      "name": "Rachesh Kessur",
+      "id": "239250"
     },
     {
-      "name": "Prapti Raval",
-      "id": "5486918",
-      "teamId": "10134249"
+      "name": "Safvan Patel",
+      "id": "72019"
     },
     {
-      "name": "Mesvi Pokar",
-      "id": "9813467",
-      "teamId": "10134249"
+      "name": "Shlok Desai",
+      "id": "55355"
     },
     {
-      "name": "Jovita Shringarpure",
-      "id": "15828040",
-      "teamId": "10134249"
+      "name": "Utsav Chaudhary",
+      "id": "3140242"
     },
     {
-      "name": "Amrita Joseph",
-      "id": "8965007",
-      "teamId": "10134252"
+      "name": "Hitanshu Oad",
+      "id": "329004"
     },
     {
-      "name": "Bhumika Rathod",
-      "id": "19389091",
-      "teamId": "10134252"
+      "name": "Manav Bedekar",
+      "id": "88773"
     },
     {
-      "name": "Dharti Rathod",
-      "id": "1619798",
-      "teamId": "10134252"
+      "name": "Vishal Solanki",
+      "id": "110037"
     },
     {
-      "name": "Janki Rathod",
-      "id": "4047587",
-      "teamId": "10134252"
+      "name": "Henil Patel",
+      "id": "93232"
     },
     {
-      "name": "Nishat Changiwala",
-      "id": "4678429",
-      "teamId": "10134252"
+      "name": "Bhavishya Patel",
+      "id": "9514502"
+    }
+  ],
+  "teamTwoPlayers": [
+    {
+      "name": "Atit Sheth Icon (cap) (C)",
+      "id": "71893"
     },
     {
-      "name": "Riddhi Maurya",
-      "id": "40748141",
-      "teamId": "10134252"
+      "name": "Chintal Gandhi",
+      "id": "99135"
     },
     {
-      "name": "Tanvir Shaikh",
-      "id": "9775734",
-      "teamId": "10134252"
+      "name": "Deep Kheni",
+      "id": "578648"
     },
     {
-      "name": "Jaya Mohite",
-      "id": "3010391",
-      "teamId": "10134252"
+      "name": "Irfan Shaikh",
+      "id": "91801"
     },
     {
-      "name": "Maithili Ganjale",
-      "id": "2532426",
-      "teamId": "10134252"
+      "name": "Jyotsnil Singh",
+      "id": "71193"
     },
     {
-      "name": "Hrutvisha Patel",
-      "id": "9775738",
-      "teamId": "10134252"
+      "name": "Keyur Kale",
+      "id": "7477072"
     },
     {
-      "name": "Sneha Baria",
-      "id": "14985843",
-      "teamId": "10134252"
+      "name": "Tejsingh Mane (WK)",
+      "id": "886959"
+    },
+    {
+      "name": "Pavan Patel",
+      "id": "9779153"
+    },
+    {
+      "name": "Aayush Rai",
+      "id": "93728"
+    },
+    {
+      "name": "Aryan Chavda",
+      "id": "94094"
+    },
+    {
+      "name": "Rushabh Jain",
+      "id": "507810"
+    },
+    {
+      "name": "Babasafikhan Pathan",
+      "id": "329876"
+    },
+    {
+      "name": "Rushikesh Jadhav",
+      "id": "99085"
+    },
+    {
+      "name": "Narayan Kartikey",
+      "id": "1717185"
+    },
+    {
+      "name": "Sukirt Pandey",
+      "id": "79315"
+    },
+    {
+      "name": "Sarang Bhatt",
+      "id": "29010"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "teamOne": "Baroda U-16 A",
+  "teamTwo": "Baroda U-16 B",
+  "groundName": "SGSA, Vadodara",
+  "startDate": "2025-10-11T04:00:00.000Z",
+  "matchType": "Test Match",
+  "tournamentCategory": "COMMUNITY",
+  "pitchType": "ROUGH",
+  "playoffType": "INITIAL",
+  "maxOversPerBowler": 10
+}

@@ -1,147 +1,78 @@
-const puppeteer = require('puppeteer');
-const fs = require('fs');
-const path = require('path');
+import { launch } from 'puppeteer';
+import { writeFileSync } from 'fs';
+import { join } from 'path';
+import { fileURLToPath } from 'url';
+import { dirname } from 'path';
 
-async function extractPlayerData() {
+async function extractPlayerData(url) {
     console.log('Starting player data extraction...');
 
-    const browser = await puppeteer.launch({
+    const browser = await launch({
         headless: false,
         args: ['--no-sandbox', '--disable-setuid-sandbox']
     });
 
     const page = await browser.newPage();
-    const url = 'https://www.cricketbaroda.com/match/17801317/Advick-Cricket-Academy-Women-vs-Y.S.C-Women';
 
     try {
         await page.goto(url, { waitUntil: 'networkidle2' });
 
-        // Navigate to TEAMS tab
-        await page.evaluate(() => {
-            const links = Array.from(document.querySelectorAll('a'));
-            const teamsLink = links.find(link => link.textContent?.trim() === 'TEAMS');
-            if (teamsLink) {
-                teamsLink.scrollIntoView();
-                teamsLink.click();
-            }
-        });
-
-        await new Promise(resolve => setTimeout(resolve, 5000));
+        await new Promise(resolve => setTimeout(resolve, 2000));
+        await page.evaluate(()=>{});
 
         // Extract teams
-        const teams = [];
-        const teamPillElements = await page.$$('a.sc-73674382-0');
-        console.log('Team pills found:', teamPillElements.length);
-
-        for (let i = 0; i < teamPillElements.length; i++) {
-            const name = await teamPillElements[i].evaluate(el => el.textContent?.trim() || '');
-            const pillId = await teamPillElements[i].evaluate(el => el.id);
-            teams.push({ name, id: pillId, pillId });
-        }
-
-        console.log('Teams extracted:', teams);
-
-        const players = [];
-
-        // Process each team
-        for (let teamIndex = 0; teamIndex < teams.length; teamIndex++) {
-            const team = teams[teamIndex];
-            console.log(`\nProcessing team: ${team.name}`);
-
-            // Ensure on TEAMS tab
-            await page.evaluate(() => {
-                const links = Array.from(document.querySelectorAll('a'));
-                const teamsLink = links.find(link => link.textContent?.trim() === 'TEAMS');
-                if (teamsLink) {
-                    teamsLink.scrollIntoView();
-                    teamsLink.click();
-                }
-            });
-
-            await new Promise(resolve => setTimeout(resolve, 5000));
-
-            // Click team pill
-            const pillElements = await page.$$('a.sc-73674382-0');
-            if (pillElements[teamIndex]) {
-                await pillElements[teamIndex].scrollIntoView();
-                await pillElements[teamIndex].click();
-                console.log(`Clicked team pill for ${team.name}`);
+        const teams = await page.evaluate(() =>{
+            const teamAnchorParents = document.querySelectorAll('.sc-3d56998f-7.OdhRR');
+            const teams= [];
+            console.log('Team pills found:', teamAnchorParents.length);
+    
+            for (let i = 0; i < teamAnchorParents.length; i++) {
+                const name = teamAnchorParents[i].querySelector('a')?.textContent;
+                const pillId = teamAnchorParents[i].querySelector('a')?.getAttribute('href')?.split('/')[2];
+                teams.push({ name, id: pillId, pillId });
             }
+    
+            console.log('Teams extracted:', teams);
 
-            await new Promise(resolve => setTimeout(resolve, 10000));
+            return teams;
+    
+        });
+    
+        // extract players for teams
+        const players = await page.evaluate(() => {
+            const teamUls = document.querySelectorAll('.sc-3d56998f-12.cGApab');
+            const playersForMatch = [];
+            for(const ul of teamUls){
+                const currentTeamPlayers = [];
+                const playerAnchorElements = ul.querySelectorAll('a');
 
-            // Get player count
-            const playerCount = await page.evaluate(() => {
-                const container = document.querySelector('div.sc-970ea800-15.chYnrI');
-                if (container) {
-                    return container.querySelectorAll('div').length;
+                for(const playerAnchorElement of playerAnchorElements){
+                    const name = playerAnchorElement.textContent?.trim() || '';
+                    const playerId = playerAnchorElement.getAttribute('href').split('/')[2];
+
+                    const player = { name, id: playerId };
+                    currentTeamPlayers.push(player);
+
                 }
-                return 0;
-            });
-
-            console.log(`Player count for ${team.name}:`, playerCount);
-
-            // Extract players
-            for (let j = 0; j < playerCount; j++) {
-                console.log(`Processing player ${j + 1}/${playerCount}`);
-
-                const playerEl = await page.$(`div.sc-970ea800-15.chYnrI > div:nth-child(${j + 1})`);
-                if (playerEl) {
-                    const name = await playerEl.evaluate(el => el.textContent?.trim() || '');
-                    console.log(`Player name: ${name}`);
-
-                    // Click player to get their profile
-                    await playerEl.click();
-                    await page.waitForNavigation({ waitUntil: 'networkidle2' });
-
-                    const playerUrl = page.url();
-                    console.log(`Player URL: ${playerUrl}`);
-
-                    const segments = playerUrl.split('/');
-                    const id = segments[segments.length - 2];
-                    console.log(`Player ID: ${id}`);
-
-                    players.push({ name, id, teamId: team.id });
-
-                    // Go back
-                    await page.goBack();
-                    await new Promise(resolve => setTimeout(resolve, 2000));
-
-                    // Re-navigate to TEAMS and re-click pill
-                    await page.evaluate(() => {
-                        const links = Array.from(document.querySelectorAll('a'));
-                        const teamsLink = links.find(link => link.textContent?.trim() === 'TEAMS');
-                        if (teamsLink) teamsLink.click();
-                    });
-
-                    await new Promise(resolve => setTimeout(resolve, 5000));
-
-                    const pillElementsAfter = await page.$$('a.sc-73674382-0');
-                    if (pillElementsAfter[teamIndex]) {
-                        await pillElementsAfter[teamIndex].click();
-                    }
-
-                    await new Promise(resolve => setTimeout(resolve, 2000));
+                if(currentTeamPlayers.length > 0){
+                    playersForMatch.push(currentTeamPlayers);
                 }
             }
 
-            // Reset to match page for next team
-            await page.goto(url);
-            await new Promise(resolve => setTimeout(resolve, 5000));
-        }
+            return playersForMatch;
+        });
+
+        const [teamOnePlayers, teamTwoPlayers] = players;
 
         // Save to file
-        const outputPath = path.join(__dirname, 'players-data.json');
-        fs.writeFileSync(outputPath, JSON.stringify({ teams, players }, null, 2));
+        const __filename = fileURLToPath(import.meta.url);
+        const __dirname = dirname(__filename);
+        const outputPath = join(__dirname, 'players-data.json');
+        writeFileSync(outputPath, JSON.stringify({ teams, teamOnePlayers, teamTwoPlayers }, null, 2));
 
         console.log(`\nPlayer data saved to: ${outputPath}`);
-        console.log(`Total players extracted: ${players.length}`);
-
-        // Log sample data
-        console.log('\nSample players:');
-        players.slice(0, 10).forEach(player => {
-            console.log(`${player.name} (ID: ${player.id}) - Team: ${player.teamId}`);
-        });
+        console.log(`Total players extracted: ${teamOnePlayers.length + teamTwoPlayers.length}`);
+   
 
     } catch (error) {
         console.error('Error extracting player data:', error);
@@ -150,13 +81,13 @@ async function extractPlayerData() {
     }
 }
 
-async function extractPlayers() {
-    return await extractPlayerData();
+async function extractPlayers(url) {
+    return await extractPlayerData(url);
 }
 
-module.exports = { extractPlayers };
+export default { extractPlayers };
 
 // Run if called directly
-if (require.main === module) {
-    extractPlayerData().catch(console.error);
-}
+extractPlayerData(
+    'https://cricketbaroda.com/match/18089466/AMI-SUPER-AVENGERS-vs-ALEMBIC-WARRIORS' // pass the match url here 
+).catch(console.error);
