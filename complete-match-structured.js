@@ -86,6 +86,140 @@ class CompleteMatchExtractor {
         };
 
 
+        // players association 
+        // extract players for teams
+        const players = await this.page.evaluate(() => {
+            const teamUls = document.querySelectorAll('.sc-3d56998f-12.cGApab');
+            const teams  = document.querySelectorAll('.sc-3d56998f-7, .OdhRR');
+            var index = 0;
+            const playersForMatch = {};
+            for(const ul of teamUls){
+                const curTeamName = teams[index].textContent.trim();
+                index++;
+                const currentTeamPlayers = [];
+                const playerAnchorElements = ul.querySelectorAll('a');
+
+                for(const playerAnchorElement of playerAnchorElements){
+                    const name = playerAnchorElement.textContent?.trim() || '';
+                    const playerId = playerAnchorElement.getAttribute('href').split('/')[2];
+
+                    const player = { name, id: playerId };
+                    currentTeamPlayers.push(player);
+
+                }
+                if(currentTeamPlayers.length > 0){
+                    playersForMatch[curTeamName] = currentTeamPlayers;
+                }
+            }
+
+            return playersForMatch;
+        });
+
+        // batting innnings extraction for lineup number 
+        const battingInnings = await this.page.evaluate(async()=>{
+            scorecard_button = document.querySelectorAll('.sc-83d0d22b-3')[1].querySelector('a');
+            scorecard_button.click();
+
+            //sleep
+            await new Promise(resolve => setTimeout(resolve, 3000));
+            
+            let innings = [];
+
+            const battingTeamNamesElements = document.querySelectorAll('h3.sc-7a881374-9, .eJsSZa');
+            const tables = document.querySelectorAll('table.sc-7a881374-15, .gXJhZN');
+
+            battingTeamNamesElements.forEach((teamNameElement, index) => {
+                const teamName = teamNameElement.textContent.trim();
+                const table = tables[index];
+                console.log('Processing team:', teamName);
+                const rows = table.querySelectorAll('tbody tr');
+                const currentInning = {
+                    teamName: teamName,
+                    players: [],
+                };
+                for(row of rows){
+                    const columns = row.querySelectorAll('td');
+                    if(columns.length < 6){
+                        continue;
+                    }
+                    const playerName = columns[0].textContent.trim();
+                    const outString = columns[1].textContent.trim();
+                    currentInning.players.push({
+                        playerName,
+                        outString,
+                    });
+                }
+                innings.push(currentInning);
+            });
+            return innings;
+        });
+
+        matchScheduleData.battingInnings = battingInnings;
+
+     
+
+        matchScheduleData.players = players;
+
+
+        //commentary data 
+        const commentaryData = await this.page.evaluate(async ()=>{
+            const commentaryEntries = [];
+
+            const commentaryLink = document.querySelectorAll('.sc-83d0d22b-3')[2].querySelector('a');
+            commentaryLink.click();
+
+            //sleep
+            await new Promise(resolve => setTimeout(resolve, 3000));
+
+            const innings = []; 
+            const inningsElements = document.querySelector('select').querySelectorAll('option');
+            for(const inningElement of inningsElements){
+                innings.push({
+                    id : inningElement.getAttribute('value'),
+                    name : inningElement.textContent.trim(),
+                });
+            }
+            for(const inning of innings){
+                const inningSelect = document.querySelector('select');
+                inningSelect.value = inning.id;
+                inningSelect.dispatchEvent(new Event('change', { bubbles: true }));
+
+                //sleep
+                await new Promise(resolve => setTimeout(resolve, 2000));
+
+                var commentaryOuterElements = document.querySelectorAll('.sc-5abfe348-1, .kokwLL');
+                var balls = [];
+                commentaryOuterElements.forEach(outerElement=>{
+                    const ballNumber = outerElement.querySelector('span, .sc-5abfe348-2, .gQOaFT').textContent.trim().split(".")[1];
+                    const ballStat = outerElement.querySelector('.sc-5abfe348-3, .lfzIPi').querySelector('span').textContent.trim();
+                    const para = outerElement.querySelector('p');
+                    var wicket = null;
+                    if(ballStat === 'W'){
+                        const wicketInfo = para.querySelector('span').textContent.trim();
+                        wicket = wicketInfo;
+                    }
+                    const commentaryText = para.textContent.trim();
+                    balls.push({
+                        ballNumber,
+                        ballStat,
+                        commentaryText,
+                        wicket,
+                    });
+                });
+
+                const commentaryInning = {
+                    inningName : inning.name,
+                    balls
+                };
+                commentaryEntries.push(commentaryInning);
+            }
+
+            return commentaryEntries;
+        });
+        matchScheduleData.commentary = commentaryData;
+
+
+        console.log('Final Match Schedule Data:', matchScheduleData);
         // Write to a JSON file
         const __filename = fileURLToPath(import.meta.url);
         const __dirname = dirname(__filename);
@@ -100,7 +234,8 @@ class CompleteMatchExtractor {
 }
 
 async function extractMatchData(matchUrl) {
-    const browser = await launch({ headless: true });
+    const browser = await launch({  headless: false,
+        args: ['--no-sandbox', '--disable-setuid-sandbox'] });
     const page = await browser.newPage();
 
     try {
@@ -118,7 +253,7 @@ async function extractMatchData(matchUrl) {
 
 async function runCompleteExtraction() {
 
-    const matchUrl = 'https://cricketbaroda.com/match/19518599/Baroda-U-16-A-vs-Baroda-U-16-B';
+    const matchUrl = 'https://cricketbaroda.com/match/20079333/Billimora-District-U-14-vs-Navsari-District-U-14';
     return await extractMatchData(matchUrl);
 }
 

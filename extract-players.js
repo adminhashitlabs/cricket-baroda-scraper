@@ -67,7 +67,7 @@ async function extractPlayerData(url) {
         // Save to file
         const __filename = fileURLToPath(import.meta.url);
         const __dirname = dirname(__filename);
-        const outputPath = join(__dirname, 'players-data.json');
+        const outputPath = join(__dirname, 'data-ingestion-src/players-data.json');
         writeFileSync(outputPath, JSON.stringify({ teams, teamOnePlayers, teamTwoPlayers }, null, 2));
 
         console.log(`\nPlayer data saved to: ${outputPath}`);

@@ -1,0 +1,80 @@
+[
+  {
+    "teamName": "Navsari District U-14",
+    "players": [
+      {
+        "playerName": "Marvin Patel  (c & wk)",
+        "outString": "b DHRUV D RAVANI"
+      },
+      {
+        "playerName": "Het Naik",
+        "outString": "c Kush Patel b Manan Patel"
+      },
+      {
+        "playerName": "Dax D Patel",
+        "outString": "st †Hiten   Dakshesh   Patel b Kush Patel"
+      },
+      {
+        "playerName": "Aadikumaar H. SHAH",
+        "outString": "not out"
+      },
+      {
+        "playerName": "Balkisan Kumawat",
+        "outString": "run out (sub) Nainesh Patel  / Kush Patel"
+      },
+      {
+        "playerName": "Yash N Rajput",
+        "outString": "c Mithil Patel b Kush Patel"
+      },
+      {
+        "playerName": "Jainil Sanjaykumar Patel",
+        "outString": "c (sub) Nainesh Patel  b Heer Patel"
+      },
+      {
+        "playerName": "Naksh Manhar Dhodiya",
+        "outString": "c Manan Patel b Mithil Patel"
+      },
+      {
+        "playerName": "Rajveer Patel",
+        "outString": "run out Manan Patel / Mithil Patel"
+      },
+      {
+        "playerName": "Preet Chauhan",
+        "outString": "run out Mithil Patel"
+      }
+    ]
+  },
+  {
+    "teamName": "Billimora District U-14",
+    "players": [
+      {
+        "playerName": "DHRUV D RAVANI",
+        "outString": "9"
+      },
+      {
+        "playerName": "ronak sardar",
+        "outString": "5"
+      },
+      {
+        "playerName": "Mithil Patel  (c)",
+        "outString": "10"
+      },
+      {
+        "playerName": "Heer Patel",
+        "outString": "10"
+      },
+      {
+        "playerName": "Manan Patel",
+        "outString": "6"
+      },
+      {
+        "playerName": "Tirth Patel",
+        "outString": "5"
+      },
+      {
+        "playerName": "Kush Patel",
+        "outString": "5"
+      }
+    ]
+  }
+]

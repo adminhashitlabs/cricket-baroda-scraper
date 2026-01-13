@@ -153,5 +153,5 @@ export default { extractTeamsnAndDivision };
 
 // Run if called directly
 extractTeamsnAndDivision(
-    'https://cricketbaroda.com/tournament/1625572/All-India-U-16-J.-Y.-Lele-Invitation-Tournament-2025-26' // pass the match url here 
+    'https://cricketbaroda.com/tournament/1621388/U-14-INTER-DISTRICT-ONE-DAY-TOURNAMENT-2025-26' // pass the match url here 
 ).catch(console.error);

@@ -1,11 +1,3389 @@
 {
-  "teamOne": "Baroda U-16 A",
-  "teamTwo": "Baroda U-16 B",
-  "groundName": "SGSA, Vadodara",
-  "startDate": "2025-10-11T04:00:00.000Z",
-  "matchType": "Test Match",
+  "teamOne": "Billimora District U-14",
+  "teamTwo": "Navsari District U-14",
+  "groundName": "V S Patel College Billimora, Billimora",
+  "startDate": "2025-11-10T03:30:00.000Z",
+  "matchType": "50 Ov.",
   "tournamentCategory": "COMMUNITY",
   "pitchType": "ROUGH",
   "playoffType": "INITIAL",
-  "maxOversPerBowler": 10
+  "maxOversPerBowler": 10,
+  "battingInnings": [
+    {
+      "teamName": "Billimora District U-14",
+      "players": [
+        {
+          "playerName": "Heel patel  (wk)",
+          "outString": "run out PRANAV YADAV / Balkisan Kumawat"
+        },
+        {
+          "playerName": "Kush Patel",
+          "outString": "c Yash N Rajput b Balkisan Kumawat"
+        },
+        {
+          "playerName": "Manan Patel",
+          "outString": "c Ayansh Shah b Balkisan Kumawat"
+        },
+        {
+          "playerName": "Mithil Patel  (c)",
+          "outString": "run out Het Naik / Balkisan Kumawat"
+        },
+        {
+          "playerName": "Utsav Patel",
+          "outString": "run out Rajveer Patel / Yash N Rajput"
+        },
+        {
+          "playerName": "A Rahman Karoliya",
+          "outString": "c †Marvin Patel b Yash N Rajput"
+        },
+        {
+          "playerName": "Nainesh Patel",
+          "outString": "c Het Naik b Dax D Patel"
+        },
+        {
+          "playerName": "DHRUV D RAVANI",
+          "outString": "b Rajveer Patel"
+        },
+        {
+          "playerName": "Heer Patel",
+          "outString": "b Yash N Rajput"
+        },
+        {
+          "playerName": "Dhrumil patel",
+          "outString": "b Balkisan Kumawat"
+        },
+        {
+          "playerName": "ronak sardar",
+          "outString": "not out"
+        }
+      ]
+    },
+    {
+      "teamName": "Navsari District U-14",
+      "players": [
+        {
+          "playerName": "Rajveer Patel",
+          "outString": "9"
+        },
+        {
+          "playerName": "Viraj Upadhyay",
+          "outString": "3"
+        },
+        {
+          "playerName": "Balkisan Kumawat",
+          "outString": "10"
+        },
+        {
+          "playerName": "Yash N Rajput",
+          "outString": "7.3"
+        },
+        {
+          "playerName": "HARISH HABIB SHAIKH",
+          "outString": "6"
+        },
+        {
+          "playerName": "Dax D Patel",
+          "outString": "4"
+        },
+        {
+          "playerName": "Het Naik",
+          "outString": "2"
+        }
+      ]
+    }
+  ],
+  "players": {
+    "Navsari District U-14": [
+      {
+        "name": "Marvin Patel (WK) (C)",
+        "id": "13913685"
+      },
+      {
+        "name": "Aadikumaar H Shah",
+        "id": "30835319"
+      },
+      {
+        "name": "Balkisan Kumawat",
+        "id": "16272138"
+      },
+      {
+        "name": "Dax D Patel",
+        "id": "8631787"
+      },
+      {
+        "name": "Het Naik",
+        "id": "20002582"
+      },
+      {
+        "name": "Rajveer Patel",
+        "id": "1337304"
+      },
+      {
+        "name": "Yash N Rajput",
+        "id": "27785389"
+      },
+      {
+        "name": "Ayansh Shah",
+        "id": "43462393"
+      },
+      {
+        "name": "Harish Habib Shaikh",
+        "id": "268735"
+      },
+      {
+        "name": "Pranav Yadav",
+        "id": "20562620"
+      },
+      {
+        "name": "Viraj Upadhyay",
+        "id": "42742671"
+      },
+      {
+        "name": "Jainil Sanjaykumar Patel (12th)",
+        "id": "12134989"
+      }
+    ],
+    "Billimora District U-14": [
+      {
+        "name": "Mithil Patel (C)",
+        "id": "16649370"
+      },
+      {
+        "name": "A Rahman Karoliya",
+        "id": "18364292"
+      },
+      {
+        "name": "Dhruv D Ravani",
+        "id": "2326430"
+      },
+      {
+        "name": "Heel Patel (WK)",
+        "id": "19608592"
+      },
+      {
+        "name": "Heer Patel",
+        "id": "6841733"
+      },
+      {
+        "name": "Kush Patel",
+        "id": "14311710"
+      },
+      {
+        "name": "Manan Patel",
+        "id": "27035684"
+      },
+      {
+        "name": "Ronak Sardar",
+        "id": "26018834"
+      },
+      {
+        "name": "Dhrumil Patel",
+        "id": "26018913"
+      },
+      {
+        "name": "Nainesh Patel",
+        "id": "43462665"
+      },
+      {
+        "name": "Utsav Patel",
+        "id": "43462639"
+      },
+      {
+        "name": "Hiten Dakshesh Patel (12th)",
+        "id": "31420335"
+      }
+    ]
+  },
+  "commentary": [
+    {
+      "inningName": "Billimora District U-14",
+      "balls": [
+        {
+          "ballNumber": "3",
+          "ballStat": "W",
+          "commentaryText": "Yash N Rajput to Heer Patel, OUT BowledHeer Patel b Yash N Rajput (4r 14b 0x4s 0x6s SR: 28.57)",
+          "wicket": "Yash N Rajput to Heer Patel, OUT Bowled"
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Heer Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Heer Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "4",
+          "commentaryText": "Rajveer Patel to ronak sardar, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to ronak sardar, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to ronak sardar, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to ronak sardar, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to ronak sardar, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "Rajveer Patel to Heer Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to ronak sardar, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to ronak sardar, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "W",
+          "commentaryText": "Balkisan Kumawat to Dhrumil patel, OUT BowledDhrumil patel b Balkisan Kumawat (0r 5b 0x4s 0x6s SR: 0.00)",
+          "wicket": "Balkisan Kumawat to Dhrumil patel, OUT Bowled"
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Dhrumil patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to Heer Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Heer Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Dhrumil patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "1",
+          "commentaryText": "Rajveer Patel to Heer Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Heer Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "B",
+          "commentaryText": "Rajveer Patel to Dhrumil patel, bye, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Dhrumil patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "W",
+          "commentaryText": "Rajveer Patel to DHRUV D RAVANI, OUT BowledDHRUV D RAVANI b Rajveer Patel (35r 29b 6x4s 0x6s SR: 120.69)",
+          "wicket": "Rajveer Patel to DHRUV D RAVANI, OUT Bowled"
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Heer Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Heer Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to DHRUV D RAVANI, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "2",
+          "commentaryText": "Balkisan Kumawat to DHRUV D RAVANI, 2 runs",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to Heer Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to DHRUV D RAVANI, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Heer Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "1",
+          "commentaryText": "Yash N Rajput to DHRUV D RAVANI, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "4",
+          "commentaryText": "Yash N Rajput to DHRUV D RAVANI, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "4",
+          "commentaryText": "Yash N Rajput to DHRUV D RAVANI, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "4",
+          "commentaryText": "Yash N Rajput to DHRUV D RAVANI, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to DHRUV D RAVANI, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Heer Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Heer Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to DHRUV D RAVANI, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "W",
+          "commentaryText": "Balkisan Kumawat to Mithil Patel, 1 run, OUT Run out, Throw by Het NaikMithil Patel run out Het Naik / Balkisan Kumawat (42r 67b 5x4s 0x6s SR: 62.69)",
+          "wicket": "Balkisan Kumawat to Mithil Patel, 1 run, OUT Run out, Throw by Het Naik"
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "2",
+          "commentaryText": "Balkisan Kumawat to Mithil Patel, 2 runs,\n# 1 Run missed by Het Naik",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "4",
+          "commentaryText": "Het Naik to DHRUV D RAVANI, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "1",
+          "commentaryText": "Het Naik to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Het Naik to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Het Naik to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Het Naik to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "4",
+          "commentaryText": "Het Naik to Mithil Patel, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Dax D Patel to DHRUV D RAVANI, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "4",
+          "commentaryText": "Dax D Patel to DHRUV D RAVANI, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Dax D Patel to DHRUV D RAVANI, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Dax D Patel to DHRUV D RAVANI, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "4",
+          "commentaryText": "Dax D Patel to DHRUV D RAVANI, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "Dax D Patel to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Het Naik to DHRUV D RAVANI, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "1",
+          "commentaryText": "Het Naik to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "1",
+          "commentaryText": "Het Naik to DHRUV D RAVANI, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Het Naik to DHRUV D RAVANI, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Het Naik to DHRUV D RAVANI, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "Het Naik to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "NB",
+          "commentaryText": "Het Naik to DHRUV D RAVANI, (no ball), 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Dax D Patel to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "4",
+          "commentaryText": "Dax D Patel to Mithil Patel, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Dax D Patel to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "Dax D Patel to DHRUV D RAVANI, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Dax D Patel to DHRUV D RAVANI, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Dax D Patel to DHRUV D RAVANI, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "1",
+          "commentaryText": "Rajveer Patel to DHRUV D RAVANI, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to DHRUV D RAVANI, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to DHRUV D RAVANI, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to DHRUV D RAVANI, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "Dax D Patel to DHRUV D RAVANI, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "W",
+          "commentaryText": "Dax D Patel to Nainesh Patel , OUT Caught out, Caught by Het Naik,\n# What a brilliant catch!Nainesh Patel  c Het Naik b Dax D Patel (22r 34b 3x4s 0x6s SR: 64.71)",
+          "wicket": "Dax D Patel to Nainesh Patel , OUT Caught out, Caught by Het Naik,\n# What a brilliant catch!"
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Dax D Patel to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "Dax D Patel to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "1",
+          "commentaryText": "Dax D Patel to Nainesh Patel , 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Dax D Patel to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "1",
+          "commentaryText": "Rajveer Patel to Nainesh Patel , 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "HARISH HABIB SHAIKH to Nainesh Patel , 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "2",
+          "commentaryText": "HARISH HABIB SHAIKH to Nainesh Patel , 2 runs",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "1",
+          "commentaryText": "HARISH HABIB SHAIKH to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to Nainesh Patel , 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "4",
+          "commentaryText": "Balkisan Kumawat to Nainesh Patel , FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "HARISH HABIB SHAIKH to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "1",
+          "commentaryText": "HARISH HABIB SHAIKH to Nainesh Patel , 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "4",
+          "commentaryText": "HARISH HABIB SHAIKH to Nainesh Patel , FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to Nainesh Patel , 1 run,\n# Dropped by Ayansh Shah",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "4",
+          "commentaryText": "Balkisan Kumawat to Nainesh Patel , FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "1",
+          "commentaryText": "HARISH HABIB SHAIKH to Nainesh Patel , 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "1",
+          "commentaryText": "HARISH HABIB SHAIKH to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "1",
+          "commentaryText": "HARISH HABIB SHAIKH to Nainesh Patel , 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "HARISH HABIB SHAIKH to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "Dax D Patel to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Dax D Patel to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "4",
+          "commentaryText": "Dax D Patel to Mithil Patel, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Dax D Patel to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Dax D Patel to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Dax D Patel to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "1",
+          "commentaryText": "HARISH HABIB SHAIKH to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "1",
+          "commentaryText": "Yash N Rajput to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "HARISH HABIB SHAIKH to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Nainesh Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "W",
+          "commentaryText": "Yash N Rajput to A Rahman Karoliya, OUT Caught behind, Caught Behind by Marvin Patel,\n# What a brilliant catch!A Rahman Karoliya c †Marvin Patel b Yash N Rajput (1r 4b 0x4s 0x6s SR: 25.00)",
+          "wicket": "Yash N Rajput to A Rahman Karoliya, OUT Caught behind, Caught Behind by Marvin Patel,\n# What a brilliant catch!"
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "B",
+          "commentaryText": "Yash N Rajput to Mithil Patel, bye, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "HARISH HABIB SHAIKH to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "4",
+          "commentaryText": "HARISH HABIB SHAIKH to Mithil Patel, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "HARISH HABIB SHAIKH to A Rahman Karoliya, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to A Rahman Karoliya, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "HARISH HABIB SHAIKH to A Rahman Karoliya, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "W",
+          "commentaryText": "Yash N Rajput to Mithil Patel, OUT Run out, Throw by Rajveer PatelUtsav Patel  run out Rajveer Patel / Yash N Rajput (4r 8b 1x4s 0x6s SR: 50.00)",
+          "wicket": "Yash N Rajput to Mithil Patel, OUT Run out, Throw by Rajveer Patel"
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "4",
+          "commentaryText": "Yash N Rajput to Mithil Patel, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Utsav Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "4",
+          "commentaryText": "Balkisan Kumawat to Utsav Patel , FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Utsav Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Utsav Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Utsav Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Utsav Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Utsav Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "Yash N Rajput to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Mithil Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Utsav Patel , no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "W",
+          "commentaryText": "Balkisan Kumawat to Manan Patel, OUT Caught out, Caught by Ayansh ShahManan Patel c Ayansh Shah b Balkisan Kumawat (3r 15b 0x4s 0x6s SR: 20.00)",
+          "wicket": "Balkisan Kumawat to Manan Patel, OUT Caught out, Caught by Ayansh Shah"
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Manan Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to Mithil Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to Manan Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "W",
+          "commentaryText": "Balkisan Kumawat to Heel patel, OUT Run out, Throw by PRANAV YADAVHeel patel run out PRANAV YADAV / Balkisan Kumawat (45r 41b 5x4s 2x6s SR: 109.76)",
+          "wicket": "Balkisan Kumawat to Heel patel, OUT Run out, Throw by PRANAV YADAV"
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Manan Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Manan Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "1",
+          "commentaryText": "Yash N Rajput to Heel patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Manan Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to Heel patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "4",
+          "commentaryText": "Balkisan Kumawat to Heel patel, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to Manan Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Manan Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to Heel patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Manan Patel, bye, 4 runs",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Manan Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Manan Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Manan Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Manan Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Yash N Rajput to Manan Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to Manan Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "W",
+          "commentaryText": "Balkisan Kumawat to Kush Patel, OUT Caught out, Caught by Yash N Rajput,\n# What a brilliant catch!Kush Patel c Yash N Rajput b Balkisan Kumawat (18r 27b 3x4s 0x6s SR: 66.67)",
+          "wicket": "Balkisan Kumawat to Kush Patel, OUT Caught out, Caught by Yash N Rajput,\n# What a brilliant catch!"
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Kush Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to Heel patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "Rajveer Patel to Heel patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "4",
+          "commentaryText": "Rajveer Patel to Heel patel, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "4",
+          "commentaryText": "Rajveer Patel to Heel patel, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "2",
+          "commentaryText": "Rajveer Patel to Heel patel, 2 runs",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to Heel patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "3",
+          "commentaryText": "Balkisan Kumawat to Kush Patel, 3 runs",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Kush Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Kush Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Balkisan Kumawat to Kush Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "Balkisan Kumawat to Heel patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Kush Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Kush Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "1",
+          "commentaryText": "Rajveer Patel to Heel patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "4",
+          "commentaryText": "Rajveer Patel to Heel patel, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "1",
+          "commentaryText": "Rajveer Patel to Kush Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "4",
+          "commentaryText": "Rajveer Patel to Kush Patel, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "Viraj Upadhyay to Kush Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Viraj Upadhyay to Kush Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Viraj Upadhyay to Kush Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Viraj Upadhyay to Kush Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Viraj Upadhyay to Kush Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "4",
+          "commentaryText": "Viraj Upadhyay to Kush Patel, (no ball), FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Viraj Upadhyay to Kush Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "2",
+          "commentaryText": "Rajveer Patel to Heel patel, 2 runs",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "1",
+          "commentaryText": "Rajveer Patel to Kush Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Kush Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Kush Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "4",
+          "commentaryText": "Rajveer Patel to Kush Patel, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Viraj Upadhyay to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "6",
+          "commentaryText": "Viraj Upadhyay to Heel patel, SIX",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Viraj Upadhyay to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "6",
+          "commentaryText": "Viraj Upadhyay to Heel patel, SIX",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Viraj Upadhyay to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Viraj Upadhyay to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Kush Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Kush Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Kush Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Kush Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Kush Patel, bye, 4 runs",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Kush Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Viraj Upadhyay to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Viraj Upadhyay to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Viraj Upadhyay to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Viraj Upadhyay to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Viraj Upadhyay to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Viraj Upadhyay to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "Rajveer Patel to Heel patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "4",
+          "commentaryText": "Rajveer Patel to Heel patel, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Heel patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Rajveer Patel to Heel patel, no run",
+          "wicket": null
+        }
+      ]
+    },
+    {
+      "inningName": "Navsari District U-14",
+      "balls": [
+        {
+          "ballNumber": "2",
+          "ballStat": "W",
+          "commentaryText": "ronak sardar to Viraj Upadhyay, OUT BowledViraj Upadhyay b ronak sardar (1r 4b 0x4s 0x6s SR: 25.00)",
+          "wicket": "ronak sardar to Viraj Upadhyay, OUT Bowled"
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "ronak sardar to Viraj Upadhyay, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to HARISH HABIB SHAIKH, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "W",
+          "commentaryText": "Kush Patel to Rajveer Patel, OUT Caught out, Caught at Mid-off by DHRUV D RAVANIRajveer Patel c DHRUV D RAVANI b Kush Patel (9r 13b 1x4s 0x6s SR: 69.23)",
+          "wicket": "Kush Patel to Rajveer Patel, OUT Caught out, Caught at Mid-off by DHRUV D RAVANI"
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "1",
+          "commentaryText": "Kush Patel to Viraj Upadhyay, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Viraj Upadhyay, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "1",
+          "commentaryText": "Kush Patel to Rajveer Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Rajveer Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "W",
+          "commentaryText": "ronak sardar to Yash N Rajput, OUT Caught out, Caught at Mid-off by A Rahman KaroliyaYash N Rajput c A Rahman Karoliya b ronak sardar (8r 19b 0x4s 0x6s SR: 42.11)",
+          "wicket": "ronak sardar to Yash N Rajput, OUT Caught out, Caught at Mid-off by A Rahman Karoliya"
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "ronak sardar to Yash N Rajput, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "ronak sardar to Yash N Rajput, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "ronak sardar to Rajveer Patel, 1 run,\n# Dropped by A Rahman Karoliya",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "1",
+          "commentaryText": "ronak sardar to Yash N Rajput, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "B",
+          "commentaryText": "ronak sardar to Rajveer Patel, bye, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "Kush Patel to Rajveer Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "1",
+          "commentaryText": "Kush Patel to Yash N Rajput, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Yash N Rajput, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Yash N Rajput, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "1",
+          "commentaryText": "Kush Patel to Rajveer Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Rajveer Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "Heer Patel to Rajveer Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Rajveer Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Rajveer Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Rajveer Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "4",
+          "commentaryText": "Heer Patel to Rajveer Patel, FOUR,  to Deep mid wicket",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "Heer Patel to Yash N Rajput, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "W",
+          "commentaryText": "Kush Patel to PRANAV YADAV, OUT Run out by sub, Throw from Backward Point by Tirth PatelPRANAV YADAV run out (sub) Tirth Patel / † Heel patel (1r 12b 0x4s 0x6s SR: 8.33)",
+          "wicket": "Kush Patel to PRANAV YADAV, OUT Run out by sub, Throw from Backward Point by Tirth Patel"
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "1",
+          "commentaryText": "Kush Patel to Yash N Rajput, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "1",
+          "commentaryText": "Kush Patel to PRANAV YADAV, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to PRANAV YADAV, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to PRANAV YADAV, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "Kush Patel to Yash N Rajput, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to PRANAV YADAV, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to PRANAV YADAV, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to PRANAV YADAV, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to PRANAV YADAV, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to PRANAV YADAV, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "Heer Patel to Yash N Rajput, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to PRANAV YADAV, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to PRANAV YADAV, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to PRANAV YADAV, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "W",
+          "commentaryText": "Kush Patel to Ayansh Shah, OUT Caught out, Caught at Short third man by Heer PatelAyansh Shah c Heer Patel b Kush Patel (0r 1b 0x4s 0x6s SR: 0.00)",
+          "wicket": "Kush Patel to Ayansh Shah, OUT Caught out, Caught at Short third man by Heer Patel"
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "W",
+          "commentaryText": "Kush Patel to Balkisan Kumawat, OUT Caught and bowled, Caught at Short mid on by Kush PatelBalkisan Kumawat c&b Kush Patel (5r 22b 0x4s 0x6s SR: 22.73)",
+          "wicket": "Kush Patel to Balkisan Kumawat, OUT Caught and bowled, Caught at Short mid on by Kush Patel"
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Balkisan Kumawat, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Yash N Rajput, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Yash N Rajput, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Yash N Rajput, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "Heer Patel to Balkisan Kumawat, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Balkisan Kumawat, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "Heer Patel to Yash N Rajput, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Balkisan Kumawat, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Balkisan Kumawat, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Balkisan Kumawat, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "DHRUV D RAVANI to Yash N Rajput, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Yash N Rajput, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "DHRUV D RAVANI to Balkisan Kumawat, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "Heer Patel to Balkisan Kumawat, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Balkisan Kumawat, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Balkisan Kumawat, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Balkisan Kumawat, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Balkisan Kumawat, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Balkisan Kumawat, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Yash N Rajput, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Yash N Rajput, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "1",
+          "commentaryText": "DHRUV D RAVANI to Balkisan Kumawat, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Balkisan Kumawat, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Balkisan Kumawat, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Balkisan Kumawat, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "W",
+          "commentaryText": "ronak sardar to Balkisan Kumawat, OUT Run out, Throw from Extra cover by Manan PatelDax D Patel run out Manan Patel / † Heel patel (64r 113b 11x4s 0x6s SR: 56.64)",
+          "wicket": "ronak sardar to Balkisan Kumawat, OUT Run out, Throw from Extra cover by Manan Patel"
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "B",
+          "commentaryText": "ronak sardar to Dax D Patel, bye, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "4",
+          "commentaryText": "ronak sardar to Dax D Patel, FOUR,  to Third man",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "ronak sardar to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "1",
+          "commentaryText": "ronak sardar to Balkisan Kumawat, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "B",
+          "commentaryText": "ronak sardar to Dax D Patel, bye, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Balkisan Kumawat, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Balkisan Kumawat, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "W",
+          "commentaryText": "DHRUV D RAVANI to Aadikumaar H. SHAH, OUT LBWAadikumaar H. SHAH lbw b DHRUV D RAVANI (7r 15b 1x4s 0x6s SR: 46.67)",
+          "wicket": "DHRUV D RAVANI to Aadikumaar H. SHAH, OUT LBW"
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Aadikumaar H. SHAH, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Aadikumaar H. SHAH, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Aadikumaar H. SHAH, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "Mithil Patel to Aadikumaar H. SHAH, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "1",
+          "commentaryText": "Mithil Patel to Dax D Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "Mithil Patel to Aadikumaar H. SHAH, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "4",
+          "commentaryText": "Mithil Patel to Aadikumaar H. SHAH, FOUR,  to Deep cover",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "Mithil Patel to Dax D Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "Mithil Patel to Dax D Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "1",
+          "commentaryText": "Mithil Patel to Aadikumaar H. SHAH, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Aadikumaar H. SHAH, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Aadikumaar H. SHAH, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Aadikumaar H. SHAH, bye, 4 runs",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Aadikumaar H. SHAH, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "4",
+          "commentaryText": "Manan Patel to Dax D Patel, FOUR,  to Deep backward point",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "4",
+          "commentaryText": "Manan Patel to Dax D Patel, FOUR,  to Deep point",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "2",
+          "commentaryText": "Manan Patel to Dax D Patel, 2 runs",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Aadikumaar H. SHAH, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Aadikumaar H. SHAH, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Aadikumaar H. SHAH, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "W",
+          "commentaryText": "Mithil Patel to Marvin Patel, OUT Caught and bowled, Caught at Short mid on by Mithil PatelMarvin Patel c&b Mithil Patel (35r 60b 6x4s 0x6s SR: 58.33)",
+          "wicket": "Mithil Patel to Marvin Patel, OUT Caught and bowled, Caught at Short mid on by Mithil Patel"
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "1",
+          "commentaryText": "Mithil Patel to Dax D Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "1",
+          "commentaryText": "Manan Patel to Dax D Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "Manan Patel to Marvin Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "1",
+          "commentaryText": "Manan Patel to Dax D Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "Mithil Patel to Dax D Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "Manan Patel to Dax D Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "1",
+          "commentaryText": "Manan Patel to Marvin Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "Manan Patel to Dax D Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "Manan Patel to Marvin Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "Manan Patel to Dax D Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "Manan Patel to Marvin Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "B",
+          "commentaryText": "Mithil Patel to Marvin Patel, bye, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "4",
+          "commentaryText": "Mithil Patel to Marvin Patel, FOUR,  to Deep cover",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "B",
+          "commentaryText": "Mithil Patel to Dax D Patel, bye, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "4",
+          "commentaryText": "Manan Patel to Marvin Patel, FOUR,  to Third man",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "1",
+          "commentaryText": "Manan Patel to Dax D Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "Manan Patel to Marvin Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "4",
+          "commentaryText": "Kush Patel to Dax D Patel, FOUR,  to Deep cover",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "1",
+          "commentaryText": "Kush Patel to Marvin Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "1",
+          "commentaryText": "Kush Patel to Dax D Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "1",
+          "commentaryText": "Manan Patel to Dax D Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Manan Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "Kush Patel to Dax D Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "4",
+          "commentaryText": "Kush Patel to Dax D Patel, FOUR,  to Deep backward square leg",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "1",
+          "commentaryText": "Kush Patel to Marvin Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "4",
+          "commentaryText": "Kush Patel to Marvin Patel, FOUR,  to Deep mid wicket",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "4",
+          "commentaryText": "Heer Patel to Dax D Patel, FOUR,  to Deep backward square leg",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "1",
+          "commentaryText": "Heer Patel to Marvin Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "4",
+          "commentaryText": "Kush Patel to Dax D Patel, FOUR,  to Deep extra cover",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Kush Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "4",
+          "commentaryText": "Dhrumil patel to Marvin Patel, FOUR,  to Deep mid wicket",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Dhrumil patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Dhrumil patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Dhrumil patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Dhrumil patel to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Dhrumil patel to Marvin Patel, bye, 4 runs",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "1",
+          "commentaryText": "Heer Patel to Marvin Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "Heer Patel to Dax D Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Heer Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "ronak sardar to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "4",
+          "commentaryText": "ronak sardar to Marvin Patel, FOUR,  to Straight long-off",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "ronak sardar to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "ronak sardar to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "B",
+          "commentaryText": "ronak sardar to Dax D Patel, bye, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "ronak sardar to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "WD",
+          "commentaryText": "DHRUV D RAVANI to Marvin Patel, wide",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "4",
+          "commentaryText": "DHRUV D RAVANI to Marvin Patel, FOUR,  to Deep cover point",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "ronak sardar to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "ronak sardar to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "ronak sardar to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "4",
+          "commentaryText": "ronak sardar to Dax D Patel, FOUR,  to Deep cover",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "1",
+          "commentaryText": "ronak sardar to Marvin Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "ronak sardar to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "4",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, FOUR,  to Deep backward point",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "DHRUV D RAVANI to Marvin Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Marvin Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "W",
+          "commentaryText": "DHRUV D RAVANI to Het Naik, OUT Caught behind, Caught Behind by Heel patelHet Naik c †Heel patel b DHRUV D RAVANI (7r 18b 1x4s 0x6s SR: 38.89)",
+          "wicket": "DHRUV D RAVANI to Het Naik, OUT Caught behind, Caught Behind by Heel patel"
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "1",
+          "commentaryText": "ronak sardar to Het Naik, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "ronak sardar to Het Naik, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "ronak sardar to Het Naik, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "1",
+          "commentaryText": "ronak sardar to Dax D Patel, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "ronak sardar to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "ronak sardar to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Het Naik, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Het Naik, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Het Naik, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Het Naik, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Het Naik, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Het Naik, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "1",
+          "commentaryText": "Mithil Patel to Het Naik, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Het Naik, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Het Naik, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "4",
+          "commentaryText": "Mithil Patel to Het Naik, FOUR,  to Deep backward square leg",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Het Naik, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, no run, Defence to Cover",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, no run, Defence to Short mid-wicket",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Het Naik, no run, Defence to Mid wicket",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "1",
+          "commentaryText": "Mithil Patel to Dax D Patel, 1 run, Leg Glance to Fine leg",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "4",
+          "commentaryText": "Mithil Patel to Dax D Patel, FOUR, Late Cut to Third man",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Dax D Patel, no run,  to Wicket keeper",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "1",
+          "commentaryText": "Mithil Patel to Het Naik, 1 run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "Mithil Patel to Het Naik, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "6",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "5",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "4",
+          "ballStat": "4",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, FOUR",
+          "wicket": null
+        },
+        {
+          "ballNumber": "3",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "2",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, no run",
+          "wicket": null
+        },
+        {
+          "ballNumber": "1",
+          "ballStat": "0",
+          "commentaryText": "DHRUV D RAVANI to Dax D Patel, no run",
+          "wicket": null
+        }
+      ]
+    }
+  ]
 }

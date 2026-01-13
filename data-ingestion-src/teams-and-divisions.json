@@ -1,16 +1,9 @@
 {
-  "Group A (League Matches)": [
-    "Baroda U-16 A",
-    "Vidarbha U-16",
-    "Gujarat U-16",
-    "Tamil Nadu U-16",
-    "Assam U-16"
-  ],
-  "Group B (League Matches)": [
-    "Mumbai U-16",
-    "Baroda U-16 B",
-    "Punjab U-16",
-    "Saurashtra U-16",
-    "Chhatisgarh U-16"
+  "League Matches (League Matches)": [
+    "Mehsana District U-14",
+    "Billimora District U-14",
+    "Navsari District U-14",
+    "Patan District U-14",
+    "Dabhoi District U-14"
   ]
 }
